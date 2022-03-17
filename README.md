@@ -7,7 +7,7 @@ Hi there! My name is Vinícius Kappke as you may have seen... I am a Software De
 You probably can't see much by my repos, but I've been working with Python for about three years, working with Java at my job and currently learning ReactJS and Typescript. 
 
 ## Get in touch!
-- [![](res/twitter.svg) Twitter](http://twitter.com/yts0l) 
-- [![](res/instagram.svg) Instagram](http://instagram.com/vini.kkkkappke) 
-- [![](res/linkedin.svg) Linkedin](https://www.linkedin.com/in/vinicius-kappke-837682232) 
+- [![](res/twitter.svg =16x16) Twitter](http://twitter.com/yts0l) 
+- [![](res/instagram.svg =16x16) Instagram](http://instagram.com/vini.kkkkappke) 
+- [![](res/linkedin.svg =16x16) Linkedin](https://www.linkedin.com/in/vinicius-kappke-837682232) 
 - [~~Personal Website~~](http://kappke.tech/) In progress!
