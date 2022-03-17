@@ -10,7 +10,7 @@ You probably can't see much by my repos, but I've been working with Python for a
 
 ## Get in touch!
 - [<img src="res/twitter.svg" width="16px" height="16px"> Twitter](http://twitter.com/yts0l) 
-- [<img src="res/instagram.svg" width="16px" height="16px"> Instagram](http://instagram.com/vini.kkkkappke) 
+- [<img src="res/instagram.svg" width="16px" height="16px"> Instagram](http://instagram.com/vini.kkkappke) 
 - [<img src="res/linkedin.svg" width="16px" height="16px"> Linkedin](https://www.linkedin.com/in/vinicius-kappke-837682232) 
 - [<img src="res/gmail.svg" width="16px" height="16px"> Mail](mailto:vinicius@kappke.tech)
 - [~~Personal Website~~](http://kappke.tech/) In progress!
