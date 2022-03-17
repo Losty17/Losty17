@@ -9,8 +9,8 @@ Hi there! My name is Vinícius Kappke as you may have seen... I am a Software De
 You probably can't see much by my repos, but I've been working with Python for about three years, working with Java at my job and currently learning ReactJS and Typescript. 
 
 ## Get in touch!
-- [<img src="res/twitter.svg" width="16px" height="16px"> Twitter](http://twitter.com/yts0l) 
-- [<img src="res/instagram.svg" width="16px" height="16px"> Instagram](http://instagram.com/vini.kkkappke) 
-- [<img src="res/linkedin.svg" width="16px" height="16px"> Linkedin](https://www.linkedin.com/in/vinicius-kappke-837682232) 
-- [<img src="res/gmail.svg" width="16px" height="16px"> Mail](mailto:vinicius@kappke.tech)
-- [~~Personal Website~~](http://kappke.tech/) In progress!
+- <a href="http://twitter.com/yts0l" target="_blank"><img src="res/twitter.svg" width="16px" height="16px"> Twitter</a> 
+- <a href="http://instagram.com/vini.kkkappke" target="_blank"><img src="res/instagram.svg" width="16px" height="16px" target="_blank"> Instagram</a>
+- <a href="https://www.linkedin.com/in/vinicius-kappke-837682232" target="_blank"><img src="res/linkedin.svg" width="16px" height="16px"> Linkedin</a> 
+- <a href="mailto:vinicius@kappke.tech" target="_blank"><img src="res/gmail.svg" width="16px" height="16px"> Mail</a>
+- <a href="http://kappke.tech/" target="_blank">~~Personal Website~~</a> In progress!
