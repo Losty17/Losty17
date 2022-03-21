@@ -8,6 +8,8 @@ Hi there! My name is Vinícius Kappke as you may have seen... I am a Software De
 ## Skills
 You probably can't see much by my repos, but I've been working with Python for about three years, working with Java at my job and currently learning ReactJS and Typescript. 
 
+I can work with SCRUM and Kanban; GIT and SVN; Basic SQL operations.
+
 ## Get in touch!
 - <a href="http://twitter.com/yts0l" target="_blank"><img src="res/twitter.svg" width="16px" height="16px"> Twitter</a> 
 - <a href="http://instagram.com/vini.kkkappke" target="_blank"><img src="res/instagram.svg" width="16px" height="16px" target="_blank"> Instagram</a>
