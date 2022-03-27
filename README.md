@@ -16,16 +16,16 @@
 <h1 align="center"><li style="list-style: url('res/kyubey.gif')">My favorite repos</li></h1>
 <div style="width: 100%; margin: 20px auto; text-align: center; display: grid; grid-template-columns: auto auto;">
     <a href="https://github.com/Losty17/Raphi">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=losty17&repo=raphi&theme=radical" alt="Losty17/Raphi" width="98%">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=losty17&repo=raphi&theme=radical" alt="Losty17/Raphi" width="50%">
     </a>
     <a href="https://github.com/Losty17/Raphi">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=losty17&repo=raphi&theme=radical" alt="Losty17/Raphi" width="98%">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=losty17&repo=raphi&theme=radical" alt="Losty17/Raphi" width="50%">
     </a>
     <a href="https://github.com/Losty17/Raphi">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=losty17&repo=raphi&theme=radical" alt="Losty17/Raphi" width="98%">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=losty17&repo=raphi&theme=radical" alt="Losty17/Raphi" width="50%">
     </a>
     <a href="https://github.com/Losty17/Raphi">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=losty17&repo=raphi&theme=radical" alt="Losty17/Raphi" width="98%">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=losty17&repo=raphi&theme=radical" alt="Losty17/Raphi" width="50%">
     </a>
 </div>
 <br>
