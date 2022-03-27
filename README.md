@@ -1,18 +1,47 @@
-<link rel="stylesheet" href="style.css">
 
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9bd57427-9fb3-4f1d-b978-01633fbce702/dda1nhl-a794ad76-0319-47f4-b98d-64e86729c071.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzliZDU3NDI3LTlmYjMtNGYxZC1iOTc4LTAxNjMzZmJjZTcwMlwvZGRhMW5obC1hNzk0YWQ3Ni0wMzE5LTQ3ZjQtYjk4ZC02NGU4NjcyOWMwNzEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0._dF209esfdjDRcm7RDEMU8IlEUD2USn9gSn2MMyuihg" href="#" alt="cape" width="100%">
-
-## About me
-Hi there! My name is Vinícius Kappke as you may have seen... I am a Software Developer at Interact Solutions, located on Rio Grande do Sul, Brazil, and currently pursuing a bachelor's degree in computer science at University of Santa Cruz do Sul.
-
-## Skills
-You probably can't see much by my repos, but I've been working with Python for about three years, working with Java at my job and currently learning ReactJS and Typescript. 
-
-I can work with SCRUM and Kanban; GIT and SVN; Basic SQL operations.
-
-## Get in touch!
-- <a href="http://twitter.com/yts0l" target="_blank"><img src="res/twitter.svg" width="16px" height="16px"> Twitter</a> 
-- <a href="http://instagram.com/vini.kkkappke" target="_blank"><img src="res/instagram.svg" width="16px" height="16px" target="_blank"> Instagram</a>
-- <a href="https://www.linkedin.com/in/vinicius-kappke-837682232" target="_blank"><img src="res/linkedin.svg" width="16px" height="16px"> Linkedin</a> 
-- <a href="mailto:vinicius@kappke.tech" target="_blank"><img src="res/gmail.svg" width="16px" height="16px"> Mail</a>
-- <a href="http://kappke.tech/" target="_blank">~~Personal Website~~</a> In progress!
+<h1 align="center"><li style="list-style: url('res/kyubey.gif')">About me</li></h1>
+<br>
+<div style="display: flex; height: 130px;">
+  <img src="res/hameru.png" height="130px">
+  <ul style="list-style: none">
+    <li><strong>Name:</strong> Vinícius Kappke;</li>
+    <li><strong>From:</strong> Brazil;</li>
+    <li><strong>Age:</strong> 17 yo;</li>
+    <li><strong>Hobbies:</strong> Coding, gaming and animes;</li>
+    <li><strong>Skills:</strong> Python, Javascript, Java, GIT, SVN, Scrum & Kanban;</li>
+    <li><strong>Working @:</strong> Interact Solutions & kappke.tech</li>
+  </ul>
+</div>
+<br><br>
+<h1 align="center"><li style="list-style: url('res/kyubey.gif')">My favorite repos</li></h1>
+<div style="width: 100%; margin: 20px auto; text-align: center; display: grid; grid-template-columns: auto auto;">
+    <a href="https://github.com/Losty17/Raphi">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=losty17&repo=raphi&theme=radical" alt="Losty17/Raphi" width="98%">
+    </a>
+    <a href="https://github.com/Losty17/Raphi">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=losty17&repo=raphi&theme=radical" alt="Losty17/Raphi" width="98%">
+    </a>
+    <a href="https://github.com/Losty17/Raphi">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=losty17&repo=raphi&theme=radical" alt="Losty17/Raphi" width="98%">
+    </a>
+    <a href="https://github.com/Losty17/Raphi">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=losty17&repo=raphi&theme=radical" alt="Losty17/Raphi" width="98%">
+    </a>
+</div>
+<br>
+<h1 align="center"><li style="list-style: url('res/kyubey.gif')">Some stats</li></h1>
+<div align=center>
+  <a href="https://github.com/Losty17/Losty17">
+    <img src="https://github-readme-stats.vercel.app/api?username=losty17&hide=prs,contribs&count_private=true&show_icons=true&theme=radical" alt="Losty's GitHub status" width="70%">
+  </a>
+</div>
+<div align=center>
+  <a href="https://github.com/losty17/losty17">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=losty17&layout=compact&theme=radical" width="55%" alt="Top Languages for Losty17" style="margin: 0 auto;">
+  </a>
+</div>
+<!-- 
+<div style="width: 100%; margin: 20px auto; text-align: center; display: grid; grid-template-columns: auto auto;">
+  <a href="https://github.com/losty17/losty17">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@losty17&theme=radical" height="" alt="wakatime stats for Losty17">
+  </a> -->
