@@ -1,7 +1,7 @@
 
 <h2><li style="list-style: url('res/kyubey.gif')">About me</li></h1>
 
-<img src="res/hameru.png" align="left" height="170px">
+<img src="res/hameru.png" align="left" height="150px">
 <ul style="list-style: none;" align="left">
     <li><strong>Name:</strong> Vinícius Kappke;</li>
     <li><strong>From:</strong> Brazil;</li>
