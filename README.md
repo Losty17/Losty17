@@ -1,7 +1,7 @@
 
 <h2><li style="list-style: url('res/kyubey.gif')">About me</li></h1>
 
-<img src="res/hameru.png" align="left" height="150px">
+<img src="res/hameru.png" align="right" height="150px">
 <ul style="list-style: none;" align="left">
     <li><strong>Name:</strong> Vinícius Kappke;</li>
     <li><strong>From:</strong> Brazil;</li>
@@ -10,6 +10,7 @@
     <li><strong>Skills:</strong> Python, Javascript, Java, GIT, SVN, Scrum & Kanban;</li>
     <li><strong>Working @:</strong> Interact Solutions & kappke.tech</li>
 </ul>
+
 <h2><li style="list-style: url('res/kyubey.gif')">My favorite repos</li></h2>
 
 ![repository](https://github-readme-stats.vercel.app/api/pin/?username=losty17&repo=raphi&theme=radical "title-1") ![repository](https://github-readme-stats.vercel.app/api/pin/?username=losty17&repo=raphi&theme=radical "title-2")
