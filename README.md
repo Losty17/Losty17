@@ -1,5 +1,5 @@
 
-<h2><li style="list-style: url('res/kyubey.gif')">About me</li></h1>
+<h2><img src="res/kyubey.gif"> About me</h1>
 
 <img src="res/hameru.png" align="right" height="150px">
 <ul style="list-style: none;" align="left">
@@ -11,12 +11,12 @@
     <li><strong>Working @:</strong> Interact Solutions & kappke.tech</li>
 </ul>
 
-<h2><li style="list-style: url('res/kyubey.gif')">My favorite repos</li></h2>
+<h2><img src="res/kyubey.gif"> My favorite repos</h2>
 
 ![repository](https://github-readme-stats.vercel.app/api/pin/?username=losty17&repo=raphi&theme=radical "title-1") ![repository](https://github-readme-stats.vercel.app/api/pin/?username=losty17&repo=raphi&theme=radical "title-2")
 ![repository](https://github-readme-stats.vercel.app/api/pin/?username=losty17&repo=raphi&theme=radical "title-1") ![repository](https://github-readme-stats.vercel.app/api/pin/?username=losty17&repo=raphi&theme=radical "title-2")
 <br>
-<h2><li style="list-style: url('res/kyubey.gif')">Some stats</li></h2>
+<h2><img src="res/kyubey.gif"> Some stats</h2>
 
 ![Stats for Losty](https://github-readme-stats.vercel.app/api?username=losty17&hide=prs,contribs&count_private=true&show_icons=true&theme=radical "title-2") ![Most used languages for Losty](https://github-readme-stats.vercel.app/api/top-langs/?username=losty17&layout=compact&theme=radical "title-2")
 
