@@ -13,8 +13,9 @@
 
 <h2><img src="res/kyubey.gif"> My favorite repos</h2>
 
-![repository](https://github-readme-stats.vercel.app/api/pin/?username=losty17&repo=raphi&theme=radical "title-1") ![repository](https://github-readme-stats.vercel.app/api/pin/?username=losty17&repo=raphi&theme=radical "title-2")
-![repository](https://github-readme-stats.vercel.app/api/pin/?username=losty17&repo=raphi&theme=radical "title-1") ![repository](https://github-readme-stats.vercel.app/api/pin/?username=losty17&repo=raphi&theme=radical "title-2")
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=losty17&repo=raphi&theme=radical"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=losty17&repo=raphi&theme=radical"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=losty17&repo=losty17&theme=radical"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=losty17&repo=raphi&theme=radical">
+</p>
 <br>
 <h2><img src="res/kyubey.gif"> Some stats</h2>
 
