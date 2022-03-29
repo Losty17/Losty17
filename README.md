@@ -18,9 +18,10 @@
 <br>
 <h2><img src="res/kyubey.gif"> Some stats</h2>
 
-![Stats for Losty](https://github-readme-stats.vercel.app/api?username=losty17&hide=prs,contribs&count_private=true&show_icons=true&theme=radical "title-2") ![Most used languages for Losty](https://github-readme-stats.vercel.app/api/top-langs/?username=losty17&layout=compact&theme=radical "title-2")
+<p align="center">
+    <a href="https://github.com/losty17"><img src="https://github-readme-stats.vercel.app/api?username=losty17&hide=contribs&count_private=true&show_icons=true&theme=radical" height="80%" alt="wakatime stats for Losty17"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=losty17&layout=compact&theme=radical" height="100%" alt="wakatime stats for Losty17"></a>
+</p>
 
-<div style="width: 100%; margin: 20px auto; text-align: center; display: grid; grid-template-columns: auto auto;">
-  <a href="https://github.com/losty17/losty17">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@losty17&theme=radical" height="" alt="wakatime stats for Losty17">
-</a>
+<p align="center">
+    <a href="https://github.com/losty17"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@losty17&theme=radical" width="50%" alt="wakatime stats for Losty17"></a>
+</p>
