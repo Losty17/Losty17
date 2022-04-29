@@ -8,7 +8,7 @@
     <li><strong>Skills:</strong> <em>Python</em>, Typescript, Java, MySQL, MongoDB, GIT, SVN & Scrum;</li>
     <li><strong>Frameworks:</strong> Flask, Django, React, MUI & Express;</li>
     <li><strong>Working at:</strong> Interact Solutions;</li>
-    <li><strong>Ask me about:</strong> Coding, gaming and animes;</li>
+    <li><strong>Ask me about:</strong> Coding, gaming, manga & anime;</li>
 </ul>
 <h2 style="font-size: 0; margin-top: 5px;"></h2>
 
