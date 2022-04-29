@@ -1,7 +1,7 @@
 <h2><img src="res/kyubey.gif"> About me</h1>
 
 <ul style="list-style: none;" align="left">
-    <img src="res/hameru.png" align="right" height="205px">
+    <img src="res/hameru.png" align="right" height="200px">
     <li><strong>Name:</strong> Vinícius Kappke;</li>
     <li><strong>From:</strong> Brazil;</li>
     <li><strong>Age:</strong> 17 yo;</li>
