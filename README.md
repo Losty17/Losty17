@@ -1,4 +1,3 @@
-
 <h2><img src="res/kyubey.gif"> About me</h1>
 
 <img src="res/hameru.png" align="right" height="150px">
@@ -6,20 +5,22 @@
     <li><strong>Name:</strong> Vinícius Kappke;</li>
     <li><strong>From:</strong> Brazil;</li>
     <li><strong>Age:</strong> 17 yo;</li>
-    <li><strong>Hobbies:</strong> Coding, gaming and animes;</li>
-    <li><strong>Skills:</strong> Python, Javascript, Java, GIT, SVN, Scrum & Kanban;</li>
-    <li><strong>Working @:</strong> Interact Solutions & kappke.tech</li>
+    <li><strong>Skills:</strong> <em>Python</em>, Typescript, Java, MySQL, MongoDB, GIT, SVN & Scrum;</li>
+    <li><strong>Frameworks:</strong> Flask, Django, React, MUI & Express;</li>
+    <li><strong>Working at:</strong> Interact Solutions;</li>
+    <li><strong>Ask me about:</strong> Coding, gaming and animes;</li>
 </ul>
+<h2 style="font-size: 0; margin-top: 5px;"></h2>
 
-<h2><img src="res/kyubey.gif"> My favorite repos</h2>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=losty17&repo=raphi&theme=radical"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=losty17&repo=raphi&theme=radical"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=losty17&repo=losty17&theme=radical"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=losty17&repo=raphi&theme=radical">
-</p>
-<br>
-<h2><img src="res/kyubey.gif"> Some stats</h2>
-
-<p align="center">
-    <a href="https://github.com/losty17"><img src="https://github-readme-stats.vercel.app/api?username=losty17&count_private=true&show_icons=true&theme=radical" height="100%" alt="wakatime stats for Losty17"></a>
-    <a href="https://github.com/losty17"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@losty17&theme=radical" width="50%" alt="wakatime stats for Losty17"></a>
-</p>
+<table align="center">
+    <tr>
+        <th colspan="5">Social media</th>
+    </tr>
+    <tr>
+        <td><a href="https://www.twitter.com/yts0l">Twitter</a></td>
+        <td><a href="https://www.instagram.com/vini.kkkappke/">Instagram</a></td>
+        <td><a href="https://www.linkedin.com/in/viniciuskappke/">Linkedin</a></td>
+        <td><a href="mailto:vinicius@kappke.tech">Mail</a></td>
+        <td><a href="https://kappke.tech/">Website</a></td>
+    </tr>
+</table>
