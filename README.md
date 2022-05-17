@@ -1,6 +1,6 @@
-<h2><img src="res/kyubey.gif"> About me</h1>
+<h2><img src="res/kyubey.gif"> About me</h2>
 
-<ul style="list-style: none;" align="left">
+<ul align="left">
     <img src="res/hameru.png" align="right" height="180px">
     <li><strong>Name:</strong> Vinícius Kappke;</li>
     <li><strong>From:</strong> Brazil;</li>
