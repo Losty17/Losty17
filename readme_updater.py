@@ -20,10 +20,10 @@ class User:
 
 
 class Tweet:
-    def __init__(self, text: str, images: list[str], user: User) -> None:
-        self.text = text
-        self.images = images
-        self.user = user
+    def __init__(self, text_, images_, user_):
+        self.text = text_
+        self.images = images_
+        self.user = user_
 
     def __str__(self) -> str:
         img_str = ''
