@@ -32,11 +32,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @daiIymadoka: this meme is back in commission - [Link](https://twitter.com/daiIymadoka/status/1526748344378433536/photo/1) 
 * aula produtiva - [Link](https://twitter.com/yts0l/status/1526734516550782976/photo/1) 
 * meu script ta funcionando :D
 * eu odeio o @sadpwcca
 * teste - [Link](https://twitter.com/yts0l/status/1526689093329080323/photo/1) 
-* @CEOofBabylon gigachad
 
 <!-- last_tweet ends -->
 </details>
