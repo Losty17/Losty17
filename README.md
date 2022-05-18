@@ -32,13 +32,13 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @mitskiIeaks: - [Link](https://twitter.com/mitskiIeaks/status/1526651508053266432/photo/1) 
 * RT @pedraum_quejero: portugal be like restaurante Tasca Pica Grossa Veiuda 
 
 (significado: boteco do feijão com couve)
 * RT @ssridispenser: u were mean 2 me and now im listening to mitski  i hope ur happy
 * RT @memesiwish: - [Link](https://twitter.com/memesiwish/status/1526551554332889088/photo/1) 
 * RT @daiIymadoka: this meme is back in commission - [Link](https://twitter.com/daiIymadoka/status/1526748344378433536/photo/1) 
-* meu script ta funcionando :D
 
 <!-- last_tweet ends -->
 </details>
