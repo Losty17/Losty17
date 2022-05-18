@@ -32,13 +32,13 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @zroyalgang: I’ve said it once, now I’ll say it again: an animated movie about this mf would slap so hard - [Link](https://twitter.com/zroyalgang/status/1526608202137075713/photo/1) 
 * RT @mitskiIeaks: - [Link](https://twitter.com/mitskiIeaks/status/1526651508053266432/photo/1) 
 * RT @pedraum_quejero: portugal be like restaurante Tasca Pica Grossa Veiuda 
 
 (significado: boteco do feijão com couve)
 * RT @ssridispenser: u were mean 2 me and now im listening to mitski  i hope ur happy
 * RT @memesiwish: - [Link](https://twitter.com/memesiwish/status/1526551554332889088/photo/1) 
-* RT @daiIymadoka: this meme is back in commission - [Link](https://twitter.com/daiIymadoka/status/1526748344378433536/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
