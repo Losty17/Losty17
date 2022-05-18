@@ -39,5 +39,5 @@ jobs:
           git config --global user.email "bot@kappke.tech"
           git config --global user.name "kappke bot"
           git add -A
-          git commit -m "your hourly dose of twitter" || exit 0
+          git commit -m "here's your dose of twitter" || exit 0
           git push
