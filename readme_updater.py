@@ -54,7 +54,7 @@ class Bot:
 
         return self.create_tweet(tweets[0])
 
-    def get_tweets(self) -> list[Tweet]:
+    def get_tweets(self):
         src = self.client.user_timeline(
             user_id=self.user.id, include_rts=True, count='5'
         )
