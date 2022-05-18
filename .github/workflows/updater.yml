@@ -1,0 +1,43 @@
+name: Update Github README
+on:
+  schedule:
+    - cron: '*/60 * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - uses: actions/cache@v2
+        name: Configure pip caching
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+      - name: Install Python dependencies
+        run: |
+          python -m pip install -r requirements.txt
+      - name: Update README
+        env:
+          API_KEY: ${{ secrets.API_KEY }}
+          API_SECRET: ${{ secrets.API_SECRET }}
+          OWNER_ID: ${{ secrets.OWNER_ID }}
+        run: |-
+          python favorites_updater.py
+          python activity_updater.py
+          cat README.md
+      - name: Commit and push if changed
+        run: |-
+          git diff
+          git config --global user.email "bot@kappke.tech"
+          git config --global user.name "kappke bot"
+          git add -A
+          git commit -m "your hourly dose of twitter" || exit 0
+          git push
