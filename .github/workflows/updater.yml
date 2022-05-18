@@ -1,7 +1,8 @@
 name: Update Github README
 on:
   schedule:
-    - cron: '*/60 * * * *'
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -30,8 +31,7 @@ jobs:
           API_SECRET: ${{ secrets.API_SECRET }}
           OWNER_ID: ${{ secrets.OWNER_ID }}
         run: |-
-          python favorites_updater.py
-          python activity_updater.py
+          python readme_updater.py
           cat README.md
       - name: Commit and push if changed
         run: |-

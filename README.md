@@ -32,11 +32,6 @@
     </summary>
 
 <!-- last_tweet starts -->
-* teste denovo - [Link](https://twitter.com/yts0l/status/1526707106539360256/photo/1) 
-* teste - [Link](https://twitter.com/yts0l/status/1526689093329080323/photo/1) 
-* @CEOofBabylon gigachad
-* RT @Thecorsairswife: Crazy how fucking a piece of cloth has more personality than Captain Marvel - [Link](https://twitter.com/Thecorsairswife/status/1525552935777751040/photo/1) 
-* RT @lybrjack: "Sem o Estado quem cuidaria dos mais necessitados?" - [Link](https://twitter.com/lybrjack/status/1525995009169817600/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
