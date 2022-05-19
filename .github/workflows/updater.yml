@@ -1,7 +1,7 @@
 name: Update Github README
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/60 */2 * * *'
   workflow_dispatch:
 
 jobs:
