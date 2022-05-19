@@ -32,11 +32,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @fuckedupmadoka: madoka, you should know that even when you know how much it would of hurt you, you do have the courage to make that har…
 * RT @harusajin: test - [Link](https://twitter.com/harusajin/status/1526987493475815433/photo/1) 
 * @naclr4 que
 * RT @a0ko1: Iain 落書 - [Link](https://twitter.com/a0ko1/status/1526623866914631680/photo/1) 
 * RT @zroyalgang: I’ve said it once, now I’ll say it again: an animated movie about this mf would slap so hard - [Link](https://twitter.com/zroyalgang/status/1526608202137075713/photo/1) 
-* RT @mitskiIeaks: - [Link](https://twitter.com/mitskiIeaks/status/1526651508053266432/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
