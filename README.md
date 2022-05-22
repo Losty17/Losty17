@@ -32,9 +32,9 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @fuckedupmadoka: i was so lonely and sad..but no one could understand how i felt!
 * RT @GreenTextRepost: - [Link](https://twitter.com/GreenTextRepost/status/1528181175264587778/photo/1) 
 * @Jotapekl conseguiu trabalhando com o c#
-* @naclr4 noooo
 
 <!-- last_tweet ends -->
 </details>
