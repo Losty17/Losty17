@@ -32,9 +32,9 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @GreenTextRepost: - [Link](https://twitter.com/GreenTextRepost/status/1528181175264587778/photo/1) 
 * @Jotapekl conseguiu trabalhando com o c#
 * @naclr4 noooo
-* RT @fuckedupmadoka: madoka, you should know that even when you know how much it would of hurt you, you do have the courage to make that har…
 
 <!-- last_tweet ends -->
 </details>
