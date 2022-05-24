@@ -32,6 +32,7 @@
     </summary>
 
 <!-- last_tweet starts -->
+* concordo, aí dava pra diminuir os impostos
 * mfw call of cthulhu normie?
 * RT @fuckedupmadoka: i was so lonely and sad..but no one could understand how i felt!
 * RT @GreenTextRepost: - [Link](https://twitter.com/GreenTextRepost/status/1528181175264587778/photo/1) 
