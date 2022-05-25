@@ -32,13 +32,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* @byluis_c falou tudo
+* RT @byluis_c: O que eles chamam de red flag eu chamo de requisitos pra namorar cmg
+* RT @CEOofBabylon: esse filme vai ser horrível 👍
+* eu tenho outra opinião
 * eu tenho uma opinião
-* RT @grecuzao: A matéria mais difícil da faculdade: 75% de presença
-* @s1lvesterISA eu nunca arrumo a cama
-
-minha mae desistiu de mim
-* concordo, aí dava pra diminuir os impostos
-* mfw call of cthulhu normie?
 
 <!-- last_tweet ends -->
 </details>
