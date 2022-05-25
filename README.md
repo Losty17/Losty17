@@ -32,11 +32,13 @@
     </summary>
 
 <!-- last_tweet starts -->
+* @s1lvesterISA eu nunca arrumo a cama
+
+minha mae desistiu de mim
 * concordo, aí dava pra diminuir os impostos
 * mfw call of cthulhu normie?
 * RT @fuckedupmadoka: i was so lonely and sad..but no one could understand how i felt!
 * RT @GreenTextRepost: - [Link](https://twitter.com/GreenTextRepost/status/1528181175264587778/photo/1) 
-* @Jotapekl conseguiu trabalhando com o c#
 
 <!-- last_tweet ends -->
 </details>
