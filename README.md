@@ -36,7 +36,6 @@
 * RT @byluis_c: O que eles chamam de red flag eu chamo de requisitos pra namorar cmg
 * RT @CEOofBabylon: esse filme vai ser horrível 👍
 * eu tenho outra opinião
-* eu tenho uma opinião
 
 <!-- last_tweet ends -->
 </details>
