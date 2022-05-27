@@ -32,10 +32,10 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @misteor_online: - [Link](https://twitter.com/misteor_online/status/1530011142432563200/photo/1) 
 * @byluis_c falou tudo
 * RT @byluis_c: O que eles chamam de red flag eu chamo de requisitos pra namorar cmg
 * RT @CEOofBabylon: esse filme vai ser horrível 👍
-* eu tenho outra opinião
 
 <!-- last_tweet ends -->
 </details>
