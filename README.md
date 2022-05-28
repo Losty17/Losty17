@@ -32,12 +32,15 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @Steve8708: Mitosis is a project that can compile JSX components to Vue, Svelte, Angular, React Native, + many more
+
+It's useful if you…
+* RT @rodrigoocanal: última revisada p prova de amanhã: sistema respiratório❤️ - [Link](https://twitter.com/rodrigoocanal/status/1529958618229006347/photo/1) 
+* pq eu so assi
+* vou me matar obrigado gente boa noite
 * RT @comunivia: hi shinji from evangelion
 
 hi comunivia from twitter - [Link](https://twitter.com/comunivia/status/1530307245728313346/photo/1) 
-* RT @misteor_online: - [Link](https://twitter.com/misteor_online/status/1530011142432563200/photo/1) 
-* @byluis_c falou tudo
-* RT @byluis_c: O que eles chamam de red flag eu chamo de requisitos pra namorar cmg
 
 <!-- last_tweet ends -->
 </details>
