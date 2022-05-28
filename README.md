@@ -32,10 +32,12 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @comunivia: hi shinji from evangelion
+
+hi comunivia from twitter - [Link](https://twitter.com/comunivia/status/1530307245728313346/photo/1) 
 * RT @misteor_online: - [Link](https://twitter.com/misteor_online/status/1530011142432563200/photo/1) 
 * @byluis_c falou tudo
 * RT @byluis_c: O que eles chamam de red flag eu chamo de requisitos pra namorar cmg
-* RT @CEOofBabylon: esse filme vai ser horrível 👍
 
 <!-- last_tweet ends -->
 </details>
