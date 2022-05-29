@@ -50,13 +50,14 @@
     </summary>
 
 <!-- last_tweet starts -->
+* @daphneblak @leo_bdeo ajudei
+* RT @daphneblak: ⭐️ SORTEIO BATTLE PASS ⭐️
+
+Prêmio: Passe de Batalha - Capitulo 3: Temporada 3. Lançamento previsto dia 05/06! 
+(Se o ganhad…
 * RT @yungbzz: Bot visionário cancelando o Monark
 * RT @TweetsContraHu: Se tu curte maconha você COM CERTEZA é um neonazista
 * RT @beIIefleur_: i'm right here. don't you see me? - [Link](https://twitter.com/beIIefleur_/status/1530568243055828992/photo/1) 
-* RT @Steve8708: Mitosis is a project that can compile JSX components to Vue, Svelte, Angular, React Native, + many more
-
-It's useful if you…
-* RT @rodrigoocanal: última revisada p prova de amanhã: sistema respiratório❤️ - [Link](https://twitter.com/rodrigoocanal/status/1529958618229006347/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
