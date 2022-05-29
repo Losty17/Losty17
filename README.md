@@ -1,4 +1,3 @@
-<br>
 <table align="center">
     <tr>
         <td colspan="10">
@@ -16,7 +15,7 @@
         </td>
     </tr>
 </table>
-<br>
+
 <h2><img src="res/kyubey.gif"> About me</h2>
 
 <ul align="left">
