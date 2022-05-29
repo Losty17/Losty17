@@ -1,3 +1,22 @@
+<br>
+<table align="center">
+    <tr>
+        <td colspan="10">
+            <br>
+            <sup>
+                É claro que a vida é boa, e a alegria, a única indizível emoção<br>
+                É claro que te acho linda, em ti bendigo o amor das coisas simples<br>
+                É claro que te amo, e tenho tudo para ser feliz<br>
+                Mas acontece que estou triste...<br><br>
+                <div align="right">
+                    <sub><em>- Vinícius de Moraes<em></sub>
+                </div>
+            </sup>
+            <br>
+        </td>
+    </tr>
+</table>
+<br>
 <h2><img src="res/kyubey.gif"> About me</h2>
 
 <ul align="left">
