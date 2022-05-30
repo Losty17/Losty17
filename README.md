@@ -50,6 +50,7 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @yummygoth: one persons "shes weird 😐😒🤢" is another persons "shes weird 😳😍😍" always remember that
 * RT @fuckedupmadoka: so this is a witch..my emotions have all come back to haunt me.
 * @daphneblak @leo_bdeo ajudei
 * RT @daphneblak: ⭐️ SORTEIO BATTLE PASS ⭐️
@@ -57,7 +58,6 @@
 Prêmio: Passe de Batalha - Capitulo 3: Temporada 3. Lançamento previsto dia 05/06! 
 (Se o ganhad…
 * RT @yungbzz: Bot visionário cancelando o Monark
-* RT @TweetsContraHu: Se tu curte maconha você COM CERTEZA é um neonazista
 
 <!-- last_tweet ends -->
 </details>
