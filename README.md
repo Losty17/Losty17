@@ -50,6 +50,7 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @fuckedupmadoka: so this is a witch..my emotions have all come back to haunt me.
 * @daphneblak @leo_bdeo ajudei
 * RT @daphneblak: ⭐️ SORTEIO BATTLE PASS ⭐️
 
@@ -57,7 +58,6 @@ Prêmio: Passe de Batalha - Capitulo 3: Temporada 3. Lançamento previsto dia 05
 (Se o ganhad…
 * RT @yungbzz: Bot visionário cancelando o Monark
 * RT @TweetsContraHu: Se tu curte maconha você COM CERTEZA é um neonazista
-* RT @beIIefleur_: i'm right here. don't you see me? - [Link](https://twitter.com/beIIefleur_/status/1530568243055828992/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
