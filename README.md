@@ -50,14 +50,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @jmenissias: muito legal ver isso de manha quando vc sabe que nenhuma mulher do mundo quer se envolver amorosamente com vc
+* @naclr4 a minha tinha :^)
+* RT @fuckedupmadoka: the truth is..i'm from the future. i've met you over and over and every time in every time i've had to watch you die. w…
 * RT @yummygoth: one persons "shes weird 😐😒🤢" is another persons "shes weird 😳😍😍" always remember that
 * RT @fuckedupmadoka: so this is a witch..my emotions have all come back to haunt me.
-* @daphneblak @leo_bdeo ajudei
-* RT @daphneblak: ⭐️ SORTEIO BATTLE PASS ⭐️
-
-Prêmio: Passe de Batalha - Capitulo 3: Temporada 3. Lançamento previsto dia 05/06! 
-(Se o ganhad…
-* RT @yungbzz: Bot visionário cancelando o Monark
 
 <!-- last_tweet ends -->
 </details>
