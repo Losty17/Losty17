@@ -50,15 +50,13 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @lukeisamazing: oh good, tech bros invented the sundial
+* RT @lucasbro777: - [Link](https://twitter.com/lucasbro777/status/1531643229568901122/photo/1) 
+* RT @fuckedupmadoka: i even hurt my best friend..
 * RT @paulorgoncalves: E essa fofoca do dia hein?
 
 Autor de curso pede para aluno remover o código do github que implementou com o que aprend…
 * @gurlwhinis lindo
-* @BorgesEddu Aqui na minha cidade eles contratam quase qualquer um, mesmo sem experiência, desde q esteja estudando…
-* RT @OrwellNGoode: - [Link](https://twitter.com/OrwellNGoode/status/1531324206591377409/photo/1) 
-* não é. 👍
-
-só procurar em cidade pequena, chove vaga.
 
 <!-- last_tweet ends -->
 </details>
