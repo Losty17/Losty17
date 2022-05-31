@@ -50,13 +50,15 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @paulorgoncalves: E essa fofoca do dia hein?
+
+Autor de curso pede para aluno remover o código do github que implementou com o que aprend…
+* @gurlwhinis lindo
+* @BorgesEddu Aqui na minha cidade eles contratam quase qualquer um, mesmo sem experiência, desde q esteja estudando…
 * RT @OrwellNGoode: - [Link](https://twitter.com/OrwellNGoode/status/1531324206591377409/photo/1) 
 * não é. 👍
 
 só procurar em cidade pequena, chove vaga.
-* RT @misteor_online: #まどマギ #暁美ほむら - [Link](https://twitter.com/misteor_online/status/1531468970410516482/photo/1) 
-* @gurlwhinis sei
-* @gurlwhinis apagou pq
 
 <!-- last_tweet ends -->
 </details>
