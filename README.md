@@ -50,11 +50,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @grrrbiel: tenho muito tesão em mina que vê vulto e fala sozinha
-* @gurlwhinis qm e agora
-* @sadpwcca @naclr4 mas a gente usava
-* RT @jmenissias: muito legal ver isso de manha quando vc sabe que nenhuma mulher do mundo quer se envolver amorosamente com vc
-* @naclr4 a minha tinha :^)
+* RT @misteor_online: #まどマギ #暁美ほむら - [Link](https://twitter.com/misteor_online/status/1531468970410516482/photo/1) 
+* @gurlwhinis sei
+* @gurlwhinis apagou pq
+* @gurlwhinis mas eu nao sou ela
+* RT @fuckedupmadoka: in other words..it means im no longer even a magical girl..
 
 <!-- last_tweet ends -->
 </details>
