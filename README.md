@@ -50,13 +50,13 @@
     </summary>
 
 <!-- last_tweet starts -->
+* @Jotapekl 17
 * RT @lukeisamazing: oh good, tech bros invented the sundial
 * RT @lucasbro777: - [Link](https://twitter.com/lucasbro777/status/1531643229568901122/photo/1) 
 * RT @fuckedupmadoka: i even hurt my best friend..
 * RT @paulorgoncalves: E essa fofoca do dia hein?
 
 Autor de curso pede para aluno remover o código do github que implementou com o que aprend…
-* @gurlwhinis lindo
 
 <!-- last_tweet ends -->
 </details>
