@@ -50,13 +50,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @Wise_2D: Se todas as pessoas escolhem aleatoriamente uma opção de duas, é tendência que todos se equilibrem, de acordo com a matemática…
+* RT @tobyfox: I had the honor of composing the field music for Pokémon Scarlet and Violet! After creating a concept sketch, Game Freak arran…
 * @Jotapekl 17
 * RT @lukeisamazing: oh good, tech bros invented the sundial
 * RT @lucasbro777: - [Link](https://twitter.com/lucasbro777/status/1531643229568901122/photo/1) 
-* RT @fuckedupmadoka: i even hurt my best friend..
-* RT @paulorgoncalves: E essa fofoca do dia hein?
-
-Autor de curso pede para aluno remover o código do github que implementou com o que aprend…
 
 <!-- last_tweet ends -->
 </details>
