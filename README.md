@@ -50,11 +50,17 @@
     </summary>
 
 <!-- last_tweet starts -->
+* Autoavaliação HONESTA: quanto vc é de 0 a 10?
+
+inseguro: 1000/10
+vingativo: 0/10
+carinhoso: 10/10
+grosso: 10/10
+sen…
+* RT @i_randommm: elderwood janna wip 👍 - [Link](https://twitter.com/i_randommm/status/1532435292359036929/photo/1) 
 * tomaste a bcg
 * RT @gustavotargino4: Entrei na faculdade achando que seria legal estudar o que eu escolhi, mas depois percebi que nem de estudar eu gosto
 * RT @cartertheepic: Amber Heard will always remember this as the day she almost caught Captain Jack Sparrow.
-* @yungbzz da pra abrir 3 abas do Chrome e o Spotify
-* RT @andreporchatt: - [Link](https://twitter.com/andreporchatt/status/1531605884299792389/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
