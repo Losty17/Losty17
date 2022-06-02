@@ -50,11 +50,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @cartertheepic: Amber Heard will always remember this as the day she almost caught Captain Jack Sparrow.
+* @yungbzz da pra abrir 3 abas do Chrome e o Spotify
 * RT @andreporchatt: - [Link](https://twitter.com/andreporchatt/status/1531605884299792389/photo/1) 
 * @Jotapekl ratio + L + caga e come
 * RT @Wise_2D: Se todas as pessoas escolhem aleatoriamente uma opção de duas, é tendência que todos se equilibrem, de acordo com a matemática…
-* RT @tobyfox: I had the honor of composing the field music for Pokémon Scarlet and Violet! After creating a concept sketch, Game Freak arran…
-* @Jotapekl 17
 
 <!-- last_tweet ends -->
 </details>
