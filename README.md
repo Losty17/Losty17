@@ -50,11 +50,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* tomaste a bcg
 * RT @gustavotargino4: Entrei na faculdade achando que seria legal estudar o que eu escolhi, mas depois percebi que nem de estudar eu gosto
 * RT @cartertheepic: Amber Heard will always remember this as the day she almost caught Captain Jack Sparrow.
 * @yungbzz da pra abrir 3 abas do Chrome e o Spotify
 * RT @andreporchatt: - [Link](https://twitter.com/andreporchatt/status/1531605884299792389/photo/1) 
-* @Jotapekl ratio + L + caga e come
 
 <!-- last_tweet ends -->
 </details>
