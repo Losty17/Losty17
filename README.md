@@ -63,7 +63,6 @@ sen…
 * RT @i_randommm: elderwood janna wip 👍 - [Link](https://twitter.com/i_randommm/status/1532435292359036929/photo/1) 
 * tomaste a bcg
 * RT @gustavotargino4: Entrei na faculdade achando que seria legal estudar o que eu escolhi, mas depois percebi que nem de estudar eu gosto
-* RT @cartertheepic: Amber Heard will always remember this as the day she almost caught Captain Jack Sparrow.
 
 <!-- last_tweet ends -->
 </details>
