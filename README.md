@@ -53,17 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @TheMarvelousMrC: Spider-Man 2099 X Batman Beyond - [Link](https://twitter.com/TheMarvelousMrC/status/1532386092472745984/photo/1) 
 * @s1lvesterISA a esse ponto virou um vício
 * @s1lvesterISA Eu: vou finalmente dormir
 Python: e essa feature aqui, que tal tu implementar desse jeito?
 * @kjam2ouseila @Vektroo eu sou a garota
-* Autoavaliação HONESTA: quanto vc é de 0 a 10?
-
-inseguro: 1000/10
-vingativo: 0/10
-carinhoso: 10/10
-grosso: 10/10
-sen…
 
 <!-- last_tweet ends -->
 </details>
