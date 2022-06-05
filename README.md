@@ -53,13 +53,13 @@
     </summary>
 
 <!-- last_tweet starts -->
+* e como isso afeta o grêmio
+* RT @AriCarnielli: Então, é brega mas:
+
+Foi o Python que me deu 😉 - [Link](https://twitter.com/AriCarnielli/status/1532827499121586177/photo/1) 
+* eu
 * RT @strngmovierevie: - [Link](https://twitter.com/strngmovierevie/status/1533030220936187905/photo/1) 
 * @naclr4 all two of us madoka fans got offended
-* @RealBenjizo python supremacy
-* RT @RealBenjizo: FREE copies of this Python book. Just like, retweet,comment and DM if you need a copy now.
-
-#Python #100DaysOfCode #DataSc…
-* @s1lvesterISA @h8evry1trustno1 @ame_pistache podia ter lançado antes de eu começar a trabalhar
 
 <!-- last_tweet ends -->
 </details>
