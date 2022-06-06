@@ -53,13 +53,13 @@
     </summary>
 
 <!-- last_tweet starts -->
+* @sadpwcca foi
 * meu deus instalar o arch linux eh uma aventura
 * e como isso afeta o grêmio
 * RT @AriCarnielli: Então, é brega mas:
 
 Foi o Python que me deu 😉 - [Link](https://twitter.com/AriCarnielli/status/1532827499121586177/photo/1) 
 * eu
-* RT @strngmovierevie: - [Link](https://twitter.com/strngmovierevie/status/1533030220936187905/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
