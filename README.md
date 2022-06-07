@@ -53,13 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* @gurlwhinis bocao
 * RT @ratosentado: Acho que devo ser o unico homem que ouve mitski, melanie martinez, lana del rei, taylor swift, the cure, tyler the creator…
 * @sadpwcca foi
 * meu deus instalar o arch linux eh uma aventura
 * e como isso afeta o grêmio
-* RT @AriCarnielli: Então, é brega mas:
-
-Foi o Python que me deu 😉 - [Link](https://twitter.com/AriCarnielli/status/1532827499121586177/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
