@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @GregoryMcFadden: Apple just invented debt. - [Link](https://twitter.com/GregoryMcFadden/status/1533861911837679616/photo/1) 
+* RT @itsnotquiche: pussy from a girl with a deeply concerning digital footprint
+* RT @MEMESRMP4: Goku cristão - [Link](https://twitter.com/MEMESRMP4/status/1533940639620112390/photo/1) 
 * @gurlwhinis bocao
 * RT @ratosentado: Acho que devo ser o unico homem que ouve mitski, melanie martinez, lana del rei, taylor swift, the cure, tyler the creator…
-* @sadpwcca foi
-* meu deus instalar o arch linux eh uma aventura
-* e como isso afeta o grêmio
 
 <!-- last_tweet ends -->
 </details>
