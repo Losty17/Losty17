@@ -53,13 +53,19 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @SpeedrunsSinTV: osu! Supporter Giveaway #9
+
+Three; 1-Year osu supporter! tags :)
+
+Rules:
+-Leave a Comment with your osu! username
+-Retw…
+* @SpeedrunsSinTV Yts0l
 * @CEOofBabylon vao mexer com quem ta quieto
 
 se ficar ruim nunca existiu
 * F
 * RT @GregoryMcFadden: Apple just invented debt. - [Link](https://twitter.com/GregoryMcFadden/status/1533861911837679616/photo/1) 
-* RT @itsnotquiche: pussy from a girl with a deeply concerning digital footprint
-* RT @MEMESRMP4: Goku cristão - [Link](https://twitter.com/MEMESRMP4/status/1533940639620112390/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
