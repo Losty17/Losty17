@@ -53,6 +53,7 @@
     </summary>
 
 <!-- last_tweet starts -->
+* @byluis_c 💀
 * RT @SpeedrunsSinTV: osu! Supporter Giveaway #9
 
 Three; 1-Year osu supporter! tags :)
@@ -65,7 +66,6 @@ Rules:
 
 se ficar ruim nunca existiu
 * F
-* RT @GregoryMcFadden: Apple just invented debt. - [Link](https://twitter.com/GregoryMcFadden/status/1533861911837679616/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
