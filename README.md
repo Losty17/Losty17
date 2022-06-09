@@ -53,17 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @Yoda4ever: Mission I'm pawssible..🐕🐾🥏🤯😅 - [Link](https://twitter.com/Yoda4ever/status/1534504261178081283/video/1) 
+* RT @nixcraft: Netflix and chill with Arch Linux user - [Link](https://twitter.com/nixcraft/status/1534550327277780993/photo/1) 
 * RT @tristehomo: - [Link](https://twitter.com/tristehomo/status/1534371824234012672/photo/1) 
 * me when me when i me
 * RT @g______sa: 🐱 - [Link](https://twitter.com/g______sa/status/1534546091383070722/photo/1) 
-* @byluis_c 💀
-* RT @SpeedrunsSinTV: osu! Supporter Giveaway #9
-
-Three; 1-Year osu supporter! tags :)
-
-Rules:
--Leave a Comment with your osu! username
--Retw…
 
 <!-- last_tweet ends -->
 </details>
