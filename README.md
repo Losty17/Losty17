@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @danischuttb: Cada dia mais convencida que javascript é esquema de pirâmide
 * @gurlwhinis eu já tava indo salvar a imagem pra te mandar
 * RT @Yoda4ever: Mission I'm pawssible..🐕🐾🥏🤯😅 - [Link](https://twitter.com/Yoda4ever/status/1534504261178081283/video/1) 
 * RT @nixcraft: Netflix and chill with Arch Linux user - [Link](https://twitter.com/nixcraft/status/1534550327277780993/photo/1) 
 * RT @tristehomo: - [Link](https://twitter.com/tristehomo/status/1534371824234012672/photo/1) 
-* me when me when i me
 
 <!-- last_tweet ends -->
 </details>
