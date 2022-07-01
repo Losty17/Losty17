@@ -53,6 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @gilbertftw: - [Link](https://twitter.com/gilbertftw/status/1542220551401242624/photo/1) 
+* @CEOofBabylon @CarloMika ja to fingindo até que a primeira não existe
+* RT @nanakemi: - [Link](https://twitter.com/nanakemi/status/1541942401698242563/photo/1) 
+* eu cim qualquer pessoa q me dá migalhas de atencao
+* RT @watertwinkliker: - [Link](https://twitter.com/watertwinkliker/status/1542147533430202368/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
