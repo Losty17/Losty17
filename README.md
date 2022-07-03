@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* @CEOofBabylon @pedroserodio @BombonzinhoOwO - [Link](https://twitter.com/yts0l/status/1543635913485459456/photo/1) 
 * @naclr4 @cinemagrath falo mesmo
 * @naclr4 @cinemagrath muito tempo atras nao me lembro disso mas concordo
 * @naclr4 @cinemagrath eu vi uma comparacao lado a lado fica igualzinho
 * RT @luhsetraoficial: IMAGENS INÉDITAS DA CLARISSA EM #OSNI - [Link](https://twitter.com/luhsetraoficial/status/1543389124161413122/photo/1) 
-* RT @OrdemParanormal: Novos emotes de #OSNI para subs já estão no ar no canal da Twitch! - [Link](https://twitter.com/OrdemParanormal/status/1543439531868921857/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
