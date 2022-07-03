@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @neongeneshit: deu ruim lula molusco - [Link](https://twitter.com/evangelionJPEG/status/1543353824659836935/video/1) 
-* RT @GreenTextRepost: - [Link](https://twitter.com/GreenTextRepost/status/1542997010034343937/photo/1) 
-* @naclr4 duvido
-* RT @mwdoka: ootd com a botinha - [Link](https://twitter.com/mwdoka/status/1543246393892126722/photo/1) 
-* RT @gilbertftw: - [Link](https://twitter.com/gilbertftw/status/1542220551401242624/photo/1) 
+* @naclr4 @cinemagrath falo mesmo
+* @naclr4 @cinemagrath muito tempo atras nao me lembro disso mas concordo
+* @naclr4 @cinemagrath eu vi uma comparacao lado a lado fica igualzinho
+* RT @luhsetraoficial: IMAGENS INÉDITAS DA CLARISSA EM #OSNI - [Link](https://twitter.com/luhsetraoficial/status/1543389124161413122/photo/1) 
+* RT @OrdemParanormal: Novos emotes de #OSNI para subs já estão no ar no canal da Twitch! - [Link](https://twitter.com/OrdemParanormal/status/1543439531868921857/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
