@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @neongeneshit: deu ruim lula molusco - [Link](https://twitter.com/evangelionJPEG/status/1543353824659836935/video/1) 
+* RT @GreenTextRepost: - [Link](https://twitter.com/GreenTextRepost/status/1542997010034343937/photo/1) 
+* @naclr4 duvido
 * RT @mwdoka: ootd com a botinha - [Link](https://twitter.com/mwdoka/status/1543246393892126722/photo/1) 
 * RT @gilbertftw: - [Link](https://twitter.com/gilbertftw/status/1542220551401242624/photo/1) 
-* @CEOofBabylon @CarloMika ja to fingindo até que a primeira não existe
-* RT @nanakemi: - [Link](https://twitter.com/nanakemi/status/1541942401698242563/photo/1) 
-* eu cim qualquer pessoa q me dá migalhas de atencao
 
 <!-- last_tweet ends -->
 </details>
