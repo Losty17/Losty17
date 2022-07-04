@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* @CEOofBabylon @pedroserodio @BombonzinhoOwO - [Link](https://twitter.com/yts0l/status/1543635913485459456/photo/1) 
-* @naclr4 @cinemagrath falo mesmo
-* @naclr4 @cinemagrath muito tempo atras nao me lembro disso mas concordo
-* @naclr4 @cinemagrath eu vi uma comparacao lado a lado fica igualzinho
-* RT @luhsetraoficial: IMAGENS INÉDITAS DA CLARISSA EM #OSNI - [Link](https://twitter.com/luhsetraoficial/status/1543389124161413122/photo/1) 
+* RT @dailyhomumado: homura happy birthday ◝(ᵔᵕᵔ)◜ - [Link](https://twitter.com/dailyhomumado/status/1543768600921907200/photo/1) 
+* RT @Serislyy: @HadokenEx Prefiro esse - [Link](https://twitter.com/Serislyy/status/1543702105399197698/video/1) 
+* @AqueleDuduAli @naclr4
+* @pizzafrangogato @naclr4
+* agora q anunciaram anime de solo leveling vai aparecer um monte de normie que nunca leu o manga nem a novel querend…
 
 <!-- last_tweet ends -->
 </details>
