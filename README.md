@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @amitlatl: if you dont want a girl shaped like a fertility goddess the ancestors will not welcome you to the afterlife, you are a weak l…
 * RT @dailyhomumado: homura happy birthday ◝(ᵔᵕᵔ)◜ - [Link](https://twitter.com/dailyhomumado/status/1543768600921907200/photo/1) 
 * RT @Serislyy: @HadokenEx Prefiro esse - [Link](https://twitter.com/Serislyy/status/1543702105399197698/video/1) 
 * @AqueleDuduAli @naclr4
 * @pizzafrangogato @naclr4
-* agora q anunciaram anime de solo leveling vai aparecer um monte de normie que nunca leu o manga nem a novel querend…
 
 <!-- last_tweet ends -->
 </details>
