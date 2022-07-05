@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* @naclr4 amém
 * RT @JakeSucky: I will be interviewing the indie devs behind the viral Action Figure FPS Hypercharge. The game was on Steam and Switch in 20…
 * PARA MÃE DE ME LEMBRAR DELA EU TAVA QUASE SUPERANDO
 * RT @JakeSucky: These 5 dudes are trying to make an indie game where you play as an action figure in a toy store… and it’s sick
 * @naclr4 descobriu nada
-* @ZzLamazing gostosa comia fodase
 
 <!-- last_tweet ends -->
 </details>
