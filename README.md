@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* PARA MÃE DE ME LEMBRAR DELA EU TAVA QUASE SUPERANDO
 * RT @JakeSucky: These 5 dudes are trying to make an indie game where you play as an action figure in a toy store… and it’s sick
 * @naclr4 descobriu nada
 * @ZzLamazing gostosa comia fodase
 * RT @allbertonedu: - [Link](https://twitter.com/allbertonedu/status/1543775385648766977/photo/1) 
-* @naclr4 vc vai descobrir q eu so uma mulher de 50 anos
 
 <!-- last_tweet ends -->
 </details>
