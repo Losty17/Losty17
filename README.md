@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* @naclr4 @acervopadilhex tarde de mais
 * RT @daiIymadoka: - [Link](https://twitter.com/daiIymadoka/status/1544505154598277121/photo/1) 
 * @naclr4 tem os louco q acha q o cara eh gay
 * @byluis_c AH SIM AMIGO FINAL DE SEMANA TEM
 * @naclr4 amém
-* RT @JakeSucky: I will be interviewing the indie devs behind the viral Action Figure FPS Hypercharge. The game was on Steam and Switch in 20…
 
 <!-- last_tweet ends -->
 </details>
