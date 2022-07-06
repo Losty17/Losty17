@@ -53,13 +53,13 @@
     </summary>
 
 <!-- last_tweet starts -->
+* @naclr4 @acervopadilhex tarde dmsssss
 * RT @orafaelfragoso: Pra quem ainda não teve tempo de ver, aqui vão algumas novidades da ES2022 do Javascript 🥰
 
 cc @sseraphini
 * @naclr4 @acervopadilhex tarde de mais
 * RT @daiIymadoka: - [Link](https://twitter.com/daiIymadoka/status/1544505154598277121/photo/1) 
 * @naclr4 tem os louco q acha q o cara eh gay
-* @byluis_c AH SIM AMIGO FINAL DE SEMANA TEM
 
 <!-- last_tweet ends -->
 </details>
