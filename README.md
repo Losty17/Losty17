@@ -53,13 +53,13 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @yosbrk: - [Link](https://twitter.com/yosbrk/status/1544821337604202501/photo/1) 
+* RT @oerickmuller: Vou contar abaixo um segredo sobre o python que pouca gente sabe, menos gente diz, mas que quando você ouve, fica mais qu…
+* RT @Martin_Adams: jquery - [Link](https://twitter.com/Martin_Adams/status/1544627091706200070/photo/1) 
 * @naclr4 @acervopadilhex tarde dmsssss
 * RT @orafaelfragoso: Pra quem ainda não teve tempo de ver, aqui vão algumas novidades da ES2022 do Javascript 🥰
 
 cc @sseraphini
-* @naclr4 @acervopadilhex tarde de mais
-* RT @daiIymadoka: - [Link](https://twitter.com/daiIymadoka/status/1544505154598277121/photo/1) 
-* @naclr4 tem os louco q acha q o cara eh gay
 
 <!-- last_tweet ends -->
 </details>
