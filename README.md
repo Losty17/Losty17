@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @AnimalsCaption: - [Link](https://twitter.com/AnimalsCaption/status/1545275982306611200/photo/1) 
 * RT @mwdoka: - [Link](https://twitter.com/mwdoka/status/1545114896681107458/photo/1) 
 * RT @bnkiraquiana: eu nessa porra - [Link](https://twitter.com/bnkiraquiana/status/1544833455195914241/photo/1) 
 * RT @yosbrk: - [Link](https://twitter.com/yosbrk/status/1544821337604202501/photo/1) 
 * RT @oerickmuller: Vou contar abaixo um segredo sobre o python que pouca gente sabe, menos gente diz, mas que quando você ouve, fica mais qu…
-* RT @Martin_Adams: jquery - [Link](https://twitter.com/Martin_Adams/status/1544627091706200070/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
