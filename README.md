@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* fodase a opiniao de vcs java eh legal
+* @naclr4 gostava mt do manga ha 2 anos atras
+* @naclr4 CARALHO TEM ANIME DISSO?
 * @naclr4 isso eh ruim
 * @naclr4 tu eh burra?
-* @byluis_c bota na minha mão que resolve
-* @naclr4 imperdoavel
-* @naclr4 nao importa pra vc
 
 <!-- last_tweet ends -->
 </details>
