@@ -53,13 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @changelog: “I finished that API integration” - [Link](https://twitter.com/changelog/status/1545254667474481152/photo/1) 
-* eu e ela
-* RT @OzolinsJanis: Honest project plan: - [Link](https://twitter.com/OzolinsJanis/status/1545355551802118146/photo/1) 
-* @OrdemWiki @uselolja @naclr4
-* RT @OrdemWiki: "Você é uma das escolhidas para desvendar a verdade, a verdade que PRECISA ser esquecida"
-
-E você pode ser escolhido para ga…
+* @naclr4 isso eh ruim
+* @naclr4 tu eh burra?
+* @byluis_c bota na minha mão que resolve
+* @naclr4 imperdoavel
+* @naclr4 nao importa pra vc
 
 <!-- last_tweet ends -->
 </details>
