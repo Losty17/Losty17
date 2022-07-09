@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* @h8evry1trustno1 sim mano é muito fácil de manter um código Java, código de 10 anos aí funcionando e sendo mt fácil arrumar bug
-* @s1lvesterISA banco de dados é muito fácil ele faz todo o SQL pra ti e tu só digita save find update
-* @s1lvesterISA 1. fácil de dar manutenção em grande escala por causa de classes abstratas, genéricas, interfaces, ti…
-* fodase a opiniao de vcs java eh legal
-* @naclr4 gostava mt do manga ha 2 anos atras
+* @naclr4 nerd vc
+* tudo mentira o clérigo só serve pra jogar curinha e ser a classe mais forte do d&amp;d
+* RT @meriodaso: - [Link](https://twitter.com/meriodaso/status/1545565292583165952/photo/1) 
+* RT @LeoDant3: Eu amo esse meme 🤣 - [Link](https://twitter.com/LeoDant3/status/1545598543867650048/photo/1) 
+* @naclr4 mudei de ideia ue
 
 <!-- last_tweet ends -->
 </details>
