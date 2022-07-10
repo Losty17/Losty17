@@ -53,6 +53,7 @@
     </summary>
 
 <!-- last_tweet starts -->
+* @kjam2ouseila @s1lvesterISA solo n sei mas multiclasse eh muito broken
 * @Belle_belinha__ @sadpwcca
 * @naclr4 vou te matar
 * @naclr4 seu cu
@@ -61,7 +62,6 @@ passo 2: role 1d8+WIS
 passo 3: diminua o slot de magia na ficha
 
 proplayer de cleric
-* @kjam2ouseila @naclr4 vai tu
 
 <!-- last_tweet ends -->
 </details>
