@@ -53,11 +53,15 @@
     </summary>
 
 <!-- last_tweet starts -->
-* @naclr4 nerd vc
-* tudo mentira o clérigo só serve pra jogar curinha e ser a classe mais forte do d&amp;d
-* RT @meriodaso: - [Link](https://twitter.com/meriodaso/status/1545565292583165952/photo/1) 
-* RT @LeoDant3: Eu amo esse meme 🤣 - [Link](https://twitter.com/LeoDant3/status/1545598543867650048/photo/1) 
-* @naclr4 mudei de ideia ue
+* @Belle_belinha__ @sadpwcca
+* @naclr4 vou te matar
+* @naclr4 seu cu
+* @s1lvesterISA passo 1: diga "eu quero curar ele"
+passo 2: role 1d8+WIS
+passo 3: diminua o slot de magia na ficha
+
+proplayer de cleric
+* @kjam2ouseila @naclr4 vai tu
 
 <!-- last_tweet ends -->
 </details>
