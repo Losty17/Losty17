@@ -53,15 +53,15 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @spot_desenhador: Cellbit: “Olivier você tá morto”
+
+Gou: “Galera foi bom jogar com vocês-“
+
+*Goularte é subitamente interrompido pelo Ce…
 * @kjam2ouseila @s1lvesterISA solo n sei mas multiclasse eh muito broken
 * @Belle_belinha__ @sadpwcca
 * @naclr4 vou te matar
 * @naclr4 seu cu
-* @s1lvesterISA passo 1: diga "eu quero curar ele"
-passo 2: role 1d8+WIS
-passo 3: diminua o slot de magia na ficha
-
-proplayer de cleric
 
 <!-- last_tweet ends -->
 </details>
