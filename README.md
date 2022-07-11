@@ -53,15 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @gostosas2d: qual ein - [Link](https://twitter.com/gostosas2d/status/1546188101676109825/photo/1) 
-* ah mas x coisa vai substituir o emprego de milhares de pessoas mano para.
-* sim! graças a deus! continue assim! exatas &gt; humanas
-* @aCat_OSNF @naclr4
-* RT @spot_desenhador: Cellbit: “Olivier você tá morto”
-
-Gou: “Galera foi bom jogar com vocês-“
-
-*Goularte é subitamente interrompido pelo Ce…
+* @naclr4 baseado em
+* @naclr4 nao perguntei olha discord
+* @naclr4 ruim delete todos agora
+* @naclr4 maluquice demais
+* @naclr4 o meu é aquele de sonhar com a escola toda cheia de sangue e ritual satânico
 
 <!-- last_tweet ends -->
 </details>
