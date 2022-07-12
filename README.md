@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @Dc_da_depressao: Literalmente 99,75% das pessoas da internet - [Link](https://twitter.com/Dc_da_depressao/status/1546567764508377090/photo/1) 
+* como assim ele conseguiu falar algo util????
 * @naclr4 baseado em
 * @naclr4 nao perguntei olha discord
 * @naclr4 ruim delete todos agora
-* @naclr4 maluquice demais
-* @naclr4 o meu é aquele de sonhar com a escola toda cheia de sangue e ritual satânico
 
 <!-- last_tweet ends -->
 </details>
