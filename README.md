@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @cybrxangel: technology design peaked here - [Link](https://twitter.com/cybrxangel/status/1546598639698677763/photo/1) 
+* RT @Nomedofilm: - [Link](https://twitter.com/Nomedofilm/status/1546598394025631746/photo/1) 
+* @naclr4 @CuriRandom prefiro enfiar na boca mas ok
+* @naclr4 @CuriRandom vc tem um preço aproximado de 170 reais
 * RT @OrenElbaum: Blazingly fast (Bun) + blazingly slow (React) = blazingly average?
-* 1 mes :(
-* @CuriRandom @naclr4 kkkkkkkkkkkkkkkkkkkkkkkkkkkk
-* RT @Dc_da_depressao: Literalmente 99,75% das pessoas da internet - [Link](https://twitter.com/Dc_da_depressao/status/1546567764508377090/photo/1) 
-* como assim ele conseguiu falar algo util????
 
 <!-- last_tweet ends -->
 </details>
