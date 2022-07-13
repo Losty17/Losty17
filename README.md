@@ -53,11 +53,13 @@
     </summary>
 
 <!-- last_tweet starts -->
+* i fell in love in october
+
+that's why i hate fall
 * RT @andrwjrdn: if i text u ✈️💫 it means can we pretend that airplanes in the night sky are like shooting stars
 * @naclr4 fofo fez literalmente o que o Spotify faz automaticamente
 * RT @cybrxangel: technology design peaked here - [Link](https://twitter.com/cybrxangel/status/1546598639698677763/photo/1) 
 * RT @Nomedofilm: - [Link](https://twitter.com/Nomedofilm/status/1546598394025631746/photo/1) 
-* @naclr4 @CuriRandom prefiro enfiar na boca mas ok
 
 <!-- last_tweet ends -->
 </details>
