@@ -53,13 +53,15 @@
     </summary>
 
 <!-- last_tweet starts -->
+* fofo
+* RT @francidellamora: clã se liguem nessa que o Google lançou 
+
+ 'Interview Warmup'  é basicamente  uma ferramenta para praticar as resposta…
+* @Richards__S @naclr4 esse eh seu streamer
 * i fell in love in october
 
 that's why i hate fall
 * RT @andrwjrdn: if i text u ✈️💫 it means can we pretend that airplanes in the night sky are like shooting stars
-* @naclr4 fofo fez literalmente o que o Spotify faz automaticamente
-* RT @cybrxangel: technology design peaked here - [Link](https://twitter.com/cybrxangel/status/1546598639698677763/photo/1) 
-* RT @Nomedofilm: - [Link](https://twitter.com/Nomedofilm/status/1546598394025631746/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
