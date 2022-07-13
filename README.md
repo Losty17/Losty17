@@ -53,6 +53,7 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @Bethesda_UK:
 * fofo
 * RT @francidellamora: clã se liguem nessa que o Google lançou 
 
@@ -61,7 +62,6 @@
 * i fell in love in october
 
 that's why i hate fall
-* RT @andrwjrdn: if i text u ✈️💫 it means can we pretend that airplanes in the night sky are like shooting stars
 
 <!-- last_tweet ends -->
 </details>
