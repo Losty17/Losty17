@@ -53,15 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @Bethesda_UK:
-* fofo
-* RT @francidellamora: clã se liguem nessa que o Google lançou 
-
- 'Interview Warmup'  é basicamente  uma ferramenta para praticar as resposta…
-* @Richards__S @naclr4 esse eh seu streamer
-* i fell in love in october
-
-that's why i hate fall
+* @CuriRandom @naclr4
+* @naclr4 @sadpwcca - [Link](https://twitter.com/yts0l/status/1547367628167151617/photo/1) 
+* @naclr4 @sadpwcca conta privada
+* @sadpwcca @naclr4 so anda cmg quem pensa igual eu
+* @naclr4 parece ironia querer viver um amor no século da putaria
 
 <!-- last_tweet ends -->
 </details>
