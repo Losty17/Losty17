@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @fo8er: ai o ateu me fala que isso veio do macaco impossível cara
+* pronome neutro / n fez prova / isso é literalmente uma lista de questões / torço pra q ngm q eu conheça tenha um pr…
 * @CuriRandom @naclr4
 * @naclr4 @sadpwcca - [Link](https://twitter.com/yts0l/status/1547367628167151617/photo/1) 
 * @naclr4 @sadpwcca conta privada
-* @sadpwcca @naclr4 so anda cmg quem pensa igual eu
-* @naclr4 parece ironia querer viver um amor no século da putaria
 
 <!-- last_tweet ends -->
 </details>
