@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* @naclr4 NAO QUER NAO INDEPENDENTE DO QUE TE DIGAM TU NAO QUER
+* @naclr4 @bugmemes_ DASDIJOASDJAISOJDH MANO ELE MIJANDO
 * RT @fo8er: ai o ateu me fala que isso veio do macaco impossível cara
 * pronome neutro / n fez prova / isso é literalmente uma lista de questões / torço pra q ngm q eu conheça tenha um pr…
 * @CuriRandom @naclr4
-* @naclr4 @sadpwcca - [Link](https://twitter.com/yts0l/status/1547367628167151617/photo/1) 
-* @naclr4 @sadpwcca conta privada
 
 <!-- last_tweet ends -->
 </details>
