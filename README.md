@@ -53,11 +53,15 @@
     </summary>
 
 <!-- last_tweet starts -->
+* @sadpwcca @KZXcellent @Cen0uraMecanica ? vo te mata
+* @naclr4 @cinecenas sim e o cara me lembra o constantino
+* @cinecenas @naclr4 cellbit se baseou 100% nisso aqui
+* RT @jouijouki112: Meu passatempo é imaginar cenas do rpg nesse meme do cellbit, por exemplo:
+
+Luba: eu quero atirar no Alex
+
+Cellbit: ok *t…
 * @imdocto @naclr4
-* @sadpwcca @yagooleao @discord ?
-* @sadpwcca @discord eu
-* RT @aliyahmajidah: I hate seeing people from my past I thought you was in hell
-* @naclr4 obriiii
 
 <!-- last_tweet ends -->
 </details>
