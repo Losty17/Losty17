@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* @naclr4 NAO QUER NAO INDEPENDENTE DO QUE TE DIGAM TU NAO QUER
-* @naclr4 @bugmemes_ DASDIJOASDJAISOJDH MANO ELE MIJANDO
-* RT @fo8er: ai o ateu me fala que isso veio do macaco impossível cara
-* pronome neutro / n fez prova / isso é literalmente uma lista de questões / torço pra q ngm q eu conheça tenha um pr…
-* @CuriRandom @naclr4
+* @sadpwcca @yagooleao @discord ?
+* @sadpwcca @discord eu
+* RT @aliyahmajidah: I hate seeing people from my past I thought you was in hell
+* @naclr4 obriiii
+* @naclr4 é só fzr um proxy e alterar o request pro server pra n alterar o número qnd tu gastar, a menos q isso seja…
 
 <!-- last_tweet ends -->
 </details>
