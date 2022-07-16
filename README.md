@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* @imdocto @naclr4
 * @sadpwcca @yagooleao @discord ?
 * @sadpwcca @discord eu
 * RT @aliyahmajidah: I hate seeing people from my past I thought you was in hell
 * @naclr4 obriiii
-* @naclr4 é só fzr um proxy e alterar o request pro server pra n alterar o número qnd tu gastar, a menos q isso seja…
 
 <!-- last_tweet ends -->
 </details>
