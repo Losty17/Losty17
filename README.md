@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @misteor_online: - [Link](https://twitter.com/misteor_online/status/1548491975548030977/photo/1) 
 * meu maior inimigo
 * 🥺🥺🥺🥺
 * @kjam2ouseila sim acabei de dizer isso pra minha mãe
 * pessoal estarei fugindo do país por alguns anos e mudando de identidade
-* @sadpwcca @KZXcellent @Cen0uraMecanica ? vo te mata
 
 <!-- last_tweet ends -->
 </details>
