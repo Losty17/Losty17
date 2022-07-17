@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* @Menina_Zavatini @midd_priv @naclr4 hmmm sus
+* @divportinari @naclr4
+* @sadpwcca bota fogo nele
 * RT @misteor_online: - [Link](https://twitter.com/misteor_online/status/1548491975548030977/photo/1) 
 * meu maior inimigo
-* 🥺🥺🥺🥺
-* @kjam2ouseila sim acabei de dizer isso pra minha mãe
-* pessoal estarei fugindo do país por alguns anos e mudando de identidade
 
 <!-- last_tweet ends -->
 </details>
