@@ -53,15 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* meu maior inimigo
+* 🥺🥺🥺🥺
+* @kjam2ouseila sim acabei de dizer isso pra minha mãe
+* pessoal estarei fugindo do país por alguns anos e mudando de identidade
 * @sadpwcca @KZXcellent @Cen0uraMecanica ? vo te mata
-* @naclr4 @cinecenas sim e o cara me lembra o constantino
-* @cinecenas @naclr4 cellbit se baseou 100% nisso aqui
-* RT @jouijouki112: Meu passatempo é imaginar cenas do rpg nesse meme do cellbit, por exemplo:
-
-Luba: eu quero atirar no Alex
-
-Cellbit: ok *t…
-* @imdocto @naclr4
 
 <!-- last_tweet ends -->
 </details>
