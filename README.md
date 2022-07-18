@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* @Menina_Zavatini @midd_priv @naclr4 hmmm sus
-* @divportinari @naclr4
-* @sadpwcca bota fogo nele
-* RT @misteor_online: - [Link](https://twitter.com/misteor_online/status/1548491975548030977/photo/1) 
-* meu maior inimigo
+* @Gs1lverRin 🍪
+* @sadpwcca @soggyworms @eldritchangels fofa
+* @naclr4 onde n vi nada
+* @naclr4 eu
+* @eddiesmunsun @naclr4
 
 <!-- last_tweet ends -->
 </details>
