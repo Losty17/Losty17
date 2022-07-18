@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @TechTudo: Como desinstalar League of Legends? Veja passos para deletar jogo - [Link](https://twitter.com/TechTudo/status/1548897757384957952/photo/1) 
 * RT @HadokenEx: - [Link](https://twitter.com/HadokenEx/status/1548843015891984396/photo/1) 
 * @bwahwtfbwah @sadpwcca us
 * eu e todos os meus amigos
 * @sadpwcca vai dormir tem q trabalhar hj
-* @Gs1lverRin 🍪
 
 <!-- last_tweet ends -->
 </details>
