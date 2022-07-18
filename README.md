@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @HadokenEx: - [Link](https://twitter.com/HadokenEx/status/1548843015891984396/photo/1) 
+* @bwahwtfbwah @sadpwcca us
+* eu e todos os meus amigos
+* @sadpwcca vai dormir tem q trabalhar hj
 * @Gs1lverRin 🍪
-* @sadpwcca @soggyworms @eldritchangels fofa
-* @naclr4 onde n vi nada
-* @naclr4 eu
-* @eddiesmunsun @naclr4
 
 <!-- last_tweet ends -->
 </details>
