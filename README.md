@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* @sadpwcca @HadokenEx dor fisica
-* @naclr4 eram os 10 centímetros q faltavam
-* @naclr4 monstra de 1,90
-* RT @TechTudo: Como desinstalar League of Legends? Veja passos para deletar jogo - [Link](https://twitter.com/TechTudo/status/1548897757384957952/photo/1) 
-* RT @HadokenEx: - [Link](https://twitter.com/HadokenEx/status/1548843015891984396/photo/1) 
+* RT @shararagi: @Ikunyaa Madoka &gt;&gt;&gt;&gt; monster
+* @naclr4 ok justo
+* @esposadamitski @sadpwcca ta escrito "vou dar o cu para o bini amanha"
+* @sadpwcca - [Link](https://twitter.com/yts0l/status/1549133524464189441/photo/1) 
+* @naclr4 concordo acho q vc deveria parar de fzr coisa de nerd ta invadindo meu espaço
 
 <!-- last_tweet ends -->
 </details>
