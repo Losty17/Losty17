@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @PR0GRAMMERHUM0R: Finally wrote "Hello world" in JavaScript. Want to tell me assembly is harder?
+* RT @sadtruthwords: “are you okay“ no, i miss my favorite person.
 * RT @shararagi: @Ikunyaa Madoka &gt;&gt;&gt;&gt; monster
 * @naclr4 ok justo
 * @esposadamitski @sadpwcca ta escrito "vou dar o cu para o bini amanha"
-* @sadpwcca - [Link](https://twitter.com/yts0l/status/1549133524464189441/photo/1) 
-* @naclr4 concordo acho q vc deveria parar de fzr coisa de nerd ta invadindo meu espaço
 
 <!-- last_tweet ends -->
 </details>
