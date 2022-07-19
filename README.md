@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @xyanaid: #SPY_FAMILY - [Link](https://twitter.com/xyanaid/status/1549303290860826624/photo/1) 
 * RT @PR0GRAMMERHUM0R: Finally wrote "Hello world" in JavaScript. Want to tell me assembly is harder?
 * RT @sadtruthwords: “are you okay“ no, i miss my favorite person.
 * RT @shararagi: @Ikunyaa Madoka &gt;&gt;&gt;&gt; monster
 * @naclr4 ok justo
-* @esposadamitski @sadpwcca ta escrito "vou dar o cu para o bini amanha"
 
 <!-- last_tweet ends -->
 </details>
