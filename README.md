@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @mcdavipaivaofc: busco uma garota possessiva pra infernizar minha vida
 * @naclr4 quw porra e essa
 * @FelippeRegazio @sadpwcca
 * @naclr4 ok
 * alguém me para por favor eu não aguento mais trabalhar fora do horário de trabalho por vontade própria
-* @naclr4 a bom menos mal mas ainda doida
 
 <!-- last_tweet ends -->
 </details>
