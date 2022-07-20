@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* @naclr4 quw porra e essa
+* @FelippeRegazio @sadpwcca
 * @naclr4 ok
 * alguém me para por favor eu não aguento mais trabalhar fora do horário de trabalho por vontade própria
 * @naclr4 a bom menos mal mas ainda doida
-* @naclr4 eca guarana
-* @naclr4 pq tu ta fznd isso
 
 <!-- last_tweet ends -->
 </details>
