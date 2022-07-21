@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @mcdavipaivaofc: busco uma garota possessiva pra infernizar minha vida
-* @naclr4 quw porra e essa
-* @FelippeRegazio @sadpwcca
-* @naclr4 ok
-* alguém me para por favor eu não aguento mais trabalhar fora do horário de trabalho por vontade própria
+* @naclr4 e osnf???
+* fandom do cellbit descobriu finalmente que nerd sofre bullying por jogar RPG 😱 bem vindo ao nosso mundo
+* @naclr4 ai nao sei so sei da personagem
+* @naclr4 perguntei pq ta assim burra
+* @naclr4 fanbase paga pau mas a personagem so faz merda e eh mt mimizenta
 
 <!-- last_tweet ends -->
 </details>
