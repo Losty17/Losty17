@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @natacitouofc: Deus é muito maravilhoso fez o mar de menino e o mar de menina
 * @sheevishh @naclr4
 * @naclr4 e osnf???
 * fandom do cellbit descobriu finalmente que nerd sofre bullying por jogar RPG 😱 bem vindo ao nosso mundo
 * @naclr4 ai nao sei so sei da personagem
-* @naclr4 perguntei pq ta assim burra
 
 <!-- last_tweet ends -->
 </details>
