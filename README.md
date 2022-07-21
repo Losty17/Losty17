@@ -53,14 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* @esposadamitski @sadpwcca nao ouça as palavras dele ele é má influência
+* @sadpwcca foi literalmente oq eu disse
+* @sadpwcca se mata
+* @naclr4 bom dia
 * RT @dutchbrostea: i made some sunglasses :D - [Link](https://twitter.com/dutchbrostea/status/1549814992865841152/photo/1) 
-* RT @translatedtees: - [Link](https://twitter.com/translatedtees/status/1549844652739612672/photo/1) 
-* RT @NotionHQ: Your mobile app just got a (well-deserved 😅) upgrade. It’s now:
-
-- faster — 2× on iOS, 3× on Android
-- redesigned using nativ…
-* RT @argumentosfodas: - [Link](https://twitter.com/argumentosfodas/status/1549771578321297410/photo/1) 
-* dream girl
 
 <!-- last_tweet ends -->
 </details>
