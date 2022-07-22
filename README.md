@@ -53,13 +53,13 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @JohnWickMovie: And so it begins... #JW4 - [Link](https://twitter.com/JohnWickMovie/status/1550163706515898368/photo/1) 
 * RT @TrechosDelRey: "você me quer ou não, eu ouvi uma coisa e agora estou ouvindo outra"
 
 — happiness is a butterfly, Lana Del Rey
 * euuu
 * RT @sandofsky: Write once, run everywhere, admit mistake, start over.
 * @zSenshi_Sama @sadpwcca
-* @GDrawart @naclr4
 
 <!-- last_tweet ends -->
 </details>
