@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* @esposadamitski @sadpwcca nao ouça as palavras dele ele é má influência
-* @sadpwcca foi literalmente oq eu disse
-* @sadpwcca se mata
-* @naclr4 bom dia
-* RT @dutchbrostea: i made some sunglasses :D - [Link](https://twitter.com/dutchbrostea/status/1549814992865841152/photo/1) 
+* RT @sandofsky: Write once, run everywhere, admit mistake, start over.
+* @zSenshi_Sama @sadpwcca
+* @GDrawart @naclr4
+* @brunomemeguy @sadpwcca
+* @sadpwcca @koriash_ me and u
 
 <!-- last_tweet ends -->
 </details>
