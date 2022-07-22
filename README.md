@@ -53,11 +53,13 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @TrechosDelRey: "você me quer ou não, eu ouvi uma coisa e agora estou ouvindo outra"
+
+— happiness is a butterfly, Lana Del Rey
+* euuu
 * RT @sandofsky: Write once, run everywhere, admit mistake, start over.
 * @zSenshi_Sama @sadpwcca
 * @GDrawart @naclr4
-* @brunomemeguy @sadpwcca
-* @sadpwcca @koriash_ me and u
 
 <!-- last_tweet ends -->
 </details>
