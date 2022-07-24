@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* @naclr4 vai o caralho burra
 * @sadpwcca @esposadamitski NAO POSSO TO NO BONFIM
 * @sadpwcca @esposadamitski quando e onde
 * morra morra morra morra pq vc faz isso comigo morra morra morra
 * @esposadamitski @sadpwcca ok!
-* @esposadamitski @sadpwcca nao pergunteiiiiiii 😘😘
 
 <!-- last_tweet ends -->
 </details>
