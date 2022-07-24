@@ -53,13 +53,15 @@
     </summary>
 
 <!-- last_tweet starts -->
-* odeio sonhar
-* @naclr4 jjjjk
-* @naclr4 Claro q n sai att pra mobile, nem deveria ter a versão mobile
-* RT @JohnWickMovie: And so it begins... #JW4 - [Link](https://twitter.com/JohnWickMovie/status/1550163706515898368/photo/1) 
-* RT @TrechosDelRey: "você me quer ou não, eu ouvi uma coisa e agora estou ouvindo outra"
+* RT @kentcdodds: When a human learns from your open source code and builds something based on what they learned to make money that's celebra…
+* @naclr4 ? n falei de ti
+* @sadpwcca nunca esteve privada
+* nojenta.
+* RT @DavidKPiano: What is your equivalent to "making a blueprint" before coding?
 
-— happiness is a butterfly, Lana Del Rey
+Is it whiteboarding? Diagramming? Writing a spec?
+
+Or do y…
 
 <!-- last_tweet ends -->
 </details>
