@@ -53,15 +53,13 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @Rakin: Eu odeio mentir pra vocês o cabeludo me obriga ta?
+
+#OSNI
+* Tudo tem um começo e um fim, e o Tempo leva todas as coisas. Nada que é levado pela Morte pode voltar ao que era antes.
+* melhor ep de #osni ate agora!!!! sb vive!!!
 * RT @kentcdodds: When a human learns from your open source code and builds something based on what they learned to make money that's celebra…
 * @naclr4 ? n falei de ti
-* @sadpwcca nunca esteve privada
-* nojenta.
-* RT @DavidKPiano: What is your equivalent to "making a blueprint" before coding?
-
-Is it whiteboarding? Diagramming? Writing a spec?
-
-Or do y…
 
 <!-- last_tweet ends -->
 </details>
