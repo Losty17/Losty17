@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* @sadpwcca euuuu
 * @naclr4 nao perguntei olha o ds
 * @oisesh @sadpwcca
 * @naclr4 falou bosta
 * @naclr4 jamais
-* @naclr4 kkk pobre nao tem spotify premium
 
 <!-- last_tweet ends -->
 </details>
