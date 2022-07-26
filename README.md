@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* @Jotapekl chama o leo
-* 😭
-* @sadpwcca vontade de mandar 5 injurias raciais, 10 machistas e 20 homofobicas pra ela
-* @esposadamitski pq eu
-* @naclr4 vai o caralho burra
+* @naclr4 nao perguntei olha o ds
+* @oisesh @sadpwcca
+* @naclr4 falou bosta
+* @naclr4 jamais
+* @naclr4 kkk pobre nao tem spotify premium
 
 <!-- last_tweet ends -->
 </details>
