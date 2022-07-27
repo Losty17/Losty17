@@ -53,13 +53,16 @@
     </summary>
 
 <!-- last_tweet starts -->
-* odeio ver normie gostando de coisas de nerd mas me limito a não ser gatekeeper de rpg pq precisamos de mais jogadores........
-* RT @francidellamora: você sabia? 
+* o leo puxou a chave de casa e tinha uma mini chave:
 
-a letra F em JavaScript refere-se a FELICIDADE
-* @sadpwcca calúnia
-* euuuu
-* RT @PR0GRAMMERHUM0R: Angry Upvote - [Link](https://twitter.com/PR0GRAMMERHUM0R/status/1552005872699809793/photo/1) 
+- qq eh essa chave?
+- é do coração dela
+- ...
+- EU N TO APAIXONADO (sorrindo muito)
+* @sadpwcca vsf eu te odeio smt - [Link](https://twitter.com/yts0l/status/1552375701420101632/photo/1) 
+* @sadpwcca im frustrated and its sexually
+* @nseiingles_ NAO EH NAOOOOO
+* @sadpwcca block
 
 <!-- last_tweet ends -->
 </details>
