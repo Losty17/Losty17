@@ -53,11 +53,13 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @PR0GRAMMERHUM0R: Angry Upvote - [Link](https://twitter.com/PR0GRAMMERHUM0R/status/1552005872699809793/photo/1) 
+* RT @erradasescritas: - [Link](https://twitter.com/erradasescritas/status/1551937931073540098/photo/1) 
+* RT @Selp765: LoL de pc - Tem Shaco
+Wild Rift - Não tem Shaco
+Conclusão: Wild Rift é melhor
 * meu maior inimigo!!!!
 * @sadpwcca @naclr4 só tu pra sabe essas coisa
-* @naclr4 traduz pf
-* euuuuuu 🥺🥺🫡
-* RT @shirtsthtgohard: - [Link](https://twitter.com/shirtsthtgohard/status/1551933851634647040/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
