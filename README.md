@@ -53,13 +53,13 @@
     </summary>
 
 <!-- last_tweet starts -->
+* odeio ver normie gostando de coisas de nerd mas me limito a não ser gatekeeper de rpg pq precisamos de mais jogadores........
+* RT @francidellamora: você sabia? 
+
+a letra F em JavaScript refere-se a FELICIDADE
+* @sadpwcca calúnia
+* euuuu
 * RT @PR0GRAMMERHUM0R: Angry Upvote - [Link](https://twitter.com/PR0GRAMMERHUM0R/status/1552005872699809793/photo/1) 
-* RT @erradasescritas: - [Link](https://twitter.com/erradasescritas/status/1551937931073540098/photo/1) 
-* RT @Selp765: LoL de pc - Tem Shaco
-Wild Rift - Não tem Shaco
-Conclusão: Wild Rift é melhor
-* meu maior inimigo!!!!
-* @sadpwcca @naclr4 só tu pra sabe essas coisa
 
 <!-- last_tweet ends -->
 </details>
