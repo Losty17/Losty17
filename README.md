@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* @sadpwcca euuuu
-* @naclr4 nao perguntei olha o ds
-* @oisesh @sadpwcca
-* @naclr4 falou bosta
-* @naclr4 jamais
+* meu maior inimigo!!!!
+* @sadpwcca @naclr4 só tu pra sabe essas coisa
+* @naclr4 traduz pf
+* euuuuuu 🥺🥺🫡
+* RT @shirtsthtgohard: - [Link](https://twitter.com/shirtsthtgohard/status/1551933851634647040/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
