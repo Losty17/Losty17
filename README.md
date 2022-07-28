@@ -53,11 +53,13 @@
     </summary>
 
 <!-- last_tweet starts -->
+* @sadpwcca - [Link](https://twitter.com/yts0l/status/1552641674354081792/photo/1) 
+* RT @Megcurdy: Witchbrook really does just live rent free in my brain.
+
+Just look at it.... - [Link](https://twitter.com/Megcurdy/status/1552329592949526528/photo/1) 
 * @sadpwcca kill urself
 * @sadpwcca me me me me please me myself meee me
 * @sadpwcca todo fã do rpg tem problema na cabeçca
-* ansiosissimo por dia 27 🥺
-* ele ia gostar.
 
 <!-- last_tweet ends -->
 </details>
