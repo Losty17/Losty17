@@ -53,16 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* o leo puxou a chave de casa e tinha uma mini chave:
-
-- qq eh essa chave?
-- é do coração dela
-- ...
-- EU N TO APAIXONADO (sorrindo muito)
-* @sadpwcca vsf eu te odeio smt - [Link](https://twitter.com/yts0l/status/1552375701420101632/photo/1) 
-* @sadpwcca im frustrated and its sexually
-* @nseiingles_ NAO EH NAOOOOO
-* @sadpwcca block
+* @sadpwcca todo fã do rpg tem problema na cabeçca
+* ansiosissimo por dia 27 🥺
+* ele ia gostar.
+* @nseiingles_ eh tipo mandar um cachorro miar
+* @sadpwcca @lucasteske @fakenickels @TheEduardoRFS @coproduto devia ser html e css puro
 
 <!-- last_tweet ends -->
 </details>
