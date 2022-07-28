@@ -53,13 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* @sadpwcca - [Link](https://twitter.com/yts0l/status/1552641674354081792/photo/1) 
-* RT @Megcurdy: Witchbrook really does just live rent free in my brain.
-
-Just look at it.... - [Link](https://twitter.com/Megcurdy/status/1552329592949526528/photo/1) 
-* @sadpwcca kill urself
-* @sadpwcca me me me me please me myself meee me
-* @sadpwcca todo fã do rpg tem problema na cabeçca
+* @null_jesse @sadpwcca
+* @sadpwcca @PazDosPovos smt
+* @sadpwcca @PazDosPovos se tivesse curtido n teria te marcado
+* @PazDosPovos @sadpwcca
+* RT @thaisfluff: raphtalia 🍂 - [Link](https://twitter.com/thaisfluff/status/1552426580483473409/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
