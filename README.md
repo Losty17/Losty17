@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* @sadpwcca kill urself
+* @sadpwcca me me me me please me myself meee me
 * @sadpwcca todo fã do rpg tem problema na cabeçca
 * ansiosissimo por dia 27 🥺
 * ele ia gostar.
-* @nseiingles_ eh tipo mandar um cachorro miar
-* @sadpwcca @lucasteske @fakenickels @TheEduardoRFS @coproduto devia ser html e css puro
 
 <!-- last_tweet ends -->
 </details>
