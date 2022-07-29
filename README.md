@@ -53,15 +53,13 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @BKergin: I don't mean to alarm anyone, but someone is about to give birth to George Jetson. - [Link](https://twitter.com/BKergin/status/1552760072576438272/photo/1) 
+* @sadpwcca concordo
 * @esposadamitski nd ver
 * RT @ImagesAlbum: - [Link](https://twitter.com/ImagesAlbum/status/1552478582789881857/photo/1) 
 * vivo a base de sexo
 
 estou morto 🤠
-* fofo
-* - sabia que um dia ela fez um coracao com o filtro do meu cigarro?
-*mostrando como faz, sorrindo muito*
-- ta apaixo…
 
 <!-- last_tweet ends -->
 </details>
