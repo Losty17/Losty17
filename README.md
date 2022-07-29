@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* euuuu
+* @sadpwcca VEM TRABALHAR E PARA DE TWEETAR
+* @esposadamitski not not
 * @sadpwcca @mwdoka meu quarto
 * @sadpwcca @mwdoka eu literalmente dei RT nisso
-* @nseiingles_ @sadpwcca esse tempo todo o Léo queria me comer????? 🥺
-* @sadpwcca @nseiingles_ traduz pf eu n sei ler ******* e sou burr
-* nao me atente a morar sozinho que eu vou!!!
 
 <!-- last_tweet ends -->
 </details>
