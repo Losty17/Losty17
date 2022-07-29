@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* @null_jesse @sadpwcca
-* @sadpwcca @PazDosPovos smt
-* @sadpwcca @PazDosPovos se tivesse curtido n teria te marcado
-* @PazDosPovos @sadpwcca
-* RT @thaisfluff: raphtalia 🍂 - [Link](https://twitter.com/thaisfluff/status/1552426580483473409/photo/1) 
+* @sadpwcca @mwdoka meu quarto
+* @sadpwcca @mwdoka eu literalmente dei RT nisso
+* @nseiingles_ @sadpwcca esse tempo todo o Léo queria me comer????? 🥺
+* @sadpwcca @nseiingles_ traduz pf eu n sei ler ******* e sou burr
+* nao me atente a morar sozinho que eu vou!!!
 
 <!-- last_tweet ends -->
 </details>
