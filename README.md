@@ -53,13 +53,12 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @BKergin: I don't mean to alarm anyone, but someone is about to give birth to George Jetson. - [Link](https://twitter.com/BKergin/status/1552760072576438272/photo/1) 
-* @sadpwcca concordo
-* @esposadamitski nd ver
-* RT @ImagesAlbum: - [Link](https://twitter.com/ImagesAlbum/status/1552478582789881857/photo/1) 
-* vivo a base de sexo
-
-estou morto 🤠
+* dont say her name
+* RT @cellbit: esqueci de avisar!!
+sem live hoje porque preciso escrever a narração de 8 paginas da morte do bisteca pra amanhã
+* saudade da ****** 😭😭😭😭😭😭😭😭😭😭😭😭😭
+* @ZzLamazing porrs de faculdade de preguiçoso é essa???
+* RT @PR0GRAMMERHUM0R: My code doesn't compile. been trying for a while - [Link](https://twitter.com/PR0GRAMMERHUM0R/status/1553002424012619784/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
