@@ -53,12 +53,12 @@
     </summary>
 
 <!-- last_tweet starts -->
+* @sadpwcca @yagooleao pior q n foi mesmo
 * dont say her name
 * RT @cellbit: esqueci de avisar!!
 sem live hoje porque preciso escrever a narração de 8 paginas da morte do bisteca pra amanhã
 * saudade da ****** 😭😭😭😭😭😭😭😭😭😭😭😭😭
 * @ZzLamazing porrs de faculdade de preguiçoso é essa???
-* RT @PR0GRAMMERHUM0R: My code doesn't compile. been trying for a while - [Link](https://twitter.com/PR0GRAMMERHUM0R/status/1553002424012619784/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
