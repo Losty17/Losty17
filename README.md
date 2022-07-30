@@ -53,12 +53,12 @@
     </summary>
 
 <!-- last_tweet starts -->
+* nunca confie na bolha dev eles te viciarão num framework novo
 * @sadpwcca @yagooleao pior q n foi mesmo
 * dont say her name
 * RT @cellbit: esqueci de avisar!!
 sem live hoje porque preciso escrever a narração de 8 paginas da morte do bisteca pra amanhã
 * saudade da ****** 😭😭😭😭😭😭😭😭😭😭😭😭😭
-* @ZzLamazing porrs de faculdade de preguiçoso é essa???
 
 <!-- last_tweet ends -->
 </details>
