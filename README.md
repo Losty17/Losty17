@@ -53,12 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* @Jotapekl inveja...........
+* @Jotapekl agora mostre as entradas
+* RT @XxakamyxX: MNN A PINTURA FICOU MTT FODA #OSNI - [Link](https://twitter.com/XxakamyxX/status/1553485304178569216/photo/1) 
 * nunca confie na bolha dev eles te viciarão num framework novo
 * @sadpwcca @yagooleao pior q n foi mesmo
-* dont say her name
-* RT @cellbit: esqueci de avisar!!
-sem live hoje porque preciso escrever a narração de 8 paginas da morte do bisteca pra amanhã
-* saudade da ****** 😭😭😭😭😭😭😭😭😭😭😭😭😭
 
 <!-- last_tweet ends -->
 </details>
