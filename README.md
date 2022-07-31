@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* @naclr4 St. Nicholas Church - Gante, Bélgica
+* @naclr4 mediano eu diria
+* @naclr4 ta dificil hj
 * @Jotapekl inveja...........
 * @Jotapekl agora mostre as entradas
-* RT @XxakamyxX: MNN A PINTURA FICOU MTT FODA #OSNI - [Link](https://twitter.com/XxakamyxX/status/1553485304178569216/photo/1) 
-* nunca confie na bolha dev eles te viciarão num framework novo
-* @sadpwcca @yagooleao pior q n foi mesmo
 
 <!-- last_tweet ends -->
 </details>
