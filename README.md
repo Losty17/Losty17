@@ -53,14 +53,13 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @mitskiIeaks: - [Link](https://twitter.com/mitskiIeaks/status/1554194459637587968/photo/1) 
+* @naclr4 eeeeeeeeeeee
+* @naclr4 burra acima
 * RT @sergsoares: Torvalds tem um Mac M2 com Linux e tá entregando task.
 
 Vai você fazer esse setup pra ver o hate que vai sofrer da comunida…
 * @sadpwcca Trabalhar não quer né
-* @esposadamitski KKKKKKKKKKKKKKKKKKKKKKKKKK
-* RT @SigmaMemes_69: - [Link](https://twitter.com/SigmaMemes_69/status/1553485667908427778/photo/1) 
-* RT @mitskilyricsbot: I'm liquid smooth, come touch me, too
-And feel my skin is plump and full of life
 
 <!-- last_tweet ends -->
 </details>
