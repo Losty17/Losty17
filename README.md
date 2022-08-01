@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* 🥺🥺
 * @sadpwcca okk
 * RT @PR0GRAMMERHUM0R: Everything is a file - [Link](https://twitter.com/PR0GRAMMERHUM0R/status/1553757402545242117/photo/1) 
 * @naclr4 St. Nicholas Church - Gante, Bélgica
 * @naclr4 mediano eu diria
-* @naclr4 ta dificil hj
 
 <!-- last_tweet ends -->
 </details>
