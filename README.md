@@ -53,13 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @mitskiIeaks: - [Link](https://twitter.com/mitskiIeaks/status/1554194459637587968/photo/1) 
-* @naclr4 eeeeeeeeeeee
-* @naclr4 burra acima
-* RT @sergsoares: Torvalds tem um Mac M2 com Linux e tá entregando task.
-
-Vai você fazer esse setup pra ver o hate que vai sofrer da comunida…
-* @sadpwcca Trabalhar não quer né
+* @sadpwcca pqqqqqqqqqqq
+* @sadpwcca @esposadamitski única coisa q eu queria era...
+* acho que fiquei umas 10h programando hoje......
+* @sadpwcca @esposadamitski sou o fã n° 1 de mitski de santa cruz
+* @sadpwcca nao
 
 <!-- last_tweet ends -->
 </details>
