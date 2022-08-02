@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* @sadpwcca arch btw
 * @sadpwcca pqqqqqqqqqqq
 * @sadpwcca @esposadamitski única coisa q eu queria era...
 * acho que fiquei umas 10h programando hoje......
 * @sadpwcca @esposadamitski sou o fã n° 1 de mitski de santa cruz
-* @sadpwcca nao
 
 <!-- last_tweet ends -->
 </details>
