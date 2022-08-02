@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* @sadpwcca trabalhar n quer ne
+* RT @IONNAPEE: - [Link](https://twitter.com/IONNAPEE/status/1553938903819755520/photo/1) 
 * @sadpwcca arch btw
 * @sadpwcca pqqqqqqqqqqq
 * @sadpwcca @esposadamitski única coisa q eu queria era...
-* acho que fiquei umas 10h programando hoje......
-* @sadpwcca @esposadamitski sou o fã n° 1 de mitski de santa cruz
 
 <!-- last_tweet ends -->
 </details>
