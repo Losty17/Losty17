@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* @sadpwcca trabalhar n quer ne
-* RT @IONNAPEE: - [Link](https://twitter.com/IONNAPEE/status/1553938903819755520/photo/1) 
-* @sadpwcca arch btw
-* @sadpwcca pqqqqqqqqqqq
-* @sadpwcca @esposadamitski única coisa q eu queria era...
+* euuuu
+* leo eh tipo *ri da minha cara por 3s, procede a usar o celular de forma muito séria
+* @sadpwcca is this your dnd character
+* @esposadamitski graças a deus 🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏
+* @esposadamitski tl;dr
 
 <!-- last_tweet ends -->
 </details>
