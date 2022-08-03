@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* @sadpwcca euu
+* @sadpwcca it hurts a looooot
+* @sadpwcca oiiiiiiiiiiiiiiiiiiiii
 * @sadpwcca passa sim.
 * euuuu
-* leo eh tipo *ri da minha cara por 3s, procede a usar o celular de forma muito séria
-* @sadpwcca is this your dnd character
-* @esposadamitski graças a deus 🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏
 
 <!-- last_tweet ends -->
 </details>
