@@ -53,11 +53,13 @@
     </summary>
 
 <!-- last_tweet starts -->
+* @naclr4 chad
+* RT @mitskithoughts: other ppl: life's short
+
+mitski: i steal a few breaths from the world for a minute, and then i'll be nothing forever
+* RT @caelumine: by age 30 you should have a group of friends that consists of at least one tank, one healer, and two dps
 * @sadpwcca euu
 * @sadpwcca it hurts a looooot
-* @sadpwcca oiiiiiiiiiiiiiiiiiiiii
-* @sadpwcca passa sim.
-* euuuu
 
 <!-- last_tweet ends -->
 </details>
