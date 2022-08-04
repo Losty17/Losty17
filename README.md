@@ -53,15 +53,13 @@
     </summary>
 
 <!-- last_tweet starts -->
+* @sadpwcca im the chad
+* RT @mats_sil: "tmlc meu minecraft é original po" - [Link](https://twitter.com/mats_sil/status/1554843659165728768/video/1) 
 * euu 🥺🥺
 * i miss u so much
 * i dream of you almost every night
 
 hopefully i wont wake up this time
-* @naclr4 chad
-* RT @mitskithoughts: other ppl: life's short
-
-mitski: i steal a few breaths from the world for a minute, and then i'll be nothing forever
 
 <!-- last_tweet ends -->
 </details>
