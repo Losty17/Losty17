@@ -53,13 +53,15 @@
     </summary>
 
 <!-- last_tweet starts -->
+* euu 🥺🥺
+* i miss u so much
+* i dream of you almost every night
+
+hopefully i wont wake up this time
 * @naclr4 chad
 * RT @mitskithoughts: other ppl: life's short
 
 mitski: i steal a few breaths from the world for a minute, and then i'll be nothing forever
-* RT @caelumine: by age 30 you should have a group of friends that consists of at least one tank, one healer, and two dps
-* @sadpwcca euu
-* @sadpwcca it hurts a looooot
 
 <!-- last_tweet ends -->
 </details>
