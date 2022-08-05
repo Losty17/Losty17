@@ -53,13 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* imagina trabalhar com programação e não passar 90% do tempo livre programando smh
+* @sadpwcca @esposadamitski euuuuu 🤝🤝🤝
+* @sadpwcca @yagooleao NAO
+* @yagooleao @sadpwcca acordar pra arrumar as piscinas do modelador 💪💪💪
 * @sadpwcca im the chad
-* RT @mats_sil: "tmlc meu minecraft é original po" - [Link](https://twitter.com/mats_sil/status/1554843659165728768/video/1) 
-* euu 🥺🥺
-* i miss u so much
-* i dream of you almost every night
-
-hopefully i wont wake up this time
 
 <!-- last_tweet ends -->
 </details>
