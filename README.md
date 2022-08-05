@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* @esposadamitski @sskargnakhh @confissoeszxxx @sadpwcca eu achei!!!!
+* procuro ser vivo pra usar cmg
+* RT @OrdemCast: Tamo amiguinhos da Lolja agora e a gente vai liberar um sorteio de R$300!!! É só da RT neste tweet principal e seguir as con…
 * imagina trabalhar com programação e não passar 90% do tempo livre programando smh
 * @sadpwcca @esposadamitski euuuuu 🤝🤝🤝
-* @sadpwcca @yagooleao NAO
-* @yagooleao @sadpwcca acordar pra arrumar as piscinas do modelador 💪💪💪
-* @sadpwcca im the chad
 
 <!-- last_tweet ends -->
 </details>
