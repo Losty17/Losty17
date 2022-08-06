@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @neongeneshit: - [Link](https://twitter.com/neongeneshit/status/1555660941747953664/photo/1) 
 * @sadpwcca i dont like guys
 * @sadpwcca all the pretty girls come from 🏳️‍🌈 or 🏳️‍⚧️
 * @sadpwcca vai me comer
 * canalhas!
-* @sadpwcca e ainda diz que nao vai comer
 
 <!-- last_tweet ends -->
 </details>
