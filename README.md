@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* after all i still love her
-* @kiesztw hello
-* RT @SpiritAndMouse: After the cat game... why not play the mouse game 😏 - [Link](https://twitter.com/SpiritAndMouse/status/1555997086042177538/video/1) 
-* oxi me chama e nao me responde
-* RT @saturxies: é isso o que a terapia faz com as pessoas #OSNI - [Link](https://twitter.com/saturxies/status/1556033567192383492/photo/1) 
+* @srprogrammer @sadpwcca eu
+* RT @kaylepoppy: omg.. - [Link](https://twitter.com/kaylepoppy/status/1555528005912608769/photo/1) 
+* @naclr4 eu vou ver vc morrer amanha :)
+* RT @shirtsthtgohard: - [Link](https://twitter.com/shirtsthtgohard/status/1556111386266062848/photo/1) 
+* RT @wtfritzz_: AIAIAIAIAIAIA ESSA DUPLINHA #OSNI - [Link](https://twitter.com/wtfritzz_/status/1556096276344852481/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
