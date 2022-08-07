@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @neongeneshit: - [Link](https://twitter.com/neongeneshit/status/1555660941747953664/photo/1) 
-* @sadpwcca i dont like guys
-* @sadpwcca all the pretty girls come from 🏳️‍🌈 or 🏳️‍⚧️
-* @sadpwcca vai me comer
-* canalhas!
+* after all i still love her
+* @kiesztw hello
+* RT @SpiritAndMouse: After the cat game... why not play the mouse game 😏 - [Link](https://twitter.com/SpiritAndMouse/status/1555997086042177538/video/1) 
+* oxi me chama e nao me responde
+* RT @saturxies: é isso o que a terapia faz com as pessoas #OSNI - [Link](https://twitter.com/saturxies/status/1556033567192383492/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
