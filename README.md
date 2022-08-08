@@ -53,11 +53,13 @@
     </summary>
 
 <!-- last_tweet starts -->
-* @srprogrammer @sadpwcca eu
-* RT @kaylepoppy: omg.. - [Link](https://twitter.com/kaylepoppy/status/1555528005912608769/photo/1) 
-* @naclr4 eu vou ver vc morrer amanha :)
-* RT @shirtsthtgohard: - [Link](https://twitter.com/shirtsthtgohard/status/1556111386266062848/photo/1) 
-* RT @wtfritzz_: AIAIAIAIAIAIA ESSA DUPLINHA #OSNI - [Link](https://twitter.com/wtfritzz_/status/1556096276344852481/photo/1) 
+* @naclr4 fofo
+* @sadpwcca comigo
+* @naclr4 vai vira emo
+* @ZzLamazing deliciosa
+* RT @orinisshh: Admito que eu ri um pouco durante essa batalha
+"O segredo do Adrian é que ele é pai da Amora"
+"O segredo do padre é que ele…
 
 <!-- last_tweet ends -->
 </details>
