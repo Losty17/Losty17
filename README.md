@@ -53,13 +53,13 @@
     </summary>
 
 <!-- last_tweet starts -->
-* @naclr4 fofo
-* @sadpwcca comigo
-* @naclr4 vai vira emo
-* @ZzLamazing deliciosa
-* RT @orinisshh: Admito que eu ri um pouco durante essa batalha
-"O segredo do Adrian é que ele é pai da Amora"
-"O segredo do padre é que ele…
+* RT @Kuni_Cheesecake: This genre of lesbians - [Link](https://twitter.com/Kuni_Cheesecake/status/1556301470571839489/photo/1) 
+* 😖
+* RT @FelippeRegazio: front end = pinta botão e faz "ajax" em js o dia inteiro e inventa nomes novos pra isso
+
+backend = faz crud e inventa 3…
+* @Apo3ycttye @sadpwcca tu
+* @sadpwcca lembrei da mulher no prédio do carlos
 
 <!-- last_tweet ends -->
 </details>
