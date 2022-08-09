@@ -53,13 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @SigmaMemes_69: - [Link](https://twitter.com/SigmaMemes_69/status/1556656325102272513/photo/1) 
-* sorry i love u
-* RT @Manz: Me, at 2022
-
-#Javascript - [Link](https://twitter.com/Manz/status/1556440723108646912/photo/1) 
-* @chazinhopreto @GRBartho
-* RT @bwahwtfbwah: when i say 😵‍💫 this is what i mean. - [Link](https://twitter.com/bwahwtfbwah/status/1556385753902551041/photo/1) 
+* pelo amor de deus eh cada absurdo que eu leio sobre o flow nesse twitter 😵‍💫
+* RT @s4mdalia: ideia de date: eu vo na sua casa formatar seu pc e instalar o ssd que tu comprou na promoção na kabum
+* RT @SigmaMemes_69: - [Link](https://twitter.com/SigmaMemes_69/status/1556944417327648769/photo/1) 
+* RT @PR0GRAMMERHUM0R: hell - [Link](https://twitter.com/PR0GRAMMERHUM0R/status/1556898114761531392/photo/1) 
+* @sadpwcca ata
 
 <!-- last_tweet ends -->
 </details>
