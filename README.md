@@ -53,13 +53,13 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @Kuni_Cheesecake: This genre of lesbians - [Link](https://twitter.com/Kuni_Cheesecake/status/1556301470571839489/photo/1) 
-* 😖
-* RT @FelippeRegazio: front end = pinta botão e faz "ajax" em js o dia inteiro e inventa nomes novos pra isso
+* RT @SigmaMemes_69: - [Link](https://twitter.com/SigmaMemes_69/status/1556656325102272513/photo/1) 
+* sorry i love u
+* RT @Manz: Me, at 2022
 
-backend = faz crud e inventa 3…
-* @Apo3ycttye @sadpwcca tu
-* @sadpwcca lembrei da mulher no prédio do carlos
+#Javascript - [Link](https://twitter.com/Manz/status/1556440723108646912/photo/1) 
+* @chazinhopreto @GRBartho
+* RT @bwahwtfbwah: when i say 😵‍💫 this is what i mean. - [Link](https://twitter.com/bwahwtfbwah/status/1556385753902551041/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
