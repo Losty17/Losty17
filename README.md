@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* pelo amor de deus eh cada absurdo que eu leio sobre o flow nesse twitter 😵‍💫
-* RT @s4mdalia: ideia de date: eu vo na sua casa formatar seu pc e instalar o ssd que tu comprou na promoção na kabum
-* RT @SigmaMemes_69: - [Link](https://twitter.com/SigmaMemes_69/status/1556944417327648769/photo/1) 
-* RT @PR0GRAMMERHUM0R: hell - [Link](https://twitter.com/PR0GRAMMERHUM0R/status/1556898114761531392/photo/1) 
-* @sadpwcca ata
+* lúcido
+* @naclr4 @ApanhamDaEsposa lil raff bro 777
+* RT @gardiner_bryant: By age 30 you should be using Linux, already. There's no excuse.
+* RT @Cats_Culture: - [Link](https://twitter.com/Cats_Culture/status/1557041516836790275/photo/1) 
+* @ZzLamazing me responder no zap tu n quer ne
 
 <!-- last_tweet ends -->
 </details>
