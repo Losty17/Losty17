@@ -53,11 +53,13 @@
     </summary>
 
 <!-- last_tweet starts -->
-* lúcido
-* @naclr4 @ApanhamDaEsposa lil raff bro 777
-* RT @gardiner_bryant: By age 30 you should be using Linux, already. There's no excuse.
-* RT @Cats_Culture: - [Link](https://twitter.com/Cats_Culture/status/1557041516836790275/photo/1) 
-* @ZzLamazing me responder no zap tu n quer ne
+* 1w
+* RT @renalguem: CELLBIT MAIOR OCULTISTA DO BRASIL FEZ A GENTE FICAR REPETINDO ISSO PRA TRAZER O CHUPAKU
+
+#OSNI
+* RT @halomancer1: - [Link](https://twitter.com/halomancer1/status/1557213851153600513/photo/1) 
+* RT @PR0GRAMMERHUM0R: Bug Driven Development - [Link](https://twitter.com/PR0GRAMMERHUM0R/status/1557230285393215488/photo/1) 
+* @PR0GRAMMERHUM0R @sadpwcca
 
 <!-- last_tweet ends -->
 </details>
