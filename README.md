@@ -53,13 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* 1w
-* RT @renalguem: CELLBIT MAIOR OCULTISTA DO BRASIL FEZ A GENTE FICAR REPETINDO ISSO PRA TRAZER O CHUPAKU
-
-#OSNI
-* RT @halomancer1: - [Link](https://twitter.com/halomancer1/status/1557213851153600513/photo/1) 
-* RT @PR0GRAMMERHUM0R: Bug Driven Development - [Link](https://twitter.com/PR0GRAMMERHUM0R/status/1557230285393215488/photo/1) 
-* @PR0GRAMMERHUM0R @sadpwcca
+* @sadpwcca libera pra dar rt
+* RT @kaybeb0p: Late Knight Posting ⚔️ - [Link](https://twitter.com/kaybeb0p/status/1557243185000325120/photo/1) 
+* RT @sadhorrorr: evangelion - [Link](https://twitter.com/sadhorrorr/status/1557364730951598080/photo/1) 
+* @sadpwcca kuzurete yuku mae ni aaaaaaaaaaah
+* im a cweep im a weiwdo
 
 <!-- last_tweet ends -->
 </details>
