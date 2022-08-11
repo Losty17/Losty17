@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @PR0GRAMMERHUM0R: Where is the lie? - [Link](https://twitter.com/PR0GRAMMERHUM0R/status/1557502076472655875/photo/1) 
 * @sadpwcca libera pra dar rt
 * RT @kaybeb0p: Late Knight Posting ⚔️ - [Link](https://twitter.com/kaybeb0p/status/1557243185000325120/photo/1) 
 * RT @sadhorrorr: evangelion - [Link](https://twitter.com/sadhorrorr/status/1557364730951598080/photo/1) 
 * @sadpwcca kuzurete yuku mae ni aaaaaaaaaaah
-* im a cweep im a weiwdo
 
 <!-- last_tweet ends -->
 </details>
