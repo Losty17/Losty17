@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* @ZzLamazing rpg do cellbi
-* @siteptbr @kjam2ouseila opine
-* HAHAHAHAHAHA nao vo pode ver vo mi matar
-* RT @JoiaDaLua: O terrível e manipulador LEOZINHO
-* @esposadamitski nao vao nao ele precisa ser endireitado precisa de disciplina!!!!!!11!
+* @esposadamitski @sadpwcca pq ele é estagiário e eu sou contratado
+* @esposadamitski @sadpwcca trabalho ue
+* @sadpwcca @esposadamitski chad
+* RT @dnsmichi: @KrisBuytaert @nixcraft - [Link](https://twitter.com/dnsmichi/status/1558000954011799553/photo/1) 
+* @esposadamitski qualquer resposta além de hatsune miku é pecado
 
 <!-- last_tweet ends -->
 </details>
