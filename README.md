@@ -53,13 +53,13 @@
     </summary>
 
 <!-- last_tweet starts -->
+* i love dnd i love dnd i love dnd i love wasting 12h writing a 6h game i love making npcs that will appear only once…
 * RT @Wisdom_HQ: 15 Powerful Visuals About Psychology, Life &amp; Wisdom
 
 1. - [Link](https://twitter.com/Wisdom_HQ/status/1558090405450682368/photo/1) 
 * odeio "gente" que namora
 * RT @tristehomo: - [Link](https://twitter.com/tristehomo/status/1558157776064376832/photo/1) 
 * RT @feeeelps: 😐🤌 - [Link](https://twitter.com/feeeelps/status/1557851350729359366/photo/1) 
-* RT @timburtonmental: se não ganhar em todas a premiação foi comprada!!!!
 
 <!-- last_tweet ends -->
 </details>
