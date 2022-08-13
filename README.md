@@ -53,11 +53,13 @@
     </summary>
 
 <!-- last_tweet starts -->
-* @esposadamitski @sadpwcca pq ele é estagiário e eu sou contratado
-* @esposadamitski @sadpwcca trabalho ue
-* @sadpwcca @esposadamitski chad
-* RT @dnsmichi: @KrisBuytaert @nixcraft - [Link](https://twitter.com/dnsmichi/status/1558000954011799553/photo/1) 
-* @esposadamitski qualquer resposta além de hatsune miku é pecado
+* RT @Wisdom_HQ: 15 Powerful Visuals About Psychology, Life &amp; Wisdom
+
+1. - [Link](https://twitter.com/Wisdom_HQ/status/1558090405450682368/photo/1) 
+* odeio "gente" que namora
+* RT @tristehomo: - [Link](https://twitter.com/tristehomo/status/1558157776064376832/photo/1) 
+* RT @feeeelps: 😐🤌 - [Link](https://twitter.com/feeeelps/status/1557851350729359366/photo/1) 
+* RT @timburtonmental: se não ganhar em todas a premiação foi comprada!!!!
 
 <!-- last_tweet ends -->
 </details>
