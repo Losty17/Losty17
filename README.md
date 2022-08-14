@@ -53,13 +53,14 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @NotTheClick: whats the matter honey
+dont you like your guwucci bag - [Link](https://twitter.com/NotTheClick/status/1558078708698726408/photo/1) 
+* @s1lvesterISA eu acabei de fala isso na call pq vc ta lendo minha mente?
 * i love dnd i love dnd i love dnd i love wasting 12h writing a 6h game i love making npcs that will appear only once…
 * RT @Wisdom_HQ: 15 Powerful Visuals About Psychology, Life &amp; Wisdom
 
 1. - [Link](https://twitter.com/Wisdom_HQ/status/1558090405450682368/photo/1) 
 * odeio "gente" que namora
-* RT @tristehomo: - [Link](https://twitter.com/tristehomo/status/1558157776064376832/photo/1) 
-* RT @feeeelps: 😐🤌 - [Link](https://twitter.com/feeeelps/status/1557851350729359366/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
