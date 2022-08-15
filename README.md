@@ -53,13 +53,15 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @shitpostverdade: - [Link](https://twitter.com/shitpostverdade/status/1558602604816523269/photo/1) 
+* RT @PR0GRAMMERHUM0R: all i know is pain :( - [Link](https://twitter.com/PR0GRAMMERHUM0R/status/1559102623432810496/photo/1) 
+* RT @M00NCHINEN: eu tô rachando o bico com a piada q eu vi
+
+se vc transferir R$ 3,14 vc vai estar fazendo um πx
 * RT @neongeneshit: Kit gamer evangélico - [Link](https://twitter.com/neongeneshit/status/1558929188131950592/photo/1) 
 * C só é difícil pq não tem CLASSES 
 
 orientação a objeto facilita muito a vida
-* como pode uma loja nao aceitar pix em 2022
-* RT @neongeneshit: Misato cabelo curto - [Link](https://twitter.com/neongeneshit/status/1558892832911507456/photo/1) 
-* RT @alkinacosmic: ARTHUR CERVERO O NOME DELE PORRA #OSNI - [Link](https://twitter.com/alkinacosmic/status/1558617103795724288/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
