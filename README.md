@@ -53,13 +53,13 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @ThePrimeagen: First Arduino project - [Link](https://twitter.com/ThePrimeagen/status/1558631760535093248/photo/1) 
-* eu 🤝 cellbit
-fazer tpk
-* todo mundo morreu hoje.........
-* RT @NotTheClick: whats the matter honey
-dont you like your guwucci bag - [Link](https://twitter.com/NotTheClick/status/1558078708698726408/photo/1) 
-* @s1lvesterISA eu acabei de fala isso na call pq vc ta lendo minha mente?
+* RT @neongeneshit: Kit gamer evangélico - [Link](https://twitter.com/neongeneshit/status/1558929188131950592/photo/1) 
+* C só é difícil pq não tem CLASSES 
+
+orientação a objeto facilita muito a vida
+* como pode uma loja nao aceitar pix em 2022
+* RT @neongeneshit: Misato cabelo curto - [Link](https://twitter.com/neongeneshit/status/1558892832911507456/photo/1) 
+* RT @alkinacosmic: ARTHUR CERVERO O NOME DELE PORRA #OSNI - [Link](https://twitter.com/alkinacosmic/status/1558617103795724288/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
