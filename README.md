@@ -53,15 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @shitpostverdade: - [Link](https://twitter.com/shitpostverdade/status/1558602604816523269/photo/1) 
-* RT @PR0GRAMMERHUM0R: all i know is pain :( - [Link](https://twitter.com/PR0GRAMMERHUM0R/status/1559102623432810496/photo/1) 
-* RT @M00NCHINEN: eu tô rachando o bico com a piada q eu vi
-
-se vc transferir R$ 3,14 vc vai estar fazendo um πx
-* RT @neongeneshit: Kit gamer evangélico - [Link](https://twitter.com/neongeneshit/status/1558929188131950592/photo/1) 
-* C só é difícil pq não tem CLASSES 
-
-orientação a objeto facilita muito a vida
+* RT @SkillsLevel: 😲 - [Link](https://twitter.com/SkillsLevel/status/1558776049567076353/video/1) 
+* ala uma de santa city ainda fjskdksksksksk
+* RT @mitskiIeaks: - [Link](https://twitter.com/mitskiIeaks/status/1559258027399606272/photo/1) 
+* RT @yungbzz: Eu tenho um problema: Eu não tenho controle nenhum do meu dinheiro. Já tentei planilha do excel e diversos aplicativos mas nen…
+* @mwdoka @sadpwcca
 
 <!-- last_tweet ends -->
 </details>
