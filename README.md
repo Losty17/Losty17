@@ -53,11 +53,13 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @SkillsLevel: 😲 - [Link](https://twitter.com/SkillsLevel/status/1558776049567076353/video/1) 
-* ala uma de santa city ainda fjskdksksksksk
-* RT @mitskiIeaks: - [Link](https://twitter.com/mitskiIeaks/status/1559258027399606272/photo/1) 
-* RT @yungbzz: Eu tenho um problema: Eu não tenho controle nenhum do meu dinheiro. Já tentei planilha do excel e diversos aplicativos mas nen…
-* @mwdoka @sadpwcca
+* vo ta assim amanha
+* RT @ThePotatoWard: V12.16 - Cyber Halo Janna Prestige Edition Splash Art
+
+#LeagueofLegends #RiotGames - [Link](https://twitter.com/ThePotatoWard/status/1559319070935511042/photo/1) 
+* @sadpwcca @voretecks tenho uma coisa pra te mostrar amanhã de manhã
+* @voretecks @sadpwcca u
+* @kjam2ouseila @asimbawe ☠️☠️☠️☠️ vo me m
 
 <!-- last_tweet ends -->
 </details>
