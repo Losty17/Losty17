@@ -53,13 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* vo ta assim amanha
-* RT @ThePotatoWard: V12.16 - Cyber Halo Janna Prestige Edition Splash Art
-
-#LeagueofLegends #RiotGames - [Link](https://twitter.com/ThePotatoWard/status/1559319070935511042/photo/1) 
-* @sadpwcca @voretecks tenho uma coisa pra te mostrar amanhã de manhã
-* @voretecks @sadpwcca u
-* @kjam2ouseila @asimbawe ☠️☠️☠️☠️ vo me m
+* aceito ingresso de presente de aniversário!!!!
+* quem vai mi levar
+* RT @bruuebluuro: Que saudade dele #Calamidade
+* @s1lvesterISA sexologia
+* @naclr4 eh vdd
 
 <!-- last_tweet ends -->
 </details>
