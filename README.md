@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* aceito ingresso de presente de aniversário!!!!
-* quem vai mi levar
-* RT @bruuebluuro: Que saudade dele #Calamidade
-* @s1lvesterISA sexologia
-* @naclr4 eh vdd
+* Po Elon musk podia libera a roda presente de aniversário
+* RT @kjjkev: esse me arranca boas risadas - [Link](https://twitter.com/kjjkev/status/1559530882616147969/photo/1) 
+* RT @sseramemes: - [Link](https://twitter.com/sseramemes/status/1559870182771900418/photo/1) 
+* RT @danoninhoamarel: I need uma namoradinha to watch ordem paranormal with me
+*  - [Link](https://twitter.com/yts0l/status/1559856495336259584/video/1) 
 
 <!-- last_tweet ends -->
 </details>
