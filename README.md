@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* i love u ******
-* RT @twoonrey: - [Link](https://twitter.com/twoonrey/status/1559338032272228353/photo/1) 
-* parasita.
-* @kjam2ouseila @dimitrisanders_ muca grande sabio filosofo
-* @sskargnakhh ☺️
+* nubank nao deixa eu cria conta
+* nubank q me aguarda quero um limite de 5 mil
+* @sadpwcca leo tenho coisa pra te contar amanhã de manhã cedo
+* @sadpwcca nao entendi
+* RT @nseiingles_: cansei n quero mais fala com ngm sumam todos!
 
 <!-- last_tweet ends -->
 </details>
