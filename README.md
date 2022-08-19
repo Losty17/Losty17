@@ -53,11 +53,15 @@
     </summary>
 
 <!-- last_tweet starts -->
-* nubank nao deixa eu cria conta
-* nubank q me aguarda quero um limite de 5 mil
-* @sadpwcca leo tenho coisa pra te contar amanhã de manhã cedo
-* @sadpwcca nao entendi
-* RT @nseiingles_: cansei n quero mais fala com ngm sumam todos!
+* RT @DRG_devil: Pedi pro bot fazer a Noralma no penhasco de frente ao oceano e saiu assim
+
+#OSNI #OSNIFanart #midjourney
+* KKKKKKKKKKKKKKKKKKKKKKKKKKK PODCAST DE SANTA CRUZ AHHAHAH4AH4AH4HA4HA4HA4HAH4A
+* @neicoree @jarredsumner @sadpwcca
+* RT @ErianFlower: Basicamente, Carreta Furacão só que adaptada como criatura paranormal. Sim, ta todo mundo.
+
+#OSNI #OrdemParanormal https:/…
+* RT @rottenm111k: - [Link](https://twitter.com/rottenm111k/status/1559669440119177216/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
