@@ -53,15 +53,13 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @shitpostverdade: - [Link](https://twitter.com/shitpostverdade/status/1560417497005920259/photo/1) 
+* RT @mestrepedrok: De tempos em temos, aparece esse tópico na minha timeline. Escolas proíbem RPG e jogos similares. A justificativas são, g…
+* RT @daiIymadoka: - [Link](https://twitter.com/daiIymadoka/status/1560458545035976704/photo/1) 
 * RT @DRG_devil: Pedi pro bot fazer a Noralma no penhasco de frente ao oceano e saiu assim
 
 #OSNI #OSNIFanart #midjourney
 * KKKKKKKKKKKKKKKKKKKKKKKKKKK PODCAST DE SANTA CRUZ AHHAHAH4AH4AH4HA4HA4HA4HAH4A
-* @neicoree @jarredsumner @sadpwcca
-* RT @ErianFlower: Basicamente, Carreta Furacão só que adaptada como criatura paranormal. Sim, ta todo mundo.
-
-#OSNI #OrdemParanormal https:/…
-* RT @rottenm111k: - [Link](https://twitter.com/rottenm111k/status/1559669440119177216/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
