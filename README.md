@@ -25,9 +25,9 @@
     <!-- <img src="res/hameru.png" align="right" height="180px"> -->
     <li><strong>Name:</strong> Vinícius Kappke;</li>
     <li><strong>From:</strong> Brazil;</li>
-    <li><strong>Age:</strong> 17 yo;</li>
+    <li><strong>Age:</strong> 18 yo;</li>
     <li><strong>Skills:</strong> <em>Python</em>, Typescript, Java, MySQL, MongoDB, GIT, SVN & Scrum;</li>
-    <li><strong>Frameworks:</strong> Flask, Django, React, MUI & Express;</li>
+    <li><strong>Frameworks:</strong> Flask, React, & Express;</li>
     <li><strong>Working at:</strong> Interact Solutions;</li>
     <li><strong>Ask me about:</strong> Coding, gaming, manga & anime;</li>
 </ul>
