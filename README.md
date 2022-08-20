@@ -53,13 +53,13 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @shitpostverdade: - [Link](https://twitter.com/shitpostverdade/status/1560417497005920259/photo/1) 
-* RT @mestrepedrok: De tempos em temos, aparece esse tópico na minha timeline. Escolas proíbem RPG e jogos similares. A justificativas são, g…
-* RT @daiIymadoka: - [Link](https://twitter.com/daiIymadoka/status/1560458545035976704/photo/1) 
-* RT @DRG_devil: Pedi pro bot fazer a Noralma no penhasco de frente ao oceano e saiu assim
-
-#OSNI #OSNIFanart #midjourney
-* KKKKKKKKKKKKKKKKKKKKKKKKKKK PODCAST DE SANTA CRUZ AHHAHAH4AH4AH4HA4HA4HA4HAH4A
+* RT @2crit2quit: ~🌿🌸~
+I’ve got a small shop update coming your way next week ~ super 🐝🐝 atm so that’s as specific as I can be✨
+#dnd #dice #t…
+* RT @Salon_misteor: - [Link](https://twitter.com/Salon_misteor/status/1560779224209936384/photo/1) 
+* @s1lvesterISA mande link
+* @ZzLamazing isso pq n ouviram mtg maldição eterna 1.0
+* @naclr4 meu deus eu passei rapido e li to gravida de novo
 
 <!-- last_tweet ends -->
 </details>
