@@ -53,13 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @2crit2quit: ~🌿🌸~
-I’ve got a small shop update coming your way next week ~ super 🐝🐝 atm so that’s as specific as I can be✨
-#dnd #dice #t…
-* RT @Salon_misteor: - [Link](https://twitter.com/Salon_misteor/status/1560779224209936384/photo/1) 
-* @s1lvesterISA mande link
-* @ZzLamazing isso pq n ouviram mtg maldição eterna 1.0
-* @naclr4 meu deus eu passei rapido e li to gravida de novo
+* RT @0ddoblivion: Emotionally unavailable. - [Link](https://twitter.com/0ddoblivion/status/1560416219882307585/photo/1) 
+* RT @pitchcanker: KNIGHT ARTORIAS OF THE ABYSS - [Link](https://twitter.com/pitchcanker/status/1560567606859468801/photo/1) 
+* RT @dumbricardo: - [Link](https://twitter.com/dumbricardo/status/1560690559802548226/photo/1) 
+* @naclr4 😁
+* @naclr4 to
 
 <!-- last_tweet ends -->
 </details>
