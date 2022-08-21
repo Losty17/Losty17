@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @0ddoblivion: Emotionally unavailable. - [Link](https://twitter.com/0ddoblivion/status/1560416219882307585/photo/1) 
-* RT @pitchcanker: KNIGHT ARTORIAS OF THE ABYSS - [Link](https://twitter.com/pitchcanker/status/1560567606859468801/photo/1) 
-* RT @dumbricardo: - [Link](https://twitter.com/dumbricardo/status/1560690559802548226/photo/1) 
-* @naclr4 😁
-* @naclr4 to
+* euuuuuuuuu
+* ninguem responde as minhas loucuras no whatsapp 😭😭😭😭 so queria alguem pra compartilhar minhas ideias insanas
+* RT @memeinteligentx: - [Link](https://twitter.com/memeinteligentx/status/1561118165345730561/photo/1) 
+* RT @lesbojouki: petição pra cancelar setembro #SinaisDoOutroLado #SDOL - [Link](https://twitter.com/lesbojouki/status/1561126896770994181/photo/1) 
+* RT @cinemagrath: mestre fraco - [Link](https://twitter.com/cinemagrath/status/1561131724347686912/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
