@@ -53,11 +53,13 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @cellbit: ansioso pra outubro
+* RT @PR0GRAMMERHUM0R: Think Outside The Box - [Link](https://twitter.com/PR0GRAMMERHUM0R/status/1561156333017174016/photo/1) 
+* RT @bradwilson: Don't change database columns in production databases. Just don't.
+
+Create a new column. Migrate the data. Write defensive…
 * euuuuuuuuu
 * ninguem responde as minhas loucuras no whatsapp 😭😭😭😭 so queria alguem pra compartilhar minhas ideias insanas
-* RT @memeinteligentx: - [Link](https://twitter.com/memeinteligentx/status/1561118165345730561/photo/1) 
-* RT @lesbojouki: petição pra cancelar setembro #SinaisDoOutroLado #SDOL - [Link](https://twitter.com/lesbojouki/status/1561126896770994181/photo/1) 
-* RT @cinemagrath: mestre fraco - [Link](https://twitter.com/cinemagrath/status/1561131724347686912/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
