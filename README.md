@@ -53,13 +53,13 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @cellbit: ansioso pra outubro
-* RT @PR0GRAMMERHUM0R: Think Outside The Box - [Link](https://twitter.com/PR0GRAMMERHUM0R/status/1561156333017174016/photo/1) 
-* RT @bradwilson: Don't change database columns in production databases. Just don't.
+* @sadpwcca fofo
+* cara meu sonho é isso
+* RT @CobyArts: @cinemagrath Eu fiz uma coisa
 
-Create a new column. Migrate the data. Write defensive…
-* euuuuuuuuu
-* ninguem responde as minhas loucuras no whatsapp 😭😭😭😭 so queria alguem pra compartilhar minhas ideias insanas
+#OrdemParanormal #OSNI #OSNIFanart - [Link](https://twitter.com/CobyArts/status/1561415095925837826/photo/1) 
+* @ZzLamazing te comeria como mulher e como homem
+* RT @shitpostverdade: - [Link](https://twitter.com/shitpostverdade/status/1561441136958672896/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
