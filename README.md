@@ -53,13 +53,12 @@
     </summary>
 
 <!-- last_tweet starts -->
+* cara se todas as minhas ideias pro mythril derem certo eu vou ficar tão feliz
 * @sadpwcca fofo
 * cara meu sonho é isso
 * RT @CobyArts: @cinemagrath Eu fiz uma coisa
 
 #OrdemParanormal #OSNI #OSNIFanart - [Link](https://twitter.com/CobyArts/status/1561415095925837826/photo/1) 
-* @ZzLamazing te comeria como mulher e como homem
-* RT @shitpostverdade: - [Link](https://twitter.com/shitpostverdade/status/1561441136958672896/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
