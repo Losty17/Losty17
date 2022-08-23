@@ -53,11 +53,16 @@
     </summary>
 
 <!-- last_tweet starts -->
-* spu gay
-* @Guibassauro @esposadamitski @sadpwcca eu sou so um homem de cabelo comprido!!!!
-* @naclr4 para de fala bosta e me responde no discord
-* vo mi mata hoje a meia noite
-* @naclr4 cala boca ana clar
+* @britaniarts @Rakin tu aplica esse efeito de desenho pelo photoshop?
+* galera de aop nunca lidou com homebrew quebrado de d&amp;d
+* RT @davimlins: Fiz o token do Keeberus do Ordem Paranormal :) 
+
+Download: 
+
+#ordemparanormalrpg 
+#ordemparanormalfan…
+* patetico esse teu perfil no linkedin hein esperava mais de alguem q se acha tanto
+* RT @sseramemes: - [Link](https://twitter.com/sseramemes/status/1561864506942361601/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
