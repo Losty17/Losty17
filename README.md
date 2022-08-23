@@ -53,12 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* cara se todas as minhas ideias pro mythril derem certo eu vou ficar tão feliz
-* @sadpwcca fofo
-* cara meu sonho é isso
-* RT @CobyArts: @cinemagrath Eu fiz uma coisa
-
-#OrdemParanormal #OSNI #OSNIFanart - [Link](https://twitter.com/CobyArts/status/1561415095925837826/photo/1) 
+* spu gay
+* @Guibassauro @esposadamitski @sadpwcca eu sou so um homem de cabelo comprido!!!!
+* @naclr4 para de fala bosta e me responde no discord
+* vo mi mata hoje a meia noite
+* @naclr4 cala boca ana clar
 
 <!-- last_tweet ends -->
 </details>
