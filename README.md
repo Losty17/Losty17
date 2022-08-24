@@ -53,14 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @madeleinekmason: reject modernity      embrace tradition - [Link](https://twitter.com/madeleinekmason/status/1561788299382886400/photo/1) 
-* RT @JermSansContext: - [Link](https://twitter.com/JermSansContext/status/1561846706215522307/photo/1) 
-* e quem de qrt nesse tweet eh broxa
-* acho MUITO engraçado a galera falando que a Globo apoia o Bolsonaro e corroborou pra queda do PT
-* RT @MemesDnd: Y’all Need to Chill About the UA
-🧙🏻‍♂️⚔️🎲
-credit: P4TR10T_96
-#dnd  #rpg  #5e  #charactersheet  #roleplay  #follow  #bard http…
+* RT @Icekoldsoup: Dread Druids #dnd #dndart - [Link](https://twitter.com/Icekoldsoup/status/1562237166314553344/photo/1) 
+* @ZzLamazing chad zeze virgin random
+* RT @aopconfissoes: - [Link](https://twitter.com/aopconfissoes/status/1562207826088529920/photo/1) 
+* RT @insaneb0ypussy: Holy shit - [Link](https://twitter.com/insaneb0ypussy/status/1561547252124028930/photo/1) 
+* RT @bwahwtfbwah: hi - [Link](https://twitter.com/bwahwtfbwah/status/1562220992814059520/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
