@@ -53,16 +53,14 @@
     </summary>
 
 <!-- last_tweet starts -->
-* @britaniarts @Rakin tu aplica esse efeito de desenho pelo photoshop?
-* galera de aop nunca lidou com homebrew quebrado de d&amp;d
-* RT @davimlins: Fiz o token do Keeberus do Ordem Paranormal :) 
-
-Download: 
-
-#ordemparanormalrpg 
-#ordemparanormalfan…
-* patetico esse teu perfil no linkedin hein esperava mais de alguem q se acha tanto
-* RT @sseramemes: - [Link](https://twitter.com/sseramemes/status/1561864506942361601/photo/1) 
+* RT @madeleinekmason: reject modernity      embrace tradition - [Link](https://twitter.com/madeleinekmason/status/1561788299382886400/photo/1) 
+* RT @JermSansContext: - [Link](https://twitter.com/JermSansContext/status/1561846706215522307/photo/1) 
+* e quem de qrt nesse tweet eh broxa
+* acho MUITO engraçado a galera falando que a Globo apoia o Bolsonaro e corroborou pra queda do PT
+* RT @MemesDnd: Y’all Need to Chill About the UA
+🧙🏻‍♂️⚔️🎲
+credit: P4TR10T_96
+#dnd  #rpg  #5e  #charactersheet  #roleplay  #follow  #bard http…
 
 <!-- last_tweet ends -->
 </details>
