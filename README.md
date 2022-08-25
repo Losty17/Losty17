@@ -53,11 +53,22 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @Icekoldsoup: Dread Druids #dnd #dndart - [Link](https://twitter.com/Icekoldsoup/status/1562237166314553344/photo/1) 
-* @ZzLamazing chad zeze virgin random
-* RT @aopconfissoes: - [Link](https://twitter.com/aopconfissoes/status/1562207826088529920/photo/1) 
-* RT @insaneb0ypussy: Holy shit - [Link](https://twitter.com/insaneb0ypussy/status/1561547252124028930/photo/1) 
-* RT @bwahwtfbwah: hi - [Link](https://twitter.com/bwahwtfbwah/status/1562220992814059520/photo/1) 
+* me arrependi de sugerir esse refactor....
+* RT @SpaethenArts: Fae Melön 🍉✨
+
+7 Piece Set - still available 😊
+
+
+
+#dicemaker #dnd5e #ttrpg #dndart
+* RT @eldritchchaos: here are some of my favorites from the most recent batch!
+
+also, don’t mind the d20/seafaring nebula set.. i got too exc…
+* RT @shirtsthtgohard: - [Link](https://twitter.com/shirtsthtgohard/status/1562476074667163650/photo/1) 
+* RT @hexbloodrogue: ~ GIVEAWAY TIME ~
+Wanna say thank you for all your amazing support here! Giving away this pastel clouds set &lt;3 ☁️
+
+Rules…
 
 <!-- last_tweet ends -->
 </details>
