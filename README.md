@@ -53,22 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* me arrependi de sugerir esse refactor....
-* RT @SpaethenArts: Fae Melön 🍉✨
-
-7 Piece Set - still available 😊
-
-
-
-#dicemaker #dnd5e #ttrpg #dndart
-* RT @eldritchchaos: here are some of my favorites from the most recent batch!
-
-also, don’t mind the d20/seafaring nebula set.. i got too exc…
-* RT @shirtsthtgohard: - [Link](https://twitter.com/shirtsthtgohard/status/1562476074667163650/photo/1) 
-* RT @hexbloodrogue: ~ GIVEAWAY TIME ~
-Wanna say thank you for all your amazing support here! Giving away this pastel clouds set &lt;3 ☁️
-
-Rules…
+* @sadpwcca mexendo com ch ratio + L
+* so queria codar
+* nao aguento mais eh todo dia issooooooooooo
+* RT @zzvini66: - [Link](https://twitter.com/zzvini66/status/1562607243316514817/photo/1) 
+* meu angel number é 1717
 
 <!-- last_tweet ends -->
 </details>
