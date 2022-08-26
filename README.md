@@ -53,11 +53,13 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @Sammycoruja: Florence, imaginei eles em ordem #OSNI 
+
+eu acho que a amelie usaria um jordan pra lutar contra entidades paranormais http…
+* eu so mt burro ne cara
+* 2 meses e meio já e eu ainda não superei ela
+* am**** ** ** *** aaaaaaaaaaa
 * @sadpwcca mexendo com ch ratio + L
-* so queria codar
-* nao aguento mais eh todo dia issooooooooooo
-* RT @zzvini66: - [Link](https://twitter.com/zzvini66/status/1562607243316514817/photo/1) 
-* meu angel number é 1717
 
 <!-- last_tweet ends -->
 </details>
