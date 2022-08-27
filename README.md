@@ -53,12 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @amoraartsy: Hm, achei isso aqui guardadinho do ano passado - [Link](https://twitter.com/amoraartsy/status/1563270101155033091/photo/1) 
-* RT @Rafa_kamaitachi: ela é problemática e eu também 🫠
-* @byluis_c converter, tipo usar um parseint ou parsefloat mas pra outras classes
-* CARALHO CONSEGUI FAZER UM METODO PRA CASTAR OBJETOS SEM GASTAR 31-0293819238190238901238901238 QUILOS DE MEMORIA EU…
-* RT @mr_not_brando: Mano, e o cara da minha squad que meteu o loco mesmo hoje kkkkkkkk
-#bolhadev - [Link](https://twitter.com/mr_not_brando/status/1563157350726246400/photo/1) 
+* RT @PR0GRAMMERHUM0R: Good idea or bad idea? - [Link](https://twitter.com/PR0GRAMMERHUM0R/status/1563421083138936832/photo/1) 
+* overthinking
+* RT @Cats_Culture: - [Link](https://twitter.com/Cats_Culture/status/1563383305847705605/photo/1) 
+* @kjam2ouseila @hourly_shitpost ?
+* eu quando a ****** *** ******** ** ** *** ******
 
 <!-- last_tweet ends -->
 </details>
