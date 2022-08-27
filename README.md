@@ -53,13 +53,12 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @Sammycoruja: Florence, imaginei eles em ordem #OSNI 
-
-eu acho que a amelie usaria um jordan pra lutar contra entidades paranormais http…
-* eu so mt burro ne cara
-* 2 meses e meio já e eu ainda não superei ela
-* am**** ** ** *** aaaaaaaaaaa
-* @sadpwcca mexendo com ch ratio + L
+* RT @amoraartsy: Hm, achei isso aqui guardadinho do ano passado - [Link](https://twitter.com/amoraartsy/status/1563270101155033091/photo/1) 
+* RT @Rafa_kamaitachi: ela é problemática e eu também 🫠
+* @byluis_c converter, tipo usar um parseint ou parsefloat mas pra outras classes
+* CARALHO CONSEGUI FAZER UM METODO PRA CASTAR OBJETOS SEM GASTAR 31-0293819238190238901238901238 QUILOS DE MEMORIA EU…
+* RT @mr_not_brando: Mano, e o cara da minha squad que meteu o loco mesmo hoje kkkkkkkk
+#bolhadev - [Link](https://twitter.com/mr_not_brando/status/1563157350726246400/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
