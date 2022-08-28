@@ -53,13 +53,13 @@
     </summary>
 
 <!-- last_tweet starts -->
+* pergunta mais humilhante da minha vida, uma criança perguntando se eu já namorei
+* RT @naclr4: odeio essa mulher mano
 * RT @llariie_: é sábado.......
 
 é sábado e não tem rpg...
 * @cinemagrath @naclr4
 * Gal ocultista
-* RT @shirtsthtgohard: - [Link](https://twitter.com/shirtsthtgohard/status/1563512120540827656/photo/1) 
-* RT @PR0GRAMMERHUM0R: Good idea or bad idea? - [Link](https://twitter.com/PR0GRAMMERHUM0R/status/1563421083138936832/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
