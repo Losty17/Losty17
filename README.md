@@ -53,11 +53,13 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @llariie_: é sábado.......
+
+é sábado e não tem rpg...
+* @cinemagrath @naclr4
+* Gal ocultista
+* RT @shirtsthtgohard: - [Link](https://twitter.com/shirtsthtgohard/status/1563512120540827656/photo/1) 
 * RT @PR0GRAMMERHUM0R: Good idea or bad idea? - [Link](https://twitter.com/PR0GRAMMERHUM0R/status/1563421083138936832/photo/1) 
-* overthinking
-* RT @Cats_Culture: - [Link](https://twitter.com/Cats_Culture/status/1563383305847705605/photo/1) 
-* @kjam2ouseila @hourly_shitpost ?
-* eu quando a ****** *** ******** ** ** *** ******
 
 <!-- last_tweet ends -->
 </details>
