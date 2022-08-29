@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @PR0GRAMMERHUM0R: How does this even - [Link](https://twitter.com/PR0GRAMMERHUM0R/status/1564176053647642625/photo/1) 
+* @khonarh_ a sofia
+* @naclr4 ts falando mal de mim
 * @naclr4 sorte sua aí vc nao vê as merda q eu posto
 * @naclr4 ta v endo
-* @naclr4 narcisista
-* RT @nsei_4002: Isso q da usar Javascript no backend
-* @sadpwcca JAJAHAJAJA OQ ERA
 
 <!-- last_tweet ends -->
 </details>
