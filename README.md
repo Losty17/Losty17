@@ -53,13 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* pergunta mais humilhante da minha vida, uma criança perguntando se eu já namorei
-* RT @naclr4: odeio essa mulher mano
-* RT @llariie_: é sábado.......
-
-é sábado e não tem rpg...
-* @cinemagrath @naclr4
-* Gal ocultista
+* @naclr4 sorte sua aí vc nao vê as merda q eu posto
+* @naclr4 ta v endo
+* @naclr4 narcisista
+* RT @nsei_4002: Isso q da usar Javascript no backend
+* @sadpwcca JAJAHAJAJA OQ ERA
 
 <!-- last_tweet ends -->
 </details>
