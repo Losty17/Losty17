@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* desgraça pq eu não posso só ficar fazendo meu refactor em vez de ter q arrumar bug
+* RT @Discorrdpain: - [Link](https://twitter.com/Discorrdpain/status/1563950646105194497/photo/1) 
+* @naclr4 sua mão não e sua mao
 * caralho que mina gata não consigo tirar isso da cabeca
 * RT @francidellamora: meu corpo eh composto por 70% de água e o resto é de ódio ao JavaScript
-* RT @macaquilho: - [Link](https://twitter.com/macaquilho/status/1564070701375815681/photo/1) 
-* RT @renjunfemboy: - [Link](https://twitter.com/renjunfemboy/status/1564087508790640641/photo/1) 
-* RT @cohencure: Q LINDO O CENARIO NOVO DO BALELA - [Link](https://twitter.com/cohencure/status/1564269785369673734/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
