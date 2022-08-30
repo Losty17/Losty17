@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @PR0GRAMMERHUM0R: How does this even - [Link](https://twitter.com/PR0GRAMMERHUM0R/status/1564176053647642625/photo/1) 
-* @khonarh_ a sofia
-* @naclr4 ts falando mal de mim
-* @naclr4 sorte sua aí vc nao vê as merda q eu posto
-* @naclr4 ta v endo
+* caralho que mina gata não consigo tirar isso da cabeca
+* RT @francidellamora: meu corpo eh composto por 70% de água e o resto é de ódio ao JavaScript
+* RT @macaquilho: - [Link](https://twitter.com/macaquilho/status/1564070701375815681/photo/1) 
+* RT @renjunfemboy: - [Link](https://twitter.com/renjunfemboy/status/1564087508790640641/photo/1) 
+* RT @cohencure: Q LINDO O CENARIO NOVO DO BALELA - [Link](https://twitter.com/cohencure/status/1564269785369673734/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
