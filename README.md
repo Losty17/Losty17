@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* desgraça pq eu não posso só ficar fazendo meu refactor em vez de ter q arrumar bug
-* RT @Discorrdpain: - [Link](https://twitter.com/Discorrdpain/status/1563950646105194497/photo/1) 
-* @naclr4 sua mão não e sua mao
-* caralho que mina gata não consigo tirar isso da cabeca
-* RT @francidellamora: meu corpo eh composto por 70% de água e o resto é de ódio ao JavaScript
+* euuuuu
+* RT @Spideraxe30: Corrupted Zoe card back - [Link](https://twitter.com/Spideraxe30/status/1564660127071887363/photo/1) 
+* RT @GabeJamesGames: DnD Druids are just Fantasy Ben 10s
+* @s1lvesterISA hj liberou pra uma galera e so eu nao ganhei 🤧🤧🤧
+* cadeeee minha roda do twitterrrrrr
 
 <!-- last_tweet ends -->
 </details>
