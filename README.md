@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* euuuuu
-* RT @Spideraxe30: Corrupted Zoe card back - [Link](https://twitter.com/Spideraxe30/status/1564660127071887363/photo/1) 
-* RT @GabeJamesGames: DnD Druids are just Fantasy Ben 10s
-* @s1lvesterISA hj liberou pra uma galera e so eu nao ganhei 🤧🤧🤧
-* cadeeee minha roda do twitterrrrrr
+* hot take:
+* @crt_bot2 @sadpwcca
+* RT @epicdndmemes: #dnd #ttrpg - [Link](https://twitter.com/epicdndmemes/status/1564913008421257216/photo/1) 
+* RT @daiIymadoka: - [Link](https://twitter.com/daiIymadoka/status/1564796968794292224/photo/1) 
+* @Jotapekl ratio+ L
 
 <!-- last_tweet ends -->
 </details>
