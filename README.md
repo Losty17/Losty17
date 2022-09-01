@@ -53,17 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @sexowrld: mas pq seu currículo ta em branco?
-
-- sou low profile  senhor
-* gothk1tty
-* ainda quero fazer meu shaders q transforma 3D em pixel art foda
-* RT @Thicccsnail: My Tree Tutorial!
-
-See a more detailed explanation on my Instagram :)
-
-#pixelart #pixelartist #arttutorial
-* RT @crt_bot2: - [Link](https://twitter.com/crt_bot2/status/1564987766445748224/photo/1) 
+* RT @1MPULS3_101: #pixels #pixelart #ドット絵 #swordtember2022 #swordtember - [Link](https://twitter.com/1MPULS3_101/status/1565169503306129409/photo/1) 
+* RT @geraldd_tv: dos criadores de "vc me amaria se eu fosse uma minhoca" vem ai - [Link](https://twitter.com/geraldd_tv/status/1565126822660120578/photo/1) 
+* muitos pensamentos irei desligar minha cabecinha
+* RT @FelippeRegazio: a maior parte dos softwares que são ruins não foram feitos por devs ruins, foram feitos por devs bons sob uma gestão ru…
+* feel goodn't inc.
 
 <!-- last_tweet ends -->
 </details>
