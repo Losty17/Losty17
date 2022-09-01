@@ -53,11 +53,17 @@
     </summary>
 
 <!-- last_tweet starts -->
-* hot take:
-* @crt_bot2 @sadpwcca
-* RT @epicdndmemes: #dnd #ttrpg - [Link](https://twitter.com/epicdndmemes/status/1564913008421257216/photo/1) 
-* RT @daiIymadoka: - [Link](https://twitter.com/daiIymadoka/status/1564796968794292224/photo/1) 
-* @Jotapekl ratio+ L
+* RT @sexowrld: mas pq seu currículo ta em branco?
+
+- sou low profile  senhor
+* gothk1tty
+* ainda quero fazer meu shaders q transforma 3D em pixel art foda
+* RT @Thicccsnail: My Tree Tutorial!
+
+See a more detailed explanation on my Instagram :)
+
+#pixelart #pixelartist #arttutorial
+* RT @crt_bot2: - [Link](https://twitter.com/crt_bot2/status/1564987766445748224/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
