@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @1MPULS3_101: #pixels #pixelart #ドット絵 #swordtember2022 #swordtember - [Link](https://twitter.com/1MPULS3_101/status/1565169503306129409/photo/1) 
-* RT @geraldd_tv: dos criadores de "vc me amaria se eu fosse uma minhoca" vem ai - [Link](https://twitter.com/geraldd_tv/status/1565126822660120578/photo/1) 
-* muitos pensamentos irei desligar minha cabecinha
-* RT @FelippeRegazio: a maior parte dos softwares que são ruins não foram feitos por devs ruins, foram feitos por devs bons sob uma gestão ru…
-* feel goodn't inc.
+* procuro amigos interessados em mestrar one shot de d&amp;d tive uma ideia mt foda de personagem
+* @kjam2ouseila @s1lvesterISA - [Link](https://twitter.com/yts0l/status/1565421450038738946/photo/1) 
+* @s1lvesterISA nao faz
+* @kjam2ouseila @s1lvesterISA ** * **** **** ** ***** :)
+* quero muito jogar com um arqueiro que de 20d6 de dano num tiro
 
 <!-- last_tweet ends -->
 </details>
