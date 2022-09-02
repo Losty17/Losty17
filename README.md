@@ -53,11 +53,13 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @phnixhamsta: The no-fall-damage glitch is legit.
+
+You can negate ALL fall damage by sneaking (see keystrokes timing).
+* RT @FelippeRegazio: causa mortis: response 200 com { error } na body
+* RT @pollyanx: namoro sem dependência emocional pra mim é amizade
 * procuro amigos interessados em mestrar one shot de d&amp;d tive uma ideia mt foda de personagem
 * @kjam2ouseila @s1lvesterISA - [Link](https://twitter.com/yts0l/status/1565421450038738946/photo/1) 
-* @s1lvesterISA nao faz
-* @kjam2ouseila @s1lvesterISA ** * **** **** ** ***** :)
-* quero muito jogar com um arqueiro que de 20d6 de dano num tiro
 
 <!-- last_tweet ends -->
 </details>
