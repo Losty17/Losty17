@@ -53,13 +53,16 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @phnixhamsta: The no-fall-damage glitch is legit.
+* vou me matarei
+* RT @bailedo17: ent vcs terminaram 😭😭🎊🎊🎊🎊🎊🎊🎉🎉🎉🎉🎉🎉🎉🎉
+* RT @shmaba: Day 2 - Skeleton
+A dagger for your "Build-a-Skele" needs
 
-You can negate ALL fall damage by sneaking (see keystrokes timing).
-* RT @FelippeRegazio: causa mortis: response 200 com { error } na body
-* RT @pollyanx: namoro sem dependência emocional pra mim é amizade
-* procuro amigos interessados em mestrar one shot de d&amp;d tive uma ideia mt foda de personagem
-* @kjam2ouseila @s1lvesterISA - [Link](https://twitter.com/yts0l/status/1565421450038738946/photo/1) 
+#swordtember #swordtember2022 #dnd #dungeonsanddragons
+* RT @Nan_Yelo: Então é assim que é o interior da capa de guitarra do Arthur
+* RT @talvezzmika: Refazendo as marcas dos meus amigos parte 1/7 - marca do @FrancisFAT1
+
+Marca bonita cheirosa passou por uma harmonização p…
 
 <!-- last_tweet ends -->
 </details>
