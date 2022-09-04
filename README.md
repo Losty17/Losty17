@@ -53,6 +53,7 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @lu4lozz:
 * vou me matarei
 * RT @bailedo17: ent vcs terminaram 😭😭🎊🎊🎊🎊🎊🎊🎉🎉🎉🎉🎉🎉🎉🎉
 * RT @shmaba: Day 2 - Skeleton
@@ -60,9 +61,6 @@ A dagger for your "Build-a-Skele" needs
 
 #swordtember #swordtember2022 #dnd #dungeonsanddragons
 * RT @Nan_Yelo: Então é assim que é o interior da capa de guitarra do Arthur
-* RT @talvezzmika: Refazendo as marcas dos meus amigos parte 1/7 - marca do @FrancisFAT1
-
-Marca bonita cheirosa passou por uma harmonização p…
 
 <!-- last_tweet ends -->
 </details>
