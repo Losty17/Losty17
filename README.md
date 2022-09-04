@@ -53,14 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* sopra deixar claro bolhadev q um código javascript bem feito (usando jsdoc, classes, etc) é muito bom!!!! e o types…
+* @MarquesinePablo @BolhaTech meu objetivo era q isso morresse no meu twitter não q o bot retweetasse 😭😭 agora vo sof…
+* beginner friendly =&gt; horrível pra manutenção
+* javascript inferior pra caralho só por não ter tipagem estática. dificulta muito manter um código enorme com tipage…
 * RT @lu4lozz:
-* vou me matarei
-* RT @bailedo17: ent vcs terminaram 😭😭🎊🎊🎊🎊🎊🎊🎉🎉🎉🎉🎉🎉🎉🎉
-* RT @shmaba: Day 2 - Skeleton
-A dagger for your "Build-a-Skele" needs
-
-#swordtember #swordtember2022 #dnd #dungeonsanddragons
-* RT @Nan_Yelo: Então é assim que é o interior da capa de guitarra do Arthur
 
 <!-- last_tweet ends -->
 </details>
