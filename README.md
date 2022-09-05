@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* vo grinda aquele magnamalo e se eu nao matar ele hoje eu falto o trabalho amnanha
-* sopra deixar claro bolhadev q um código javascript bem feito (usando jsdoc, classes, etc) é muito bom!!!! e o types…
-* @MarquesinePablo @BolhaTech meu objetivo era q isso morresse no meu twitter não q o bot retweetasse 😭😭 agora vo sof…
-* beginner friendly =&gt; horrível pra manutenção
-* javascript inferior pra caralho só por não ter tipagem estática. dificulta muito manter um código enorme com tipage…
+* RT @SecundariaJao: assistir The Boys dublado é tipo: - [Link](https://twitter.com/SecundariaJao/status/1566491611659440129/photo/1) 
+* RT @1MPULS3_101: #pixels #pixelart #ドット絵 #swordtember2022 #swordtember - [Link](https://twitter.com/1MPULS3_101/status/1566596053591277569/photo/1) 
+* RT @epicdndmemes: #dnd #ttrpg - [Link](https://twitter.com/epicdndmemes/status/1566649439284039681/photo/1) 
+* RT @daiIymadoka: - [Link](https://twitter.com/daiIymadoka/status/1566598369262407682/photo/1) 
+* @naclr4 concordo
 
 <!-- last_tweet ends -->
 </details>
