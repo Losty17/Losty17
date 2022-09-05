@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* vo grinda aquele magnamalo e se eu nao matar ele hoje eu falto o trabalho amnanha
 * sopra deixar claro bolhadev q um código javascript bem feito (usando jsdoc, classes, etc) é muito bom!!!! e o types…
 * @MarquesinePablo @BolhaTech meu objetivo era q isso morresse no meu twitter não q o bot retweetasse 😭😭 agora vo sof…
 * beginner friendly =&gt; horrível pra manutenção
 * javascript inferior pra caralho só por não ter tipagem estática. dificulta muito manter um código enorme com tipage…
-* RT @lu4lozz:
 
 <!-- last_tweet ends -->
 </details>
