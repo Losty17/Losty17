@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @PR0GRAMMERHUM0R: Responsive vs Reactive vs Real-time - [Link](https://twitter.com/PR0GRAMMERHUM0R/status/1567044962772029440/photo/1) 
+* quando eu disse pra ela que Romeu e Julieta era minha tragédia favorita eu não esperava que ela quisesse reproduzir o final....
+* i thought too much today im sad &amp; tired
 * RT @mitskithoughts: mitski's old tweet of the day - [Link](https://twitter.com/mitskithoughts/status/1566858389547786240/photo/1) 
 * quem q vai patrocinar minha tatuagem do santo berço
-* RT @rg_diceboutique: Numbers UNPAINTED.  Now that we have that out of the way 🤗, a friend mentioned how this almost looks like the colors t…
-* @sadpwcca trabalhar tu n quer ne
-* RT @SecundariaJao: assistir The Boys dublado é tipo: - [Link](https://twitter.com/SecundariaJao/status/1566491611659440129/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
