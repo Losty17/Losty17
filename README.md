@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @mitskithoughts: mitski's old tweet of the day - [Link](https://twitter.com/mitskithoughts/status/1566858389547786240/photo/1) 
+* quem q vai patrocinar minha tatuagem do santo berço
+* RT @rg_diceboutique: Numbers UNPAINTED.  Now that we have that out of the way 🤗, a friend mentioned how this almost looks like the colors t…
+* @sadpwcca trabalhar tu n quer ne
 * RT @SecundariaJao: assistir The Boys dublado é tipo: - [Link](https://twitter.com/SecundariaJao/status/1566491611659440129/photo/1) 
-* RT @1MPULS3_101: #pixels #pixelart #ドット絵 #swordtember2022 #swordtember - [Link](https://twitter.com/1MPULS3_101/status/1566596053591277569/photo/1) 
-* RT @epicdndmemes: #dnd #ttrpg - [Link](https://twitter.com/epicdndmemes/status/1566649439284039681/photo/1) 
-* RT @daiIymadoka: - [Link](https://twitter.com/daiIymadoka/status/1566598369262407682/photo/1) 
-* @naclr4 concordo
 
 <!-- last_tweet ends -->
 </details>
