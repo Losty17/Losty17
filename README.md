@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* @endingwithali @sadpwcca
 * RT @Hourly_Kyubey: - [Link](https://twitter.com/Hourly_Kyubey/status/1566999596987215872/photo/1) 
 * RT @fleabeguito: de federal pra federal (saindo de universidade federal do rio de janeiro para hospital psiquiátrico philippe pinel
 * eu quando eu fizer carteira
 * @shitpagina @sadpwcca
-* RT @luykitt: nossakkkkkkkkk sem querer matei aquela sua amiguinha amorkk desculpa foi sem qjerer
 
 <!-- last_tweet ends -->
 </details>
