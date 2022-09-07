@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @PR0GRAMMERHUM0R: Responsive vs Reactive vs Real-time - [Link](https://twitter.com/PR0GRAMMERHUM0R/status/1567044962772029440/photo/1) 
-* quando eu disse pra ela que Romeu e Julieta era minha tragédia favorita eu não esperava que ela quisesse reproduzir o final....
-* i thought too much today im sad &amp; tired
-* RT @mitskithoughts: mitski's old tweet of the day - [Link](https://twitter.com/mitskithoughts/status/1566858389547786240/photo/1) 
-* quem q vai patrocinar minha tatuagem do santo berço
+* RT @Hourly_Kyubey: - [Link](https://twitter.com/Hourly_Kyubey/status/1566999596987215872/photo/1) 
+* RT @fleabeguito: de federal pra federal (saindo de universidade federal do rio de janeiro para hospital psiquiátrico philippe pinel
+* eu quando eu fizer carteira
+* @shitpagina @sadpwcca
+* RT @luykitt: nossakkkkkkkkk sem querer matei aquela sua amiguinha amorkk desculpa foi sem qjerer
 
 <!-- last_tweet ends -->
 </details>
