@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* @endingwithali @sadpwcca
-* RT @Hourly_Kyubey: - [Link](https://twitter.com/Hourly_Kyubey/status/1566999596987215872/photo/1) 
-* RT @fleabeguito: de federal pra federal (saindo de universidade federal do rio de janeiro para hospital psiquiátrico philippe pinel
-* eu quando eu fizer carteira
-* @shitpagina @sadpwcca
+* pq é tão difícil
+* RT @EchoXrayMusic: I went hunting for mushrooms and found tittake mushrooms - [Link](https://twitter.com/EchoXrayMusic/status/1567264061469126656/photo/1) 
+* RT @vittaIe: - [Link](https://twitter.com/vittaIe/status/1567308921202778114/photo/1) 
+* RT @QuirklessStoner: The Admiral fights a Kirin barehanded - [Link](https://twitter.com/QuirklessStoner/status/1567609319629242370/video/1) 
+* RT @QuirklessStoner: I am monster hunter fan - [Link](https://twitter.com/QuirklessStoner/status/1567548969110093824/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
