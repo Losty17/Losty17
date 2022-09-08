@@ -53,11 +53,21 @@
     </summary>
 
 <!-- last_tweet starts -->
+* @nosensemine @naclr4
+* RT @jujijuliar: soca fofo
+enforca errado
+erra buraco
+geme fino
+goza rápido 
+fode mal
+mete e chora
+tapa mole
+meia bomba
+goza e dorme
+geme fe…
 * pq é tão difícil
 * RT @EchoXrayMusic: I went hunting for mushrooms and found tittake mushrooms - [Link](https://twitter.com/EchoXrayMusic/status/1567264061469126656/photo/1) 
 * RT @vittaIe: - [Link](https://twitter.com/vittaIe/status/1567308921202778114/photo/1) 
-* RT @QuirklessStoner: The Admiral fights a Kirin barehanded - [Link](https://twitter.com/QuirklessStoner/status/1567609319629242370/video/1) 
-* RT @QuirklessStoner: I am monster hunter fan - [Link](https://twitter.com/QuirklessStoner/status/1567548969110093824/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
