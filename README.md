@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* amo a mitski
+* RT @st4rgazer444: " the queen is dead " wdym, mitski is still alive...
+* os cara acha q a rainha tinha todo o poder na inglaterra atual kkkjkkkkk
+* @Guibassauro pq nao fez aind?
 *  - [Link](https://twitter.com/yts0l/status/1568015990469939201/photo/1) 
-* its always the septum nose ring ones
-* RT @mitsukileaks: - [Link](https://twitter.com/mitsukileaks/status/1567946864506585094/photo/1) 
-* f betinha
-* you're in the house and i am here in the car cause i just need a quiet place where i can scream how i love you
 
 <!-- last_tweet ends -->
 </details>
