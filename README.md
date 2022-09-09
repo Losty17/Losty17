@@ -53,21 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* @nosensemine @naclr4
-* RT @jujijuliar: soca fofo
-enforca errado
-erra buraco
-geme fino
-goza rápido 
-fode mal
-mete e chora
-tapa mole
-meia bomba
-goza e dorme
-geme fe…
-* pq é tão difícil
-* RT @EchoXrayMusic: I went hunting for mushrooms and found tittake mushrooms - [Link](https://twitter.com/EchoXrayMusic/status/1567264061469126656/photo/1) 
-* RT @vittaIe: - [Link](https://twitter.com/vittaIe/status/1567308921202778114/photo/1) 
+*  - [Link](https://twitter.com/yts0l/status/1568015990469939201/photo/1) 
+* its always the septum nose ring ones
+* RT @mitsukileaks: - [Link](https://twitter.com/mitsukileaks/status/1567946864506585094/photo/1) 
+* f betinha
+* you're in the house and i am here in the car cause i just need a quiet place where i can scream how i love you
 
 <!-- last_tweet ends -->
 </details>
