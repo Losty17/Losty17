@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* amo a mitski
-* RT @st4rgazer444: " the queen is dead " wdym, mitski is still alive...
-* os cara acha q a rainha tinha todo o poder na inglaterra atual kkkjkkkkk
-* @Guibassauro pq nao fez aind?
-*  - [Link](https://twitter.com/yts0l/status/1568015990469939201/photo/1) 
+* RT @heejincitou: - [Link](https://twitter.com/heejincitou/status/1568233665309679616/photo/1) 
+* pf parem de curtir meu tweet falando da *
+* @Guibassauro @sadpwcca no food
+* @sadpwcca clb esquisitoide
+* RT @bailedo17: Fui apaga nossa conversa, celular até travou de tanta mentira que tu me contava
 
 <!-- last_tweet ends -->
 </details>
