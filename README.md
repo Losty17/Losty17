@@ -53,8 +53,8 @@
     </summary>
 
 <!-- last_tweet starts -->
+* 
 * RT @heejincitou: - [Link](https://twitter.com/heejincitou/status/1568233665309679616/photo/1) 
-* pf parem de curtir meu tweet falando da *
 * @Guibassauro @sadpwcca no food
 * @sadpwcca clb esquisitoide
 * RT @bailedo17: Fui apaga nossa conversa, celular até travou de tanta mentira que tu me contava
