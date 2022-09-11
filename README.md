@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @mitskithoughts: mitski's old tweet of the day - [Link](https://twitter.com/mitskithoughts/status/1568683940768268289/photo/1) 
+* codar em C me faz ter q desenhar os conceitos pra entender
+* RT @SWAGPRlNCESS: - [Link](https://twitter.com/SWAGPRlNCESS/status/1568296430854615040/photo/1) 
 * 
 * RT @heejincitou: - [Link](https://twitter.com/heejincitou/status/1568233665309679616/photo/1) 
-* @Guibassauro @sadpwcca no food
-* @sadpwcca clb esquisitoide
-* RT @bailedo17: Fui apaga nossa conversa, celular até travou de tanta mentira que tu me contava
 
 <!-- last_tweet ends -->
 </details>
