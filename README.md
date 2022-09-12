@@ -53,11 +53,14 @@
     </summary>
 
 <!-- last_tweet starts -->
-* @DPowerOfCashew monster hunter world
-* 100% crit chargeblade go brrr - [Link](https://twitter.com/yts0l/status/1568812870649139201/photo/1) 
-* RT @mitskithoughts: mitski's old tweet of the day - [Link](https://twitter.com/mitskithoughts/status/1568683940768268289/photo/1) 
-* codar em C me faz ter q desenhar os conceitos pra entender
-* RT @SWAGPRlNCESS: - [Link](https://twitter.com/SWAGPRlNCESS/status/1568296430854615040/photo/1) 
+* a música nao tá alta o suficiente acho que vou ter que enfiar o fone no meu cu
+* @naclr4 sharkboy e lavagirl
+* RT @mitskithoughts: mitski's old tweet of the day - [Link](https://twitter.com/mitskithoughts/status/1569054110577721345/photo/1) 
+* RT @MemesDnd: But only after it's confirmed:
+🧙🏻‍♂️⚔️🐉
+from: Journalismist
+#dungeonsanddragons #gamenight #5e  #dice #funny  #follow  #bard…
+* RT @disturbingshirt: - [Link](https://twitter.com/disturbingshirt/status/1567326787075543042/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
