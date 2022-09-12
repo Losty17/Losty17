@@ -53,14 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* @nseiingles_ sao
+* RT @danilologic: @sseramemes Já vi isso em algum lugar! - [Link](https://twitter.com/danilologic/status/1569091179857207298/photo/1) 
+* RT @mitskithoughts: mitski's old tweet of the night - [Link](https://twitter.com/mitskithoughts/status/1569192805125472258/photo/1) 
+* muito bom ter mãe narcisista 😆
 * a música nao tá alta o suficiente acho que vou ter que enfiar o fone no meu cu
-* @naclr4 sharkboy e lavagirl
-* RT @mitskithoughts: mitski's old tweet of the day - [Link](https://twitter.com/mitskithoughts/status/1569054110577721345/photo/1) 
-* RT @MemesDnd: But only after it's confirmed:
-🧙🏻‍♂️⚔️🐉
-from: Journalismist
-#dungeonsanddragons #gamenight #5e  #dice #funny  #follow  #bard…
-* RT @disturbingshirt: - [Link](https://twitter.com/disturbingshirt/status/1567326787075543042/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
