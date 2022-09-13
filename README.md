@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* @nseiingles_ sao
-* RT @danilologic: @sseramemes Já vi isso em algum lugar! - [Link](https://twitter.com/danilologic/status/1569091179857207298/photo/1) 
-* RT @mitskithoughts: mitski's old tweet of the night - [Link](https://twitter.com/mitskithoughts/status/1569192805125472258/photo/1) 
-* muito bom ter mãe narcisista 😆
-* a música nao tá alta o suficiente acho que vou ter que enfiar o fone no meu cu
+* RT @sadpwcca: amor geme mais alto eu aindo to ouvindo as vozes
+* @flourykkk @sadpwcca
+* RT @shitpostverdade: - [Link](https://twitter.com/shitpostverdade/status/1569384059033485312/photo/1) 
+* RT @ncrmalpeople: hearing mitski break down laurel hell song by song made me fall in love with the album all over again
+* "homem" fã de mitski
 
 <!-- last_tweet ends -->
 </details>
