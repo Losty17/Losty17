@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @Noorthevirgo: “Awww u remembered” of course I did I’m in love with you
+* @sadpwcca so pq tu eh um dumb
 * RT @shirtsthtgohard: - [Link](https://twitter.com/shirtsthtgohard/status/1569607254885957632/photo/1) 
 * RT @mitskithoughts: mitski's old tweet of the night - [Link](https://twitter.com/mitskithoughts/status/1569559374175125506/photo/1) 
 * RT @sadpwcca: amor geme mais alto eu aindo to ouvindo as vozes
-* @flourykkk @sadpwcca
-* RT @shitpostverdade: - [Link](https://twitter.com/shitpostverdade/status/1569384059033485312/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
