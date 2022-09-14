@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @tristehomo: - [Link](https://twitter.com/tristehomo/status/1569897857385373697/photo/1) 
+* RT @tristehomo: - [Link](https://twitter.com/tristehomo/status/1569899714933583874/photo/1) 
+* RT @PR0GRAMMERHUM0R: Welcome to the club kiddo - [Link](https://twitter.com/PR0GRAMMERHUM0R/status/1569974258989961216/photo/1) 
+* cara i want you da mitski eh apenas
 * RT @Noorthevirgo: “Awww u remembered” of course I did I’m in love with you
-* @sadpwcca so pq tu eh um dumb
-* RT @shirtsthtgohard: - [Link](https://twitter.com/shirtsthtgohard/status/1569607254885957632/photo/1) 
-* RT @mitskithoughts: mitski's old tweet of the night - [Link](https://twitter.com/mitskithoughts/status/1569559374175125506/photo/1) 
-* RT @sadpwcca: amor geme mais alto eu aindo to ouvindo as vozes
 
 <!-- last_tweet ends -->
 </details>
