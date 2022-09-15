@@ -53,11 +53,12 @@
     </summary>
 
 <!-- last_tweet starts -->
+* i didnt know i had a dream, i didnt know until i saw you, so would you tell me if you want me? cause i cant move until you show me
+*  - [Link](https://twitter.com/yts0l/status/1570126170598809605/photo/1) 
+* @sadpwcca leo: *voz triste* isso aqui tem 2 mil calorias?
+literalmente escrito 160 kcal
 * RT @tristehomo: - [Link](https://twitter.com/tristehomo/status/1569897857385373697/photo/1) 
 * RT @tristehomo: - [Link](https://twitter.com/tristehomo/status/1569899714933583874/photo/1) 
-* RT @PR0GRAMMERHUM0R: Welcome to the club kiddo - [Link](https://twitter.com/PR0GRAMMERHUM0R/status/1569974258989961216/photo/1) 
-* cara i want you da mitski eh apenas
-* RT @Noorthevirgo: “Awww u remembered” of course I did I’m in love with you
 
 <!-- last_tweet ends -->
 </details>
