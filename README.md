@@ -53,11 +53,13 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @FelippeRegazio: - cala boca, seu pai usava javascript no backend
+
+insultos do futuro.
 * @spicybabew @sadpwcca
 * oi deus sou eu de novo...
 * @musoverao @sadpwcca
 * @naclr4 ?
-* será q el*s vao t******* logo ou vou ter que colocar meu dedo no meio
 
 <!-- last_tweet ends -->
 </details>
