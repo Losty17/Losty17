@@ -53,12 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* @spicybabew @sadpwcca
+* oi deus sou eu de novo...
+* @musoverao @sadpwcca
 * @naclr4 ?
 * será q el*s vao t******* logo ou vou ter que colocar meu dedo no meio
-* i didnt know i had a dream, i didnt know until i saw you, so would you tell me if you want me? cause i cant move until you show me
-*  - [Link](https://twitter.com/yts0l/status/1570126170598809605/photo/1) 
-* @sadpwcca leo: *voz triste* isso aqui tem 2 mil calorias?
-literalmente escrito 160 kcal
 
 <!-- last_tweet ends -->
 </details>
