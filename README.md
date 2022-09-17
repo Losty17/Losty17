@@ -53,13 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* só queria uma pra jogar mh rise cmg
+* mulheres de cabelo vermelho
+* RT @chuuredflags: - [Link](https://twitter.com/scarfacwe/status/1570607893862555648/photo/1) 
+* tuin extraordinario
 * @byluis_c como que eu vejo algo que não tenho o link? 🤔
-* RT @PazDosPovos: - [Link](https://twitter.com/PazDosPovos/status/1570849255266586630/photo/1) 
-* RT @YumejiArt: Day 16 | Ranged (Double Edge Bow Sword)🏹 - @FrivolousKnight
-
-#pixelart #ドット絵 #swordtember #swordtember2022
-* @byluis_c e qual o defeito
-* saudades da
 
 <!-- last_tweet ends -->
 </details>
