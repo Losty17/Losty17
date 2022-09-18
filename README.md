@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @Drizzyrich14: 2023 is in 3 months an i’m still processing 2019
 * RT @muIheralfa: "mulher" que nao tem franja
 * mitski - class of 2013 while commiting crimes in a high school
 * listening to mitski while a bomb drops off on your neighbourhood
 * só queria uma pra jogar mh rise cmg
-* mulheres de cabelo vermelho
 
 <!-- last_tweet ends -->
 </details>
