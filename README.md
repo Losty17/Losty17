@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @muIheralfa: "mulher" que nao tem franja
+* mitski - class of 2013 while commiting crimes in a high school
+* listening to mitski while a bomb drops off on your neighbourhood
 * só queria uma pra jogar mh rise cmg
 * mulheres de cabelo vermelho
-* RT @chuuredflags: - [Link](https://twitter.com/scarfacwe/status/1570607893862555648/photo/1) 
-* tuin extraordinario
-* @byluis_c como que eu vejo algo que não tenho o link? 🤔
 
 <!-- last_tweet ends -->
 </details>
