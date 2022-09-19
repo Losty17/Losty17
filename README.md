@@ -53,15 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @elyktrix: They call me 007
-
-0 commits
-0 lines of code
-7 new domains
-* RT @btwbasics: é engracado pq uma hora vc acha que a pessoa é sua alma gemea e 2 meses depois vc ta bloqueado no whatsapp instagram twitter…
-* RT @Drizzyrich14: 2023 is in 3 months an i’m still processing 2019
-* RT @muIheralfa: "mulher" que nao tem franja
-* mitski - class of 2013 while commiting crimes in a high school
+* @esposadamitski vanmooooooooooooooooooo
+* alguem mi leva no show da mitskiiiii 😭😭😭
+* preciuso de um cartao com aproximacao logo nao aguento mais usar o vale pra pagar td
+* @sadpwcca mt representativa gosto mt dela
+* hj eu to mt drunk walk home
 
 <!-- last_tweet ends -->
 </details>
