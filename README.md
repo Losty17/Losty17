@@ -53,11 +53,16 @@
     </summary>
 
 <!-- last_tweet starts -->
-* @esposadamitski vanmooooooooooooooooooo
-* alguem mi leva no show da mitskiiiii 😭😭😭
-* preciuso de um cartao com aproximacao logo nao aguento mais usar o vale pra pagar td
-* @sadpwcca mt representativa gosto mt dela
-* hj eu to mt drunk walk home
+* psicologos q atendem das 7 as 8?
+* RT @YumejiArt: Day 19 | Dark Katana 🖤 - @FrivolousKnight
+ 
+#pixelart #ドット絵 #swordtember #swordtember2022 - [Link](https://twitter.com/YumejiArt/status/1571963838131539975/photo/1) 
+* 
+* RT @newascaryan: Janna será a próxima campeã a receber uma atualização de efeitos visuais em suas habilidades
+
+Válido para
+• Janna ( Base )…
+* serasi algum dia vao gostar de mim como eu gostar deles
 
 <!-- last_tweet ends -->
 </details>
