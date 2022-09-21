@@ -53,13 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* gerando energia atraves do cadaver de uma menina de 16 anos
+* virgem 👇
+* RT @PR0GRAMMERHUM0R: - [Link](https://twitter.com/PR0GRAMMERHUM0R/status/1572269385577861121/photo/1) 
 * RT @_meandyourmama: - [Link](https://twitter.com/_meandyourmama/status/1571966082046476291/photo/1) 
 * @sskargnakhh deve ter sido uma experiencia bem divertida
-* psicologos q atendem das 7 as 8?
-* RT @YumejiArt: Day 19 | Dark Katana 🖤 - @FrivolousKnight
- 
-#pixelart #ドット絵 #swordtember #swordtember2022 - [Link](https://twitter.com/YumejiArt/status/1571963838131539975/photo/1) 
-* 
 
 <!-- last_tweet ends -->
 </details>
