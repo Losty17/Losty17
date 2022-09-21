@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* gerando energia atraves do cadaver de uma menina de 16 anos
-* virgem 👇
-* RT @PR0GRAMMERHUM0R: - [Link](https://twitter.com/PR0GRAMMERHUM0R/status/1572269385577861121/photo/1) 
-* RT @_meandyourmama: - [Link](https://twitter.com/_meandyourmama/status/1571966082046476291/photo/1) 
-* @sskargnakhh deve ter sido uma experiencia bem divertida
+* RT @Drakoniques: “Slut era” they mumble as they rush straight home to play in a TTRPG campaign where they, once again, rp an emotionally un…
+* meu tinder
+* my god im so lonely
+* 3 meses já kk vai terminar c essa mocreia aí qnd
+* Sdds dela
 
 <!-- last_tweet ends -->
 </details>
