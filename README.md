@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @Drakoniques: “Slut era” they mumble as they rush straight home to play in a TTRPG campaign where they, once again, rp an emotionally un…
-* meu tinder
-* my god im so lonely
-* 3 meses já kk vai terminar c essa mocreia aí qnd
-* Sdds dela
+* Caralho o GIT tem um comando pra clonar repositorio &amp; historico do SVN, eu te amo git eu te amo
+* @mesquitaand python mil vezes
+* sobbing crying dying
+* @boople__art @sadpwcca
+* RT @PR0GRAMMERHUM0R: nobody mentioned this method of indentation, but to be fair I shouldn't be allowed near a computer
 
 <!-- last_tweet ends -->
 </details>
