@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* Caralho o GIT tem um comando pra clonar repositorio &amp; historico do SVN, eu te amo git eu te amo
-* @mesquitaand python mil vezes
-* sobbing crying dying
-* @boople__art @sadpwcca
-* RT @PR0GRAMMERHUM0R: nobody mentioned this method of indentation, but to be fair I shouldn't be allowed near a computer
+* RT @daiIymadoka: I don’t remember this attack from puella magi madoka magica (2011) - [Link](https://twitter.com/daiIymadoka/status/1572796368430993410/photo/1) 
+* RT @jellygardens: “slut era” i whisper as i try to decide who to romance in stardew valley
+* RT @mitskithoughts: damn mitski is in my dms again - [Link](https://twitter.com/mitskithoughts/status/1572732190232051718/photo/1) 
+* RT @epicdndmemes: #dnd #ttrpg - [Link](https://twitter.com/epicdndmemes/status/1572704328271659008/photo/1) 
+* @Guibassauro foi de comes e bebes
 
 <!-- last_tweet ends -->
 </details>
