@@ -53,13 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @catghxul: in my slut era - [Link](https://twitter.com/catghxul/status/1572999051670265856/photo/1) 
-* RT @talvezaly: eu amo a língua portuguesa sério!!! amo as novas formas de dizer que alguem morreu que ela permitiu criar (elizabetou, olavo…
-* RT @cogitosuicidio: - [Link](https://twitter.com/cogitosuicidio/status/1572722741278642176/photo/1) 
-* RT @nseiingles_: "homem" que tem mommy issues
-* RT @pollyanx: N0550 C3R38R0 C0N536U3
-F423R C01545 1NCR1V315 
-V0U M3 M474R D3P015 D3 4M4NH4
+* RT @Guttergore1: - [Link](https://twitter.com/Guttergore1/status/1573052824711069697/photo/1) 
+* RT @mwdoka: This Is Where I Post From - [Link](https://twitter.com/mwdoka/status/1573274959035736064/photo/1) 
+* RT @rottenm111k: - [Link](https://twitter.com/rottenm111k/status/1572827730764529664/photo/1) 
+* RT @neongeneshit: Até o Bolsonaro resolveu copiar o shinji - [Link](https://twitter.com/neongeneshit/status/1573207909789585408/photo/1) 
+* RT @greenleafgeek: I'm DED - [Link](https://twitter.com/greenleafgeek/status/1572992220009058305/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
