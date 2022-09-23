@@ -53,11 +53,13 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @daiIymadoka: I don’t remember this attack from puella magi madoka magica (2011) - [Link](https://twitter.com/daiIymadoka/status/1572796368430993410/photo/1) 
-* RT @jellygardens: “slut era” i whisper as i try to decide who to romance in stardew valley
-* RT @mitskithoughts: damn mitski is in my dms again - [Link](https://twitter.com/mitskithoughts/status/1572732190232051718/photo/1) 
-* RT @epicdndmemes: #dnd #ttrpg - [Link](https://twitter.com/epicdndmemes/status/1572704328271659008/photo/1) 
-* @Guibassauro foi de comes e bebes
+* RT @catghxul: in my slut era - [Link](https://twitter.com/catghxul/status/1572999051670265856/photo/1) 
+* RT @talvezaly: eu amo a língua portuguesa sério!!! amo as novas formas de dizer que alguem morreu que ela permitiu criar (elizabetou, olavo…
+* RT @cogitosuicidio: - [Link](https://twitter.com/cogitosuicidio/status/1572722741278642176/photo/1) 
+* RT @nseiingles_: "homem" que tem mommy issues
+* RT @pollyanx: N0550 C3R38R0 C0N536U3
+F423R C01545 1NCR1V315 
+V0U M3 M474R D3P015 D3 4M4NH4
 
 <!-- last_tweet ends -->
 </details>
