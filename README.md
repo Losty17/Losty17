@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @avagabruxa: conversar com ex é assim mesmo… - [Link](https://twitter.com/avagabruxa/status/1573042746067148802/photo/1) 
-* maven
-* RT @RespectfulMemes: - [Link](https://twitter.com/RespectfulMemes/status/1573084736838258688/photo/1) 
-* RT @_LobisomemPidao: - [Link](https://twitter.com/_LobisomemPidao/status/1573369417232179200/photo/1) 
-* RT @tchorasse: - [Link](https://twitter.com/tchorasse/status/1573334189180600320/photo/1) 
+* RT @tofudrifter1: - [Link](https://twitter.com/tofudrifter1/status/1573495887606726667/photo/1) 
+* RT @kaban_bang: - [Link](https://twitter.com/kaban_bang/status/1573389852044918789/photo/1) 
+* RT @Yuki_BLC: Parabéns Cyberpunk Edgerunners por ser o único anime que tem a Rebecca - [Link](https://twitter.com/Yuki_BLC/status/1573077448371347457/photo/1) 
+* RT @_miaru: rebecca #cyberpunk - [Link](https://twitter.com/_miaru/status/1572635543305093121/photo/1) 
+* RT @RespectfulMemes: - [Link](https://twitter.com/RespectfulMemes/status/1573386725770018816/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
