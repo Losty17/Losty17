@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @Guttergore1: - [Link](https://twitter.com/Guttergore1/status/1573052824711069697/photo/1) 
-* RT @mwdoka: This Is Where I Post From - [Link](https://twitter.com/mwdoka/status/1573274959035736064/photo/1) 
-* RT @rottenm111k: - [Link](https://twitter.com/rottenm111k/status/1572827730764529664/photo/1) 
-* RT @neongeneshit: Até o Bolsonaro resolveu copiar o shinji - [Link](https://twitter.com/neongeneshit/status/1573207909789585408/photo/1) 
-* RT @greenleafgeek: I'm DED - [Link](https://twitter.com/greenleafgeek/status/1572992220009058305/photo/1) 
+* RT @avagabruxa: conversar com ex é assim mesmo… - [Link](https://twitter.com/avagabruxa/status/1573042746067148802/photo/1) 
+* maven
+* RT @RespectfulMemes: - [Link](https://twitter.com/RespectfulMemes/status/1573084736838258688/photo/1) 
+* RT @_LobisomemPidao: - [Link](https://twitter.com/_LobisomemPidao/status/1573369417232179200/photo/1) 
+* RT @tchorasse: - [Link](https://twitter.com/tchorasse/status/1573334189180600320/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
