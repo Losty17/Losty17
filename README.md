@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* @naclr4 oq
 * vi um vídeo de casal combinando bio no insta e fiquei triste
 * ainda gosto dela? (pergunta?)
 * RT @NetflixBrasil: Diga: Boa Tarde, Geralt, que saudade! IMEDIATAMENTE. A nova temporada de The Witcher estreia em 2023. #NetflixTudum http…
 * RT @MatiasPe_: Arranquemos el día con noticias que verdaderamente importan: - [Link](https://twitter.com/MatiasPe_/status/1573272458186170371/video/1) 
-* respirar eh mt bom ne
 
 <!-- last_tweet ends -->
 </details>
