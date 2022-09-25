@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @tofudrifter1: - [Link](https://twitter.com/tofudrifter1/status/1573495887606726667/photo/1) 
-* RT @kaban_bang: - [Link](https://twitter.com/kaban_bang/status/1573389852044918789/photo/1) 
-* RT @Yuki_BLC: Parabéns Cyberpunk Edgerunners por ser o único anime que tem a Rebecca - [Link](https://twitter.com/Yuki_BLC/status/1573077448371347457/photo/1) 
-* RT @_miaru: rebecca #cyberpunk - [Link](https://twitter.com/_miaru/status/1572635543305093121/photo/1) 
-* RT @RespectfulMemes: - [Link](https://twitter.com/RespectfulMemes/status/1573386725770018816/photo/1) 
+* vi um vídeo de casal combinando bio no insta e fiquei triste
+* ainda gosto dela? (pergunta?)
+* RT @NetflixBrasil: Diga: Boa Tarde, Geralt, que saudade! IMEDIATAMENTE. A nova temporada de The Witcher estreia em 2023. #NetflixTudum http…
+* RT @MatiasPe_: Arranquemos el día con noticias que verdaderamente importan: - [Link](https://twitter.com/MatiasPe_/status/1573272458186170371/video/1) 
+* respirar eh mt bom ne
 
 <!-- last_tweet ends -->
 </details>
