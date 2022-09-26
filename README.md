@@ -53,11 +53,12 @@
     </summary>
 
 <!-- last_tweet starts -->
-* @naclr4 oq
-* vi um vídeo de casal combinando bio no insta e fiquei triste
-* ainda gosto dela? (pergunta?)
-* RT @NetflixBrasil: Diga: Boa Tarde, Geralt, que saudade! IMEDIATAMENTE. A nova temporada de The Witcher estreia em 2023. #NetflixTudum http…
-* RT @MatiasPe_: Arranquemos el día con noticias que verdaderamente importan: - [Link](https://twitter.com/MatiasPe_/status/1573272458186170371/video/1) 
+* RT @whotfisjovana: - [Link](https://twitter.com/whotfisjovana/status/1574064058826997762/photo/1) 
+* codando em python pra aliviar o stressss
+* dps do arco final tem o arco do pos vida
+* tomei a ultima ceia guys 🙏🙏 amanha eh o ato final
+* RT @feedmetrash: Lucy's dream. 
+#エッジランナーズ #cyberpunk #Edgerunners - [Link](https://twitter.com/feedmetrash/status/1573923139356090370/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
