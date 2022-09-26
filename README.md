@@ -53,12 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* vou transformar meu perfil numa página de adoração a ****** até ela resolver ******** *** ** *** ** **** ** ***** **** *** ** **** ***
 * RT @whotfisjovana: - [Link](https://twitter.com/whotfisjovana/status/1574064058826997762/photo/1) 
 * codando em python pra aliviar o stressss
 * dps do arco final tem o arco do pos vida
 * tomei a ultima ceia guys 🙏🙏 amanha eh o ato final
-* RT @feedmetrash: Lucy's dream. 
-#エッジランナーズ #cyberpunk #Edgerunners - [Link](https://twitter.com/feedmetrash/status/1573923139356090370/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
