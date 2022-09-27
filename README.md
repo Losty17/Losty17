@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @ArenaMeiaNoite: Melhor frase q eu ouvi hj "ketchup de picles e javascript"
-* RT @Drinpedream: Eu sou uma pessoa simples. Vivo apenas de Ketchup de picles e JavaScript
-* RT @Guttergore1: - [Link](https://twitter.com/Guttergore1/status/1574299142469218304/photo/1) 
-* RT @Bubbaloo_Brasil: Tá td bem amor? vc mal tocou no seu Bubbaloo brigadeiro - [Link](https://twitter.com/Bubbaloo_Brasil/status/1574426049521373185/photo/1) 
-* ele é programador..........
+* RT @tchorasse: setembro amarelo acabando finalmente vou poder voltar a responder os outros com aquelas 3 letrinhas magicas
+* tem coisas que eu penso nem no twitter eu tenho coragem de postar
+* RT @whotfisjovana: - [Link](https://twitter.com/whotfisjovana/status/1574494921645604890/photo/1) 
+* RT @jgcmarins: Não sei se está claro para todos, mas type em JS não garante nada em runtime.
+* RT @NimaYamini: “you changed” bro i was 15
 
 <!-- last_tweet ends -->
 </details>
