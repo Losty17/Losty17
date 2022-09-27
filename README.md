@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* vou transformar meu perfil numa página de adoração a ****** até ela resolver ******** *** ** *** ** **** ** ***** **** *** ** **** ***
-* RT @whotfisjovana: - [Link](https://twitter.com/whotfisjovana/status/1574064058826997762/photo/1) 
-* codando em python pra aliviar o stressss
-* dps do arco final tem o arco do pos vida
-* tomei a ultima ceia guys 🙏🙏 amanha eh o ato final
+* RT @ArenaMeiaNoite: Melhor frase q eu ouvi hj "ketchup de picles e javascript"
+* RT @Drinpedream: Eu sou uma pessoa simples. Vivo apenas de Ketchup de picles e JavaScript
+* RT @Guttergore1: - [Link](https://twitter.com/Guttergore1/status/1574299142469218304/photo/1) 
+* RT @Bubbaloo_Brasil: Tá td bem amor? vc mal tocou no seu Bubbaloo brigadeiro - [Link](https://twitter.com/Bubbaloo_Brasil/status/1574426049521373185/photo/1) 
+* ele é programador..........
 
 <!-- last_tweet ends -->
 </details>
