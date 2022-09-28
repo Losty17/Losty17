@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @tchorasse: setembro amarelo acabando finalmente vou poder voltar a responder os outros com aquelas 3 letrinhas magicas
-* tem coisas que eu penso nem no twitter eu tenho coragem de postar
-* RT @whotfisjovana: - [Link](https://twitter.com/whotfisjovana/status/1574494921645604890/photo/1) 
-* RT @jgcmarins: Não sei se está claro para todos, mas type em JS não garante nada em runtime.
-* RT @NimaYamini: “you changed” bro i was 15
+* internet da unisc go brrr
+* @Guibassauro quer ser igual ao leo?
+* eu_nvr
+* RT @whotfisjovana: - [Link](https://twitter.com/whotfisjovana/status/1574543496446447618/photo/1) 
+* RT @deathbybadger: ME (a dungeon master): it's been three years, you should know how this one spell works by now, it's one basic addition s…
 
 <!-- last_tweet ends -->
 </details>
