@@ -53,11 +53,17 @@
     </summary>
 
 <!-- last_tweet starts -->
-* internet da unisc go brrr
-* @Guibassauro quer ser igual ao leo?
-* eu_nvr
-* RT @whotfisjovana: - [Link](https://twitter.com/whotfisjovana/status/1574543496446447618/photo/1) 
-* RT @deathbybadger: ME (a dungeon master): it's been three years, you should know how this one spell works by now, it's one basic addition s…
+* @byluis_c te aquieta ai meu bruxo
+* RT @nixcraft: seriously? - [Link](https://twitter.com/nixcraft/status/1575067908509642752/photo/1) 
+* RT @whotfisjovana: - [Link](https://twitter.com/whotfisjovana/status/1574861214634713089/photo/1) 
+* mitski pinto dos santos
+* RT @adhdjesse: I hate deadlines
+(but I need deadlines)
+
+&amp;
+
+I hate structure
+(but I need structure)
 
 <!-- last_tweet ends -->
 </details>
