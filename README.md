@@ -53,17 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* @byluis_c te aquieta ai meu bruxo
-* RT @nixcraft: seriously? - [Link](https://twitter.com/nixcraft/status/1575067908509642752/photo/1) 
-* RT @whotfisjovana: - [Link](https://twitter.com/whotfisjovana/status/1574861214634713089/photo/1) 
-* mitski pinto dos santos
-* RT @adhdjesse: I hate deadlines
-(but I need deadlines)
-
-&amp;
-
-I hate structure
-(but I need structure)
+* gurizada fã de ordem não entendeu ainda que se tu ver um bicho tu tem que correr pra longe não pra cima. nunca joga…
+* RT @neongeneshit: - [Link](https://twitter.com/neongeneshit/status/1575209885305798672/photo/1) 
+* @couldbeusgoaIs @pwccv
+* RT @remy4real23: shein factory workers on their way to work - [Link](https://twitter.com/remy4real23/status/1574477663875612685/video/1) 
+* @naclr4 que fofo
 
 <!-- last_tweet ends -->
 </details>
