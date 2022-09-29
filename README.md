@@ -53,11 +53,14 @@
     </summary>
 
 <!-- last_tweet starts -->
-* gurizada fã de ordem não entendeu ainda que se tu ver um bicho tu tem que correr pra longe não pra cima. nunca joga…
-* RT @neongeneshit: - [Link](https://twitter.com/neongeneshit/status/1575209885305798672/photo/1) 
-* @couldbeusgoaIs @pwccv
-* RT @remy4real23: shein factory workers on their way to work - [Link](https://twitter.com/remy4real23/status/1574477663875612685/video/1) 
-* @naclr4 que fofo
+* vscode travando de 5 em 5 min vou ter q codar no notepad++ agora
+* RT @Ifuckmymandi: "minha psicóloga me falou"= mentira
+"Li em um artigo"= leu um tweet
+"Meu médico me disse"= delírio 
+"Me falaram"= foram a…
+* @DPowerOfCashew remoto US, 9k/mês mais ou menos, esqueci de salvar a vaga no LinkedIn
+* RT @leozaoqr: Eu recebi uma proposta de 30k/mês pra trampar com PHP no pornhub. Foda é a vergonha de falar pra minha família que eu tô tram…
+* RT @PR0GRAMMERHUM0R: And that's why I hate dealing with memory management - [Link](https://twitter.com/PR0GRAMMERHUM0R/status/1575440277111816193/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
