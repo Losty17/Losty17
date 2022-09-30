@@ -53,14 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* vscode travando de 5 em 5 min vou ter q codar no notepad++ agora
-* RT @Ifuckmymandi: "minha psicóloga me falou"= mentira
-"Li em um artigo"= leu um tweet
-"Meu médico me disse"= delírio 
-"Me falaram"= foram a…
-* @DPowerOfCashew remoto US, 9k/mês mais ou menos, esqueci de salvar a vaga no LinkedIn
-* RT @leozaoqr: Eu recebi uma proposta de 30k/mês pra trampar com PHP no pornhub. Foda é a vergonha de falar pra minha família que eu tô tram…
-* RT @PR0GRAMMERHUM0R: And that's why I hate dealing with memory management - [Link](https://twitter.com/PR0GRAMMERHUM0R/status/1575440277111816193/photo/1) 
+* @Jotapekl a vica
+* @pwccv para de twittar
+* @pwccv @nseiingles_ vale sim
+* RT @QuirklessStoner: THEY RUINED MONSTER HUNTER - [Link](https://twitter.com/QuirklessStoner/status/1575558291996168193/photo/1) 
+* @Guibassauro @prazer_robert onde é esse AP? tô precisando
 
 <!-- last_tweet ends -->
 </details>
