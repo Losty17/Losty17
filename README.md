@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* se tu faz um curso de computação e não trabalha o mínimo que tu precisa é passar o teu tempo livre programando. 2 s…
 * @Jotapekl a vica
 * @pwccv para de twittar
 * @pwccv @nseiingles_ vale sim
 * RT @QuirklessStoner: THEY RUINED MONSTER HUNTER - [Link](https://twitter.com/QuirklessStoner/status/1575558291996168193/photo/1) 
-* @Guibassauro @prazer_robert onde é esse AP? tô precisando
 
 <!-- last_tweet ends -->
 </details>
