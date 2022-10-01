@@ -53,11 +53,13 @@
     </summary>
 
 <!-- last_tweet starts -->
-* se tu faz um curso de computação e não trabalha o mínimo que tu precisa é passar o teu tempo livre programando. 2 s…
-* @Jotapekl a vica
-* @pwccv para de twittar
-* @pwccv @nseiingles_ vale sim
-* RT @QuirklessStoner: THEY RUINED MONSTER HUNTER - [Link](https://twitter.com/QuirklessStoner/status/1575558291996168193/photo/1) 
+* so aparece coisa de femcel pra mim em todos os lugares será q eu sou uma femcel
+* RT @the_unix_guru: 😂 - [Link](https://twitter.com/the_unix_guru/status/1575803458871070725/photo/1) 
+* qualquer um que for *** ** ******* saia ja do meu perfil
+* RT @SamComerford24: “I’m a creep, I’m a weirdo.” 
+
+Ok? I’m making DnD characters I’ll never get to play as a coping mechanism?
+* @pwccv pra ****** *** ****
 
 <!-- last_tweet ends -->
 </details>
