@@ -53,13 +53,15 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @Felcca: senhor candidato imagine q numa cadeira tem um bolo
-* so aparece coisa de femcel pra mim em todos os lugares será q eu sou uma femcel
-* RT @the_unix_guru: 😂 - [Link](https://twitter.com/the_unix_guru/status/1575803458871070725/photo/1) 
-* qualquer um que for *** ** ******* saia ja do meu perfil
-* RT @SamComerford24: “I’m a creep, I’m a weirdo.” 
+* RT @DailyLoud: 1,000 drones made up this Dragon 🐉🔥 - [Link](https://twitter.com/kashthefuturist/status/1575647276755693569/video/1) 
+* RT @_patryc_: in 1920 we took children out of the coal mines 
 
-Ok? I’m making DnD characters I’ll never get to play as a coping mechanism?
+in 2020, the most popular video game on the market is minecraft.
+
+the childr…
+* @sskargnakhh * 🙂
+* caralho finalmente acabou setembro agora ja posso  *****
+* spooky season ou algo assim
 
 <!-- last_tweet ends -->
 </details>
