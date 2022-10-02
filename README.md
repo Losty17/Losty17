@@ -53,15 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @DailyLoud: 1,000 drones made up this Dragon 🐉🔥 - [Link](https://twitter.com/kashthefuturist/status/1575647276755693569/video/1) 
-* RT @_patryc_: in 1920 we took children out of the coal mines 
-
-in 2020, the most popular video game on the market is minecraft.
-
-the childr…
-* @sskargnakhh * 🙂
-* caralho finalmente acabou setembro agora ja posso  *****
-* spooky season ou algo assim
+* RT @pagsemgraca: - [Link](https://twitter.com/pagsemgraca/status/1576272426630905856/photo/1) 
+* RT @memesminezinho: - [Link](https://twitter.com/memesminezinho/status/1576053520998227969/photo/1) 
+* RT @IsaKrueger666: - [Link](https://twitter.com/IsaKrueger666/status/1576196825178312704/photo/1) 
+* RT @geraldd_tv: a ideia de dizer "estamos tentando ter um bebe" eh muito complexa pq eh so outra maneira de dizer Estamos Tuchando E Jogand…
+* RT @PR0GRAMMERHUM0R: JetBrains - [Link](https://twitter.com/PR0GRAMMERHUM0R/status/1576406645978107904/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
