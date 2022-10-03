@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+*  - [Link](https://twitter.com/yts0l/status/1576907120343396352/photo/1) 
+* @pwccv quero dar rt
+* @khonarh_ pela vontade de jesus cale esta boca puta que pariu
 * caralho eu tava bem há tantos dias e uma mera ação da ****** conseguiu me destruir por completo eu vou me m
 * RT @comunivia: mano como q o bolsonaro tem mais votos q habitantes no mundo? isso e fraude wtf - [Link](https://twitter.com/comunivia/status/1576689251730993152/photo/1) 
-* @khonarh_ 😆 nem te conto
-* @pwccv @khonarh_ 🙄
-* quando será que ela vai se matar por conta própria será que eu vou ter que interferir?
 
 <!-- last_tweet ends -->
 </details>
