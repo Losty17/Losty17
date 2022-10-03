@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @pagsemgraca: - [Link](https://twitter.com/pagsemgraca/status/1576272426630905856/photo/1) 
-* RT @memesminezinho: - [Link](https://twitter.com/memesminezinho/status/1576053520998227969/photo/1) 
-* RT @IsaKrueger666: - [Link](https://twitter.com/IsaKrueger666/status/1576196825178312704/photo/1) 
-* RT @geraldd_tv: a ideia de dizer "estamos tentando ter um bebe" eh muito complexa pq eh so outra maneira de dizer Estamos Tuchando E Jogand…
-* RT @PR0GRAMMERHUM0R: JetBrains - [Link](https://twitter.com/PR0GRAMMERHUM0R/status/1576406645978107904/photo/1) 
+* caralho eu tava bem há tantos dias e uma mera ação da ****** conseguiu me destruir por completo eu vou me m
+* RT @comunivia: mano como q o bolsonaro tem mais votos q habitantes no mundo? isso e fraude wtf - [Link](https://twitter.com/comunivia/status/1576689251730993152/photo/1) 
+* @khonarh_ 😆 nem te conto
+* @pwccv @khonarh_ 🙄
+* quando será que ela vai se matar por conta própria será que eu vou ter que interferir?
 
 <!-- last_tweet ends -->
 </details>
