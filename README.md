@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-*  - [Link](https://twitter.com/yts0l/status/1576907120343396352/photo/1) 
-* @pwccv quero dar rt
-* @khonarh_ pela vontade de jesus cale esta boca puta que pariu
-* caralho eu tava bem há tantos dias e uma mera ação da ****** conseguiu me destruir por completo eu vou me m
-* RT @comunivia: mano como q o bolsonaro tem mais votos q habitantes no mundo? isso e fraude wtf - [Link](https://twitter.com/comunivia/status/1576689251730993152/photo/1) 
+* RT @images_i_love: spooky season - [Link](https://twitter.com/images_i_love/status/1576954069083893765/photo/1) 
+* RT @memepantazis: What’s up choom? Need something? - [Link](https://twitter.com/memepantazis/status/1577038009576263680/photo/1) 
+* 
+* RT @hatsune0_0: - [Link](https://twitter.com/hatsune0_0/status/1576688996482043905/photo/1) 
+* RT @mari_meir: the reason why we write SQL commands all in caps is bc it stands for screaming query language
 
 <!-- last_tweet ends -->
 </details>
