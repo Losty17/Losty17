@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* RT @chanceverdade: - [Link](https://twitter.com/chanceverdade/status/1577053141895634944/photo/1) 
 * RT @images_i_love: spooky season - [Link](https://twitter.com/images_i_love/status/1576954069083893765/photo/1) 
 * RT @memepantazis: What’s up choom? Need something? - [Link](https://twitter.com/memepantazis/status/1577038009576263680/photo/1) 
 * 
 * RT @hatsune0_0: - [Link](https://twitter.com/hatsune0_0/status/1576688996482043905/photo/1) 
-* RT @mari_meir: the reason why we write SQL commands all in caps is bc it stands for screaming query language
 
 <!-- last_tweet ends -->
 </details>
