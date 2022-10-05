@@ -53,14 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* @pwccv literalmente nao muda nada
-* @pwccv em C e afins eh lido tipo eu fiz isso ? entao faz isso : senao isso
-
-no python eh faz isso se eu fizer isso senao faz isso
-* @pwccv podre eh teu pau
-* RT @Viper_XTR: Just finished watching it, draw something before sleepzzz #サイバーパンクエッジランナーズ 
-#CyberpunkEdgerunners - [Link](https://twitter.com/Viper_XTR/status/1576953005378658304/photo/1) 
-* RT @PR0GRAMMERHUM0R: Just put the condition first like everybody else! - [Link](https://twitter.com/PR0GRAMMERHUM0R/status/1577403213405425696/photo/1) 
+* @Jotapekl também acho infelizmente nao posso fugir disso
+* justamente esse mes que faz 1 ano
+* @pwccv se algum dia eu perdoar ela por favor me espanque ate eu desperdoar ela
+* RT @tristehomo: - [Link](https://twitter.com/tristehomo/status/1577339269537886208/photo/1) 
+* e eu sei que tu ta lendo isso e eu espero que tu sinta mt culpa por isso pq eu ainda deixo escapar pros outros que te amo
 
 <!-- last_tweet ends -->
 </details>
