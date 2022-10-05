@@ -53,11 +53,14 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @chanceverdade: - [Link](https://twitter.com/chanceverdade/status/1577053141895634944/photo/1) 
-* RT @images_i_love: spooky season - [Link](https://twitter.com/images_i_love/status/1576954069083893765/photo/1) 
-* RT @memepantazis: What’s up choom? Need something? - [Link](https://twitter.com/memepantazis/status/1577038009576263680/photo/1) 
-* 
-* RT @hatsune0_0: - [Link](https://twitter.com/hatsune0_0/status/1576688996482043905/photo/1) 
+* @pwccv literalmente nao muda nada
+* @pwccv em C e afins eh lido tipo eu fiz isso ? entao faz isso : senao isso
+
+no python eh faz isso se eu fizer isso senao faz isso
+* @pwccv podre eh teu pau
+* RT @Viper_XTR: Just finished watching it, draw something before sleepzzz #サイバーパンクエッジランナーズ 
+#CyberpunkEdgerunners - [Link](https://twitter.com/Viper_XTR/status/1576953005378658304/photo/1) 
+* RT @PR0GRAMMERHUM0R: Just put the condition first like everybody else! - [Link](https://twitter.com/PR0GRAMMERHUM0R/status/1577403213405425696/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
