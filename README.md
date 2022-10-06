@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* @pwccv ASJDAUISDAIUSDH TU EH PATETICO
+* eu vou literalmente me matar
+* RT @tokoissickk: - [Link](https://twitter.com/tokoissickk/status/1577547978914643968/photo/1) 
+* RT @SigmaMemes_69: - [Link](https://twitter.com/SigmaMemes_69/status/1577634424849633280/photo/1) 
 * @Jotapekl também acho infelizmente nao posso fugir disso
-* justamente esse mes que faz 1 ano
-* @pwccv se algum dia eu perdoar ela por favor me espanque ate eu desperdoar ela
-* RT @tristehomo: - [Link](https://twitter.com/tristehomo/status/1577339269537886208/photo/1) 
-* e eu sei que tu ta lendo isso e eu espero que tu sinta mt culpa por isso pq eu ainda deixo escapar pros outros que te amo
 
 <!-- last_tweet ends -->
 </details>
