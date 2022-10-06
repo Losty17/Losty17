@@ -53,11 +53,12 @@
     </summary>
 
 <!-- last_tweet starts -->
-* @pwccv ASJDAUISDAIUSDH TU EH PATETICO
-* eu vou literalmente me matar
-* RT @tokoissickk: - [Link](https://twitter.com/tokoissickk/status/1577547978914643968/photo/1) 
-* RT @SigmaMemes_69: - [Link](https://twitter.com/SigmaMemes_69/status/1577634424849633280/photo/1) 
-* @Jotapekl também acho infelizmente nao posso fugir disso
+* RT @lilowch: “what do you wanna be for halloween?” i just wanna be happy bro
+* RT @whotfisjovana: - [Link](https://twitter.com/whotfisjovana/status/1577951217724149764/photo/1) 
+* RT @EngineerRabbit: Um livro pra você n̶ã̶o̶ comprar.
+Mas as vezes pode. - [Link](https://twitter.com/EngineerRabbit/status/1577636262227353601/photo/1) 
+* RT @betto_araujo19: Toda vez que acontece alguma inconsistência no app do Nubank eu lembre desse meme - [Link](https://twitter.com/betto_araujo19/status/1577672854123986944/photo/1) 
+* RT @soucitacao: - [Link](https://twitter.com/soucitacao/status/1577683818265321472/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
