@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
+* @mitsufofff @pwccv
+* por favor alguma mulher de cabelo vermelho meio ou muito doida da cabeça apareça e arrume minha vida depois destrua ela dnv
+* aquela mulher me destruiu tanto que eu não consigo sair sem pensar que vou esbarrar nela alguma hora
 * HAH4AH4HA4HA4HA4HAH4AH4AH4HA4HAH vou coringar
 * RT @whotfisjovana: - [Link](https://twitter.com/whotfisjovana/status/1578007831638429698/photo/1) 
-* RT @Cats_Culture: - [Link](https://twitter.com/Cats_Culture/status/1578052465026650113/photo/1) 
-* RT @AerialLiz: my supp rly queuing missing image primary missing image secondary lol - [Link](https://twitter.com/AerialLiz/status/1577751321272369180/photo/1) 
-* RT @nickpupo: My dad wants me to marry an Italian woman but he won’t say it explicitly. I’ll be like “dad I met a girl” and he’ll be like “…
 
 <!-- last_tweet ends -->
 </details>
