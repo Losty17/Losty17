@@ -53,12 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @lilowch: “what do you wanna be for halloween?” i just wanna be happy bro
-* RT @whotfisjovana: - [Link](https://twitter.com/whotfisjovana/status/1577951217724149764/photo/1) 
-* RT @EngineerRabbit: Um livro pra você n̶ã̶o̶ comprar.
-Mas as vezes pode. - [Link](https://twitter.com/EngineerRabbit/status/1577636262227353601/photo/1) 
-* RT @betto_araujo19: Toda vez que acontece alguma inconsistência no app do Nubank eu lembre desse meme - [Link](https://twitter.com/betto_araujo19/status/1577672854123986944/photo/1) 
-* RT @soucitacao: - [Link](https://twitter.com/soucitacao/status/1577683818265321472/photo/1) 
+* HAH4AH4HA4HA4HA4HAH4AH4AH4HA4HAH vou coringar
+* RT @whotfisjovana: - [Link](https://twitter.com/whotfisjovana/status/1578007831638429698/photo/1) 
+* RT @Cats_Culture: - [Link](https://twitter.com/Cats_Culture/status/1578052465026650113/photo/1) 
+* RT @AerialLiz: my supp rly queuing missing image primary missing image secondary lol - [Link](https://twitter.com/AerialLiz/status/1577751321272369180/photo/1) 
+* RT @nickpupo: My dad wants me to marry an Italian woman but he won’t say it explicitly. I’ll be like “dad I met a girl” and he’ll be like “…
 
 <!-- last_tweet ends -->
 </details>
