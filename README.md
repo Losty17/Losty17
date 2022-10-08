@@ -53,11 +53,12 @@
     </summary>
 
 <!-- last_tweet starts -->
-* @mitsufofff @pwccv
-* por favor alguma mulher de cabelo vermelho meio ou muito doida da cabeça apareça e arrume minha vida depois destrua ela dnv
-* aquela mulher me destruiu tanto que eu não consigo sair sem pensar que vou esbarrar nela alguma hora
-* HAH4AH4HA4HA4HA4HAH4AH4AH4HA4HAH vou coringar
-* RT @whotfisjovana: - [Link](https://twitter.com/whotfisjovana/status/1578007831638429698/photo/1) 
+* RT @cinemagrath: - [Link](https://twitter.com/cinemagrath/status/1578501851284377600/photo/1) 
+* RT @PR0GRAMMERHUM0R: He's not wrong. - [Link](https://twitter.com/PR0GRAMMERHUM0R/status/1578490375026581505/photo/1) 
+* RT @clcoding: 120 : Remove Image Background using Python - [Link](https://twitter.com/clcoding/status/1578192383144910848/photo/1) 
+* sim sim eu dont mind vc mentir pra mim for 8 months nos ainda podemos be friends
+* all by himself sittin alone
+i hope were still friends yeah i hope you dont mind
 
 <!-- last_tweet ends -->
 </details>
