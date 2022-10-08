@@ -53,12 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @cinemagrath: - [Link](https://twitter.com/cinemagrath/status/1578501851284377600/photo/1) 
-* RT @PR0GRAMMERHUM0R: He's not wrong. - [Link](https://twitter.com/PR0GRAMMERHUM0R/status/1578490375026581505/photo/1) 
-* RT @clcoding: 120 : Remove Image Background using Python - [Link](https://twitter.com/clcoding/status/1578192383144910848/photo/1) 
-* sim sim eu dont mind vc mentir pra mim for 8 months nos ainda podemos be friends
-* all by himself sittin alone
-i hope were still friends yeah i hope you dont mind
+* RT @Guttergore1: - [Link](https://twitter.com/Guttergore1/status/1578586317566660608/photo/1) 
+* RT @SeiErrado: - [Link](https://twitter.com/SeiErrado/status/1578496700640940032/photo/1) 
+* @pwccv vem cá e eu traduzo
+* RT @OutraSilvoca: Nesse mês de outubro eu estou participando do desafio chamado "Outubro", que consiste em sobreviver a todos os dias de ou…
+* @cyberbot0 eu tb
 
 <!-- last_tweet ends -->
 </details>
