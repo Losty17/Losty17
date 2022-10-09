@@ -53,11 +53,11 @@
     </summary>
 
 <!-- last_tweet starts -->
-* RT @Guttergore1: - [Link](https://twitter.com/Guttergore1/status/1578586317566660608/photo/1) 
-* RT @SeiErrado: - [Link](https://twitter.com/SeiErrado/status/1578496700640940032/photo/1) 
-* @pwccv vem cá e eu traduzo
-* RT @OutraSilvoca: Nesse mês de outubro eu estou participando do desafio chamado "Outubro", que consiste em sobreviver a todos os dias de ou…
-* @cyberbot0 eu tb
+* RT @Nooramorph: "monster hunter has no lore" the lore is you hunt the monsters and make weapons out of them to hunt bigger ones
+* amanda nos trending topics...
+* RT @larissakethyy: tenho paladar infantil (amo peitos
+* RT @SigmaMemes_69: - [Link](https://twitter.com/SigmaMemes_69/status/1578793571813322752/photo/1) 
+* RT @KMaskiArt: MONSTERS of #MonsterHunter Vol.2 - [Link](https://twitter.com/KMaskiArt/status/1578752730490806273/photo/1) 
 
 <!-- last_tweet ends -->
 </details>
