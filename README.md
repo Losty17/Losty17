@@ -9,7 +9,7 @@
 
   - ❤️ I've been a hobbyist programmer since 2016
   - 🖥️ My passion started with robotics and [Scratch](https://scratch.mit.edu) at 12 years old
-  - #️⃣ Most of my code are written in Python and TypeScript
+  - #️⃣ Most of my code is written in Python and TypeScript
   - 🦀 I love to play with low-level languages like Rust
   - 🇧🇷 I'm from [Rio Grande do Sul, Brasil](https://en.wikipedia.org/wiki/Rio_Grande_do_Sul)
   - 📺 My favourite show is Mahou Shoujo Madoka★Magica
