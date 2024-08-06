@@ -1,4 +1,4 @@
-<img src="res/night-city.gif" width="100%">
+<img src="res/night-city-banner.gif" width="100%">
 
 <h2><img src="res/kyubey.gif"> About me</h2>
 
