@@ -2,7 +2,7 @@
 <img src="res/night-city-banner.gif" width="100%">
 
 <div>
-  <img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=vinikappke17&unique={true|1|on|yes}" alt="Spotify most recent listens">
+  <img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=vinikappke17&unique={true|1|on|yes}&count=4" alt="Spotify most recent listens">
   <div>
 
   ### 💭 A few things about me
